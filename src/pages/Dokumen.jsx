@@ -13,32 +13,7 @@ export default function Dokumen() {
         {
           nama: "SPO",
           drive: "https://drive.google.com/drive/folders/1We3zDIt7gaove0UYPhQssQRnO41ymbXT?hl=id",
-          password: "spo123",
-        },
-        {
-          nama: "IK",
-          drive: "https://drive.google.com/drive/folders/rkk-klinik",
-          password: "ik123",
-        },
-        {
-          nama: "RKK",
-          drive: "https://drive.google.com/drive/folders/1Cp2umiLJxtN5PJcV7Yub9nwVx1_jLLdt?hl=id",
-          password: "rkk123",
-        },
-        {
-          nama: "kebijakan",
-          drive: "https://drive.google.com/drive/folders/1kH99vHJkh5LHSBfFm4iadFLXoVbwDfuM?hl=id",
-          password: "kebijakan123",
-        },
-        {
-          nama: "laporan",
-          drive: "https://drive.google.com/drive/folders/11io7JeKLXmgKm3i2QLRssfHisg2R2POO?hl=id",
-          password: "laporan123",
-        },
-        {
-          nama: "Pedoman",
-          drive: "https://drive.google.com/drive/folders/1C42Jbv3LF36af5q7TutR_L4fDFIfR-GS?hl=id",
-          password: "pedoman123",
+          password: "igd",
         },
       ],
     },
@@ -48,42 +23,7 @@ export default function Dokumen() {
         {
           nama: "SPO",
           drive: "https://drive.google.com/drive/folders/spo-perawat",
-          password: "spo123",
-        },
-        {
-          nama: "RKK",
-          drive: "https://drive.google.com/drive/folders/rkk-perawat",
-          password: "rkk123",
-        },
-      ],
-    },
-    {
-      nama: "IT",
-      kategori: [
-        {
-          nama: "SOP IT",
-          drive: "https://drive.google.com/drive/folders/it",
-          password: "it123",
-        },
-      ],
-    },
-    {
-      nama: "Radiologi",
-      kategori: [
-        {
-          nama: "SOP IT",
-          drive: "https://drive.google.com/drive/folders/it",
-          password: "it123",
-        },
-      ],
-    },
-    {
-      nama: "Laboratorium",
-      kategori: [
-        {
-          nama: "SOP IT",
-          drive: "https://drive.google.com/drive/folders/it",
-          password: "it123",
+          password: "keperawatan",
         },
       ],
     },
@@ -91,9 +31,9 @@ export default function Dokumen() {
       nama: "Poliklinik",
       kategori: [
         {
-          nama: "SOP IT",
+          nama: "SOP",
           drive: "https://drive.google.com/drive/folders/it",
-          password: "it123",
+          password: "poliklinik",
         },
       ],
     },
@@ -101,19 +41,19 @@ export default function Dokumen() {
       nama: "Rawat Inap",
       kategori: [
         {
-          nama: "SOP IT",
+          nama: "SOP",
           drive: "https://drive.google.com/drive/folders/it",
-          password: "it123",
+          password: "rawatinap",
         },
       ],
     },
     {
-      nama: "CSSD",
+      nama: "IBS",
       kategori: [
         {
-          nama: "SOP IT",
+          nama: "SOP ",
           drive: "https://drive.google.com/drive/folders/it",
-          password: "it123",
+          password: "ibs",
         },
       ],
     },
@@ -121,9 +61,9 @@ export default function Dokumen() {
       nama: "ICU",
       kategori: [
         {
-          nama: "SOP IT",
+          nama: "SOP",
           drive: "https://drive.google.com/drive/folders/it",
-          password: "it123",
+          password: "icu",
         },
       ],
     },
