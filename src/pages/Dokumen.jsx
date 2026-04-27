@@ -22,7 +22,7 @@ export default function Dokumen() {
       kategori: [
         {
           nama: "SPO",
-          drive: "https://drive.google.com/drive/folders/spo-perawat",
+          drive: "https://drive.google.com/drive/folders/1XZA_jwaFvbwgyQgnc2FFZJtSnCIjrjE6?hl=id",
           password: "keperawatan",
         },
       ],
@@ -32,7 +32,7 @@ export default function Dokumen() {
       kategori: [
         {
           nama: "SOP",
-          drive: "https://drive.google.com/drive/folders/it",
+          drive: "https://drive.google.com/drive/folders/1j_ohVyuL9XkT371UEJRYVIQUMXvq9ag1?hl=id",
           password: "poliklinik",
         },
       ],
@@ -42,7 +42,7 @@ export default function Dokumen() {
       kategori: [
         {
           nama: "SOP",
-          drive: "https://drive.google.com/drive/folders/it",
+          drive: "https://drive.google.com/drive/folders/1c09ZldtoEhiVH42BCLWmN2y3yyYWH4zt?hl=id",
           password: "rawatinap",
         },
       ],
@@ -52,7 +52,7 @@ export default function Dokumen() {
       kategori: [
         {
           nama: "SOP ",
-          drive: "https://drive.google.com/drive/folders/it",
+          drive: "https://drive.google.com/drive/folders/1WGZYCsoG6V-TgBJepqNiQRGM0w6er6NJ?hl=id",
           password: "ibs",
         },
       ],
@@ -62,7 +62,7 @@ export default function Dokumen() {
       kategori: [
         {
           nama: "SOP",
-          drive: "https://drive.google.com/drive/folders/it",
+          drive: "https://drive.google.com/drive/folders/1hcFTBI62kupeTAodW1M3Vu1RdUfGm6ZS?hl=id",
           password: "icu",
         },
       ],
