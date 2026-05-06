@@ -67,6 +67,17 @@ export default function Dokumen() {
         },
       ],
     },
+    {
+      nama: "Perina",
+      kategori: [
+        {
+          nama: "SOP",
+          drive: "https://drive.google.com/drive/folders/13t9ZbniMeoOP3OxWVdaheYqFlrv3fn7y?usp=sharing",
+          password: "perina",
+        },
+      ],
+    },
+
   ];
 
   const openUnit = (unit) => {
