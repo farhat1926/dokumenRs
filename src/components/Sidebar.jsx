@@ -7,7 +7,7 @@ export default function Sidebar({ open, setOpen }) {
     { name: "Dashboard", path: "/" },
     { name: "Klinik", path: "/Klinik" },
     { name: "Dokumen", path: "/Dokumen" },
-    { name: "Jadwal Dokter", path: "/Jadwal" },
+    // { name: "Jadwal Dokter", path: "/Jadwal" },
   ];
 
   return (
