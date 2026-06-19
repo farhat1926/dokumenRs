@@ -40,16 +40,14 @@ export default function Dashboard() {
     },
   ];
 
-}
-
   const menus = [
     {
-      name: "Klinik",
+      name: "Komite",
       path: "/klinik",
       icon: <Stethoscope size={22} />,
     },
     {
-      name: "Dokumen",
+      name: "Instalasi",
       path: "/dokumen",
       icon: <FileText size={22} />,
     },
@@ -62,14 +60,15 @@ export default function Dashboard() {
 
   return (
     <div className="space-y-6">
-
       {/* HEADER */}
       <div>
         <h2 className="text-2xl md:text-3xl font-bold flex items-center gap-2">
-          <LayoutDashboard /> Dashboard
+          <LayoutDashboard />
+          Dashboard
         </h2>
+
         <p className="text-gray-500 mt-1">
-          Selamat datang di intranet rumah sakit
+          Selamat datang di Intranet Rumah Sakit
         </p>
       </div>
 
@@ -84,6 +83,7 @@ export default function Dashboard() {
               <p className="text-gray-500 text-sm">{item.title}</p>
               <h3 className="text-2xl font-bold">{item.value}</h3>
             </div>
+
             <div className="text-blue-900">{item.icon}</div>
           </div>
         ))}
@@ -110,11 +110,13 @@ export default function Dashboard() {
       {/* INFO TAMBAHAN */}
       <div className="bg-white rounded-xl shadow p-5">
         <h3 className="font-semibold mb-2">Informasi</h3>
+
         <p className="text-gray-600 text-sm">
-          Sistem intranet ini digunakan untuk mengelola dokumen, jadwal dokter,
-          dan informasi unit rumah sakit secara terpusat.
+          Sistem intranet ini digunakan untuk mengelola dokumen instalasi,
+          dokumen komite, jadwal dokter, dan informasi unit rumah sakit secara
+          terpusat.
         </p>
       </div>
-
     </div>
   );
+}
