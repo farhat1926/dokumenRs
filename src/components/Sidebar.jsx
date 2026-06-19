@@ -5,8 +5,8 @@ export default function Sidebar({ open, setOpen }) {
 
   const menu = [
     { name: "Dashboard", path: "/" },
-    { name: "Klinik", path: "/Klinik" },
-    { name: "Dokumen", path: "/Dokumen" },
+    { name: "Dokumen Komite", path: "/Klinik" },
+    { name: "Dokumen Instalasi", path: "/Dokumen" },
     // { name: "Jadwal Dokter", path: "/Jadwal" },
   ];
 
