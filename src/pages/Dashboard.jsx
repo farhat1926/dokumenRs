@@ -2,11 +2,35 @@ import { Link } from "react-router-dom";
 import { FileText, Stethoscope, CalendarDays, LayoutDashboard } from "lucide-react";
 
 export default function Dashboard() {
-  const stats = [
-    { title: "Total Dokumen", value: "128", icon: <FileText size={28} /> },
-    { title: "Unit Klinik", value: "12", icon: <Stethoscope size={28} /> },
-    { title: "Jadwal Hari Ini", value: "24", icon: <CalendarDays size={28} /> },
-  ];
+  const totalInstalasi = units.reduce(
+  (total, unit) => total + unit.kategori.length,
+  0
+);
+
+const totalKomite = komites.reduce(
+  (total, komite) => total + komite.kategori.length,
+  0
+);
+
+const totalDokumen = totalInstalasi + totalKomite;
+
+const stats = [
+  {
+    title: "Total Dokumen",
+    value: totalDokumen,
+    icon: <FileText size={28} />,
+  },
+  {
+    title: "Dokumen Instalasi",
+    value: totalInstalasi,
+    icon: <Stethoscope size={28} />,
+  },
+  {
+    title: "Dokumen Komite",
+    value: totalKomite,
+    icon: <CalendarDays size={28} />,
+  },
+];
 
   const menus = [
     {
