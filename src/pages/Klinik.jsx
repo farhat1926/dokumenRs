@@ -1,6 +1,6 @@
 import { useState } from "react";
 
-export default function Dokumen() {
+export default function Klinik() {
   const [selectedUnit, setSelectedUnit] = useState(null);
   const [selectedKategori, setSelectedKategori] = useState(null);
   const [password, setPassword] = useState("");
