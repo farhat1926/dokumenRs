@@ -1,4 +1,4 @@
-  export const units = [
+  export const  units = [
     {
       nama: "IGD",
       kategori: [
