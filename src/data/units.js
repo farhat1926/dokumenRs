@@ -8,7 +8,7 @@
           password: "igd",
         },
         {
-          nama: "Pedoman",
+          nama: "Pedoman dan Panduan",
           drive: "https://drive.google.com/drive/folders/1We3zDIt7gaove0UYPhQssQRnO41ymbXT?hl=id",
           password: "igd",
         },
@@ -20,6 +20,26 @@
         {
           nama: "SIP & STR",
           drive: "https://drive.google.com/drive/folders/1cf9mj4WM-PNMfdG2QQK-mMv6kclhmvt2?usp=sharing",
+          password: "igd",
+        },
+        {
+          nama: "Clinical Pathway",
+          drive: "https://drive.google.com/drive/folders/1dYkoTULt1aOYZhqF22mPCP_5OHeLhWcN?usp=sharing",
+          password: "igd",
+        },
+        {
+          nama: "Mutu Unit",
+          drive: "https://drive.google.com/drive/folders/1p7YSkdpjDHVqU76tawQ_6cz-0wW9ZMTH?usp=sharing",
+          password: "igd",
+        },
+        {
+          nama: "Panduan Praktek Klinis",
+          drive: "https://drive.google.com/drive/folders/1cf3_FFSLUIbTlZ9rXLUqVnB59LcFwMaq?usp=sharing",
+          password: "igd",
+        },
+        {
+          nama: "program Kerja",
+          drive: "https://drive.google.com/drive/folders/1gj9k2yGsE38LXoI36KqzGllK04cIgvvD?usp=sharing",
           password: "igd",
         },
       ],
@@ -47,6 +67,26 @@
           drive: "https://drive.google.com/drive/folders/1o5KhARODbxzjlLCZppUDj8fZ6Fyo1afR?usp=sharing",
           password: "keperawatan",
         },
+        {
+          nama: "Clinical Pathway",
+          drive: "https://drive.google.com/drive/folders/1fBaCXeNSqBpj1GGEt7LjG6CUHgvM092_?usp=sharing",
+          password: "keperawatan",
+        },
+        {
+          nama: "Mutu Unit",
+          drive: "https://drive.google.com/drive/folders/1AS-qQsARlhzbxgri5C5lpmKnvVAGLjRi?usp=sharing",
+          password: "keperawatan",
+        },
+        {
+          nama: "Panduan Praktek Klinis",
+          drive: "https://drive.google.com/drive/folders/1-hIPRX5gf5FGUzCrOb1WtK-0TRDlNsP-?usp=sharing",
+          password: "keperawatan",
+        },
+        {
+          nama: "Program Kerja",
+          drive: "https://drive.google.com/drive/folders/19HiVLN_6ENJ4ieGRRXhs3sOqzXPc_gcv?usp=sharing",
+          password: "keperawatan",
+        },
       ],
     },
     {
@@ -58,7 +98,7 @@
           password: "poliklinik",
         },
         {
-          nama: "Pedoman",
+          nama: "Pedoman dan Panduan",
           drive: "https://drive.google.com/drive/folders/1j_ohVyuL9XkT371UEJRYVIQUMXvq9ag1?hl=id",
           password: "poliklinik",
         },
@@ -70,6 +110,26 @@
         {
           nama: "SIP & STR",
           drive: "https://drive.google.com/drive/folders/1nFJV5F0cwAfiIFP_rp8e6P2koDA5qfNy?usp=sharing",
+          password: "poliklinik",
+        },
+        {
+          nama: "Clinical Pathway",
+          drive: "https://drive.google.com/drive/folders/1B5LOBwCzMfiPvmFc9FFJEwtCqctkvL9m?usp=sharing",
+          password: "poliklinik",
+        },
+        {
+          nama: "Mutu Unit",
+          drive: "https://drive.google.com/drive/folders/1xiotYSu3Mz_womMwuQfoODkSh01Ykn0P?usp=sharing",
+          password: "poliklinik",
+        },
+        {
+          nama: "Panduan Praktek Klinis",
+          drive: "https://drive.google.com/drive/folders/1jzWROkGlMyyyHO7PjABEUYkW6BRe79GS?usp=sharing",
+          password: "poliklinik",
+        },
+        {
+          nama: "Program Kerja",
+          drive: "https://drive.google.com/drive/folders/1L7Yw5p2pg2JT6E0rQ4yVGDR-R4Na3N12?usp=sharing",
           password: "poliklinik",
         },
       ],
@@ -97,6 +157,26 @@
           drive: "https://drive.google.com/drive/folders/1ne9VR3W3gI51c5FEfN2d0dprbyiPOlzB?usp=sharing",
           password: "rawatinap",
         },
+        {
+          nama: "Clinical Pathway",
+          drive: "https://drive.google.com/drive/folders/13R3JWNvrGv0Vj77s3391FvnwuF80dss6?usp=sharing",
+          password: "rawatinap",
+        },
+        {
+          nama: "Mutu Unit",
+          drive: "https://drive.google.com/drive/folders/1lF91iTzhnzdl8f0bh-TIWCssMJXvVnhk?usp=sharing",
+          password: "rawatinap",
+        },
+        {
+          nama: "Panduan Praktek Klinis",
+          drive: "https://drive.google.com/drive/folders/1wykL5U_C-BUMk0IxdlRDxXO4WPWnkMY5?usp=sharing",
+          password: "rawatinap",
+        },
+        {
+          nama: "Program Kerja",
+          drive: "https://drive.google.com/drive/folders/1UAINLYOt9yW61q8_ZgC6uaVr_SEsH_jE?usp=sharing",
+          password: "rawatinap",
+        },
       ],
     },
     {
@@ -108,7 +188,7 @@
           password: "ibs",
         },
         {
-          nama: "Pedoman ",
+          nama: "Pedoman dan Panduan",
           drive: "https://drive.google.com/drive/folders/1WGZYCsoG6V-TgBJepqNiQRGM0w6er6NJ?hl=id",
           password: "ibs",
         },
@@ -120,6 +200,26 @@
         {
           nama: "SIP & STR",
           drive: "https://drive.google.com/drive/folders/16h9eKzmOVXqZRG4VWs_JFs-G6xdyXTFJ?usp=sharing",
+          password: "ibs",
+        },
+         {
+          nama: "Clinical Pathway",
+          drive: "https://drive.google.com/drive/folders/14JPly9NOEv5qhUJXsG8C9G4hHL0xMAdm?usp=sharing",
+          password: "ibs",
+        },
+         {
+          nama: "Mutu Unit",
+          drive: "https://drive.google.com/drive/folders/1eqitGiVjvDrICGgCrDokffsLN4_dLKaz?usp=sharing",
+          password: "ibs",
+        },
+         {
+          nama: "Panduan Praktek Klinis",
+          drive: "https://drive.google.com/drive/folders/1484_i9l1LUqz9uIqnkOf7CkjpI64VD0n?usp=sharing",
+          password: "ibs",
+        },
+         {
+          nama: "Program Kerja",
+          drive: "https://drive.google.com/drive/folders/1421FZTT3BcstOX_ak9wyVDYUjpDwSqa4?usp=sharing",
           password: "ibs",
         },
       ],
@@ -147,33 +247,75 @@
           drive: "https://drive.google.com/drive/folders/11Pq1g8fxjwlFKC2EP9CZCYrz0qjRrtiW?usp=sharing",
           password: "icu",
         },
-      ],
-    },
-    {
-      nama: "Perina",
-      kategori: [
         {
-          nama: "SOP",
-          drive: "https://drive.google.com/drive/folders/13t9ZbniMeoOP3OxWVdaheYqFlrv3fn7y?usp=sharing",
-          password: "perina",
+          nama: "Clinical Pathway",
+          drive: "https://drive.google.com/drive/folders/1RneI4klpv7KqtQ9k1fxLmEeJ8KWkw5E4?usp=sharing",
+          password: "icu",
         },
         {
-          nama: "Pedoman",
-          drive: "https://drive.google.com/drive/folders/13t9ZbniMeoOP3OxWVdaheYqFlrv3fn7y?usp=sharing",
-          password: "perina",
+          nama: "Mutu Unit",
+          drive: "https://drive.google.com/drive/folders/1FW18Pdh1WdsADgVFDZnic3A84LPA5z7F?usp=sharing",
+          password: "icu",
         },
         {
-          nama: "SPK & RKK",
-          drive: "https://drive.google.com/drive/folders/13t9ZbniMeoOP3OxWVdaheYqFlrv3fn7y?usp=sharing",
-          password: "perina",
+          nama: "Panduan Praktek Klinis",
+          drive: "https://drive.google.com/drive/folders/1kSD0WAgu0FgoAocTv6CZoTMVkzpofWAm?usp=sharing",
+          password: "icu",
         },
         {
-          nama: "SIP & STR",
-          drive: "https://drive.google.com/drive/folders/13t9ZbniMeoOP3OxWVdaheYqFlrv3fn7y?usp=sharing",
-          password: "perina",
+          nama: "Program Kerja",
+          drive: "https://drive.google.com/drive/folders/1EDkhh91PX0d6ZRru6agOrT8GOYft23-z?usp=sharing",
+          password: "icu",
         },
       ],
     },
+    // {
+    //   nama: "Perina",
+    //   kategori: [
+    //     {
+    //       nama: "SOP",
+    //       drive: "https://drive.google.com/drive/folders/13t9ZbniMeoOP3OxWVdaheYqFlrv3fn7y?usp=sharing",
+    //       password: "perina",
+    //     },
+    //     {
+    //       nama: "Pedoman",
+    //       drive: "https://drive.google.com/drive/folders/13t9ZbniMeoOP3OxWVdaheYqFlrv3fn7y?usp=sharing",
+    //       password: "perina",
+    //     },
+    //     {
+    //       nama: "SPK & RKK",
+    //       drive: "https://drive.google.com/drive/folders/13t9ZbniMeoOP3OxWVdaheYqFlrv3fn7y?usp=sharing",
+    //       password: "perina",
+    //     },
+    //     {
+    //       nama: "SIP & STR",
+    //       drive: "https://drive.google.com/drive/folders/13t9ZbniMeoOP3OxWVdaheYqFlrv3fn7y?usp=sharing",
+    //       password: "perina",
+    //     },
+    //     {
+    //       nama: "SIP & STR",
+    //       drive: "https://drive.google.com/drive/folders/13t9ZbniMeoOP3OxWVdaheYqFlrv3fn7y?usp=sharing",
+    //       password: "perina",
+    //     },
+    //     {
+    //       nama: "SIP & STR",
+    //       drive: "https://drive.google.com/drive/folders/13t9ZbniMeoOP3OxWVdaheYqFlrv3fn7y?usp=sharing",
+    //       password: "perina",
+    //     },
+    //     {
+    //       nama: "SIP & STR",
+    //       drive: "https://drive.google.com/drive/folders/13t9ZbniMeoOP3OxWVdaheYqFlrv3fn7y?usp=sharing",
+    //       password: "perina",
+    //     },
+    //     {
+    //       nama: "SIP & STR",
+    //       drive: "https://drive.google.com/drive/folders/13t9ZbniMeoOP3OxWVdaheYqFlrv3fn7y?usp=sharing",
+    //       password: "perina",
+    //     },
+        
+    //   ],
+      
+    // },
       {
       nama: "Kebidanan",
       kategori: [
@@ -195,6 +337,26 @@
         {
           nama: "SIP & STR",
           drive: "https://drive.google.com/drive/folders/1VkGS2nRi-eqAlqoajXCYEnSBRAQR-c3k?usp=sharing",
+          password: "kebidanan",
+        },
+        {
+          nama: "Clinical Pathway",
+          drive: "https://drive.google.com/drive/folders/15AFwH-NWZFRTOzQkIeTlJGceoS9hyFf_?usp=sharing",
+          password: "kebidanan",
+        },
+        {
+          nama: "Mutu Unit",
+          drive: "https://drive.google.com/drive/folders/1yK4jAHtFlQpBxcBvr5oKF08u1y8q5FKi?usp=sharing",
+          password: "kebidanan",
+        },
+        {
+          nama: "Panduan Pelayanan Klinis",
+          drive: "https://drive.google.com/drive/folders/1km8Hatu2Pj9Bc_Qz2CRGKc2jW-9ka2pa?usp=sharing",
+          password: "kebidanan",
+        },
+        {
+          nama: "Program Kerja",
+          drive: "https://drive.google.com/drive/folders/1iUOR8kzw5kx4XnggooHMGAxtEZDHuAV-?usp=sharing",
           password: "kebidanan",
         },
       ],
@@ -222,6 +384,27 @@
           drive: "https://drive.google.com/drive/folders/1WWpDQ3gikNn4ZRPgVg81FOCclPyr46oD?usp=sharing",
           password: "radiologi",
         },
+        {
+          nama: "Clinical Pathway",
+          drive: "https://drive.google.com/drive/folders/1sM8zG1wLQNvPhMVhkqKSia4LPFFcAx1v?usp=sharing",
+          password: "radiologi",
+        },
+        {
+          nama: "Mutu Unit",
+          drive: "https://drive.google.com/drive/folders/1kRBWg7Uu6N7rsRSm0pVcesLj2YArj2tC?usp=sharing",
+          password: "radiologi",
+        },
+        {
+          nama: "Panduan Praktek Klinis",
+          drive: "https://drive.google.com/drive/folders/1PcWNPoHGD-Fgt9m1SaEvDOFE7qMEYyb5?usp=sharing",
+          password: "radiologi",
+        },
+        {
+          nama: "Program Kerja",
+          drive: "https://drive.google.com/drive/folders/17I_Bt-LWZT8VveUtfRqyS-WSQ0fFD9_2?usp=sharing",
+          password: "radiologi",
+        },
+
       ],
     },
       {
@@ -233,7 +416,7 @@
           password: "laboratorium",
         },
         {
-          nama: "Pedoman  ",
+          nama: "Pedoman  dan Panduan",
           drive: "https://drive.google.com/drive/folders/1OxPMr2zQ0sqHeedeoDT_MHdFYbVjgmmQ?usp=sharing",
           password: "laboratorium",
         },
@@ -245,6 +428,26 @@
         {
           nama: "SIP & STR",
           drive: "https://drive.google.com/drive/folders/1rNfFRwBDN8xJBiYFf8gzmZMYfUEViO3x?usp=sharing",
+          password: "laboratorium",
+        },
+        {
+          nama: "Program Kerja",
+          drive: "https://drive.google.com/drive/folders/1wMC5Pxrn622CLra0Auh0JXZgtpBF9a4R?usp=sharing",
+          password: "laboratorium",
+        },
+        {
+          nama: "Indikator Mutu",
+          drive: "https://drive.google.com/drive/folders/1cmBJknlt9M4MJquZaIsCbv3EDT9r4KAo?usp=sharing",
+          password: "laboratorium",
+        },
+        {
+          nama: "SIP & STR",
+          drive: "https://drive.google.com/drive/folders/1rNfFRwBDN8xJBiYFf8gzmZMYfUEViO3x?usp=sharing",
+          password: "laboratorium",
+        },
+        {
+          nama: "SPK RKK",
+          drive: "https://drive.google.com/drive/folders/1NMqabp2mksw8zkAAWNvwdKKuchN_2Oi3?usp=sharing",
           password: "laboratorium",
         },
       ],
@@ -272,6 +475,26 @@
           drive: "https://drive.google.com/drive/folders/1nyEy3XxoOt1wIg6GAj6LSbIrESBmBMn6?usp=sharing",
           password: "rekammedis",
         },
+        {
+          nama: "Clinical Pathway",
+          drive: "https://drive.google.com/drive/folders/1itQnsGXrguRqIHSAksRWvT1nI4JcOE2O?usp=sharing  ",
+          password: "rekammedis",
+        },
+        {
+          nama: "Mutu Unit",
+          drive: "https://drive.google.com/drive/folders/1YJxT3nB30tkDdkyn-SdscLRz5XEbyYwM?usp=sharing",
+          password: "rekammedis",
+        },
+        {
+          nama: "Panduan Praktek Klinis",
+          drive: "https://drive.google.com/drive/folders/1fZiDmjyF3aNnf01ATM8vFw172rX4hS-A?usp=sharing",
+          password: "rekammedis",
+        },
+        {
+          nama: "Program Kerja",
+          drive: "https://drive.google.com/drive/folders/1oViA73YZZL8B4E5fYKahkgwjNYYGgq6F?usp=sharing",
+          password: "rekammedis",
+        },
       ],
     },
       {
@@ -297,6 +520,26 @@
           drive: "https://drive.google.com/drive/folders/1gG6W744ppcURDIwTFYH9l8yJ1hL3O3yP?usp=sharing",
           password: "rehabilitasimedis",
         },
+        {
+          nama: "Clinical Pathway",
+          drive: "https://drive.google.com/drive/folders/1UIJc-kyTVR69D1kpuaj2c3jeEiJHMYUE?usp=sharing",
+          password: "rehabilitasimedis",
+        },
+        {
+          nama: "Mutu Unit",
+          drive: "https://drive.google.com/drive/folders/1FW3HVoW2k9d72hdN3vKPRxtLrtgJexWy?usp=sharing",
+          password: "rehabilitasimedis",
+        },
+        {
+          nama: "Panduan Praktek Klinis",
+          drive: "https://drive.google.com/drive/folders/1nnumlK_JvOcGVccV4CA23o0NJ6f62q6P?usp=sharing",
+          password: "rehabilitasimedis",
+        },
+        {
+          nama: "Program Kerja",
+          drive: "https://drive.google.com/drive/folders/1Z4zwPfdiY2CRXN4qS6YeZtjtZCD2CKto?usp=sharing",
+          password: "rehabilitasimedis",
+        },
       ],
     },
       {
@@ -308,8 +551,18 @@
           password: "keamanan",
         },
         {
-          nama: "Pedoman  ",
+          nama: "Pedoman  dan Panduan",
           drive: "https://drive.google.com/drive/folders/1tl6l2eoPrGI5cSl1oJijjtbqDhm27FbT?usp=sharing",
+          password: "keamanan",
+        },
+        {
+          nama: "Program Kerja",
+          drive: "https://drive.google.com/drive/folders/1wBquF44nbV4sGuSGkBXTJbwbYf8FT4IF?usp=sharing",
+          password: "keamanan",
+        },
+        {
+          nama: "Mutu unit",
+          drive: "https://drive.google.com/drive/folders/1ChyVveF3bKhldcOijcH8G4KfKjLEN72_?usp=sharing",
           password: "keamanan",
         },
         
@@ -324,7 +577,7 @@
           password: "sekertaris",
         },
         {
-          nama: "Pedoman  ",
+          nama: "Pedoman dan panduan",
           drive: "https://drive.google.com/drive/folders/15Z1NHvzR8ItNpqCYD7Rn0DQRHpjKKS2z?usp=sharing",
           password: "sekertaris",
         },
@@ -338,6 +591,11 @@
           drive: "https://drive.google.com/drive/folders/13NuyBmFFGY6JxVyPBVhCqm7ZFj91EsOO?usp=sharing",
           password: "sekertaris",
         },
+        {
+          nama: "Mutu Unit",
+          drive: "https://drive.google.com/drive/folders/1ej0pJFqzhI8LHx1a9SaCqe-js6UpRJUS?usp=sharing",
+          password: "sekertaris",
+        },
       ],
     },
       {
@@ -349,8 +607,18 @@
           password: "kerohanian",
         },
         {
-          nama: "Pedoman  ",
+          nama: "Pedoman dan Panduan",
           drive: "https://drive.google.com/drive/folders/1OzQLdBW9_kk47T5uOoA9F5YhA9ma5ECO?usp=sharing",
+          password: "kerohanian",
+        },
+        {
+          nama: "Mutu Unit",
+          drive: "https://drive.google.com/drive/folders/18UMuqIVIyydY92XNVCVNCCLYRLadOx7X?usp=sharing",
+          password: "kerohanian",
+        },
+        {
+          nama: "Program Kerja",
+          drive: "https://drive.google.com/drive/folders/1dptJQTROURchgnT2bKvikiEm63p4fSRh?usp=sharing",
           password: "kerohanian",
         },
       ],
@@ -364,13 +632,18 @@
           password: "it",
         },
         {
-          nama: "SPK & RKK ",
-          drive: "https://drive.google.com/drive/folders/1I1nPkNzOZGZEq-0ASrmNYsTZUPyUdqgv?usp=sharing",
+          nama: "Pedoman dan Panduan",
+          drive: "https://drive.google.com/drive/folders/1ogDRyMcgrxGwkdivgRexNdvjeRf4PyQr?usp=sharing",
           password: "it",
         },
         {
-          nama: "Pedoman",
-          drive: "https://drive.google.com/drive/folders/1ogDRyMcgrxGwkdivgRexNdvjeRf4PyQr?usp=sharing",
+          nama: "Mutu Unit",
+          drive: "https://drive.google.com/drive/folders/13A-0wqt1oW11Xh2I_txebMwW3b7n6SHZ?usp=sharing",
+          password: "it",
+        },
+        {
+          nama: "Program Kerja",
+          drive: "https://drive.google.com/drive/folders/1LroEbrQVUiOTpNPCI8pDCxdo_64BMNvC?usp=sharing",
           password: "it",
         },
       ],
@@ -384,18 +657,18 @@
           password: "ipsrs",
         },
         {
-          nama: "SPK & RKK ",
-          drive: "https://drive.google.com/drive/folders/1Z9dW2HhvCnSvIny9ZzQwGZwO9wdEG95u?usp=sharing",
-          password: "ipsrs",
-        },
-        {
-          nama: "Pedoman",
+          nama: "Pedoman dan Panduan",
           drive: "https://drive.google.com/drive/folders/1S44CnTeFuB7bTS-AmAHoylrmxfgZpTvb?usp=sharing",
           password: "ipsrs",
         },
         {
-          nama: "SIP & STR",
-          drive: "https://drive.google.com/drive/folders/1lPcMBqIfUido2bNexmAdWrczX5WGLrxr?usp=sharing",
+          nama: "Mutu Unit",
+          drive: "https://drive.google.com/drive/folders/1n-SU2WMyNPhZRWL4AeFLWy2lFNY7CpOG?usp=sharing",
+          password: "ipsrs",
+        },
+        {
+          nama: "Program Kerja",
+          drive: "https://drive.google.com/drive/folders/1Wbiw6GvBJQaSfbtcZwTyrv4u8RkocsBV?usp=sharing",
           password: "ipsrs",
         },
         
@@ -410,18 +683,18 @@
           password: "ipsrs",
         },
         {
-          nama: "SPK & RKK ",
-          drive: "https://drive.google.com/drive/folders/1RiuR81CieMfVpB4ZLoeQseJTED_2q_Ab?usp=sharing",
-          password: "ipsrs",
-        },
-        {
-          nama: "Pedoman",
+          nama: "Pedoman dan Panduan",
           drive: "https://drive.google.com/drive/folders/1lIF-GriQ5uRqxFdGVakaZuOQ__R8N_V8?usp=sharing",
           password: "ipsrs",
         },
         {
-          nama: "SIP & STR",
-          drive: "https://drive.google.com/drive/folders/18iHTAbxRne6G9D7AjNMc9LuXyebwaFol?usp=sharing",
+          nama: "Mutu Unit",
+          drive: "https://drive.google.com/drive/folders/1BtflgtRSMxU6FSaYn2RW87GixlumhPCO?usp=sharing",
+          password: "ipsrs",
+        },
+        {
+          nama: "Program Kerja",
+          drive: "https://drive.google.com/drive/folders/12F1cf--8CcmN2kRobeA27xIOrrFPCVJE?usp=sharing",
           password: "ipsrs",
         },
         
@@ -454,32 +727,6 @@
       ],
     },
       {
-      nama: "IPSRS",
-      kategori: [
-        {
-          nama: "SPO",
-          drive: "https://drive.google.com/drive/folders/1oOrg4DP9Mts-bAM2q77WfWF2XkXUzPuc?usp=sharing",
-          password: "ipsrs",
-        },
-        {
-          nama: "SPK & RKK ",
-          drive: "https://drive.google.com/drive/folders/1Z9dW2HhvCnSvIny9ZzQwGZwO9wdEG95u?usp=sharing",
-          password: "ipsrs",
-        },
-        {
-          nama: "Pedoman",
-          drive: "https://drive.google.com/drive/folders/1S44CnTeFuB7bTS-AmAHoylrmxfgZpTvb?usp=sharing",
-          password: "ipsrs",
-        },
-        {
-          nama: "SIP & STR",
-          drive: "https://drive.google.com/drive/folders/1lPcMBqIfUido2bNexmAdWrczX5WGLrxr?usp=sharing",
-          password: "ipsrs",
-        },
-        
-      ],
-    },
-      {
       nama: "Farmasi",
       kategori: [
         {
@@ -502,6 +749,26 @@
           drive: "https://drive.google.com/drive/folders/1ZCYGkW2IN-fLLzRS8pe_fGJ5bZd1wlVb?usp=sharing",
           password: "farmasi",
         },
+        {
+          nama: "Clinical Pathway",
+          drive: "https://drive.google.com/drive/folders/1a-IB8YhYH75Ei-5UZI0mrSRmcKpAR0lB?usp=sharing",
+          password: "farmasi",
+        },
+        {
+          nama: "Mutu unit",
+          drive: "https://drive.google.com/drive/folders/100yskin4Ue-zfJf0Q6Ba3FlJB9TJND0C?usp=sharing",
+          password: "farmasi",
+        },
+        {
+          nama: "Panduan Praktek Klinis",
+          drive: "https://drive.google.com/drive/folders/1t7nx11vBqBbNnGT5uHR1nRMDojWGgGLD?usp=sharing",
+          password: "farmasi",
+        },
+        {
+          nama: "Program Kerja",
+          drive: "https://drive.google.com/drive/folders/1ADDYgP2zZwvWPcLBnW_3tBYsF4hGDkoM?usp=sharing",
+          password: "farmasi",
+        },
         
       ],
     },
@@ -514,15 +781,25 @@
           password: "cssd",
         },
         {
-          nama: "Pedoman",
+          nama: "Pedoman dan Panduan",
           drive: "https://drive.google.com/drive/folders/1txa4iz63umf2m9QZdK3I--2u7UNM9M9w?usp=sharing",
+          password: "cssd",
+        },
+        {
+          nama: "Mutu Unit",
+          drive: "https://drive.google.com/drive/folders/1XCjUCLbswJtarTVyU3PVkZ5CeLHQSsym?usp=sharing",
+          password: "cssd",
+        },
+        {
+          nama: "Program Kerja",
+          drive: "https://drive.google.com/drive/folders/11r-_PX0tGoGjf18fm0mHrJdK77G8rasl?usp=sharing",
           password: "cssd",
         },
         
       ],
     },
      {
-      nama: "Billing",
+      nama: "Kasir",
       kategori: [
         {
           nama: "SPO",
@@ -530,11 +807,20 @@
           password: "billing",
         },
         {
-          nama: "Pedoman",
+          nama: "Pedoman dan Panduan",
           drive: "https://drive.google.com/drive/folders/1h24Sm5BSx6OzrahFIhH963YR2CH4cW0N?usp=sharing",
           password: "billing",
         },
-        
+        {
+          nama: "Mutu Unit",
+          drive: "https://drive.google.com/drive/folders/19u4EdYXQ_HGXj4934sQOv3WxzjbijpSO?usp=sharing",
+          password: "billing",
+        },
+        {
+          nama: "Program Kerja",
+          drive: "https://drive.google.com/drive/folders/1mczfss_rnGDtfmMNDLN-cJuQJQ4Vc79I?usp=sharing",
+          password: "billing",
+        },
       ],
     },
     
