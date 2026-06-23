@@ -370,7 +370,7 @@
           password: "radiologi",
         },
         {
-          nama: "Pedoman  ",
+          nama: "Pedoman dan Panduan",
           drive: "https://drive.google.com/drive/folders/1TOieJYeghTslE4Ig9cWj3bjWjhVNpIxv?usp=sharing",
           password: "radiologi",
         },
@@ -385,20 +385,15 @@
           password: "radiologi",
         },
         {
-          nama: "Clinical Pathway",
-          drive: "https://drive.google.com/drive/folders/1sM8zG1wLQNvPhMVhkqKSia4LPFFcAx1v?usp=sharing",
-          password: "radiologi",
-        },
-        {
           nama: "Mutu Unit",
           drive: "https://drive.google.com/drive/folders/1kRBWg7Uu6N7rsRSm0pVcesLj2YArj2tC?usp=sharing",
           password: "radiologi",
         },
-        {
-          nama: "Panduan Praktek Klinis",
-          drive: "https://drive.google.com/drive/folders/1PcWNPoHGD-Fgt9m1SaEvDOFE7qMEYyb5?usp=sharing",
-          password: "radiologi",
-        },
+        // {
+        //   nama: "Panduan Praktek Klinis",
+        //   drive: "https://drive.google.com/drive/folders/1PcWNPoHGD-Fgt9m1SaEvDOFE7qMEYyb5?usp=sharing",
+        //   password: "radiologi",
+        // },
         {
           nama: "Program Kerja",
           drive: "https://drive.google.com/drive/folders/17I_Bt-LWZT8VveUtfRqyS-WSQ0fFD9_2?usp=sharing",
@@ -440,16 +435,6 @@
           drive: "https://drive.google.com/drive/folders/1cmBJknlt9M4MJquZaIsCbv3EDT9r4KAo?usp=sharing",
           password: "laboratorium",
         },
-        {
-          nama: "SIP & STR",
-          drive: "https://drive.google.com/drive/folders/1rNfFRwBDN8xJBiYFf8gzmZMYfUEViO3x?usp=sharing",
-          password: "laboratorium",
-        },
-        {
-          nama: "SPK RKK",
-          drive: "https://drive.google.com/drive/folders/1NMqabp2mksw8zkAAWNvwdKKuchN_2Oi3?usp=sharing",
-          password: "laboratorium",
-        },
       ],
     },
       {
@@ -476,18 +461,8 @@
           password: "rekammedis",
         },
         {
-          nama: "Clinical Pathway",
-          drive: "https://drive.google.com/drive/folders/1itQnsGXrguRqIHSAksRWvT1nI4JcOE2O?usp=sharing  ",
-          password: "rekammedis",
-        },
-        {
           nama: "Mutu Unit",
           drive: "https://drive.google.com/drive/folders/1YJxT3nB30tkDdkyn-SdscLRz5XEbyYwM?usp=sharing",
-          password: "rekammedis",
-        },
-        {
-          nama: "Panduan Praktek Klinis",
-          drive: "https://drive.google.com/drive/folders/1fZiDmjyF3aNnf01ATM8vFw172rX4hS-A?usp=sharing",
           password: "rekammedis",
         },
         {
@@ -521,18 +496,8 @@
           password: "rehabilitasimedis",
         },
         {
-          nama: "Clinical Pathway",
-          drive: "https://drive.google.com/drive/folders/1UIJc-kyTVR69D1kpuaj2c3jeEiJHMYUE?usp=sharing",
-          password: "rehabilitasimedis",
-        },
-        {
           nama: "Mutu Unit",
           drive: "https://drive.google.com/drive/folders/1FW3HVoW2k9d72hdN3vKPRxtLrtgJexWy?usp=sharing",
-          password: "rehabilitasimedis",
-        },
-        {
-          nama: "Panduan Praktek Klinis",
-          drive: "https://drive.google.com/drive/folders/1nnumlK_JvOcGVccV4CA23o0NJ6f62q6P?usp=sharing",
           password: "rehabilitasimedis",
         },
         {
@@ -714,13 +679,18 @@
           password: "gizi",
         },
         {
-          nama: "Pedoman",
+          nama: "Pedoman dan Pelayanan",
           drive: "https://drive.google.com/drive/folders/1gk8Uqxiz2tswrzzMI3E9qAqJdkrd2Qcu?usp=sharing",
           password: "gizi",
         },
         {
           nama: "SIP & STR",
           drive: "https://drive.google.com/drive/folders/1rZpVX7qyG2gAMYGuMdCBECNcVaYmvjaI?usp=sharing",
+          password: "gizi",
+        },
+        {
+          nama: "Program Kerja",
+          drive: "https://drive.google.com/drive/folders/1HdPfMIEI6QVQRTI3yZKCfmzYVCtggFDB?usp=sharing",
           password: "gizi",
         },
         
@@ -750,18 +720,8 @@
           password: "farmasi",
         },
         {
-          nama: "Clinical Pathway",
-          drive: "https://drive.google.com/drive/folders/1a-IB8YhYH75Ei-5UZI0mrSRmcKpAR0lB?usp=sharing",
-          password: "farmasi",
-        },
-        {
           nama: "Mutu unit",
           drive: "https://drive.google.com/drive/folders/100yskin4Ue-zfJf0Q6Ba3FlJB9TJND0C?usp=sharing",
-          password: "farmasi",
-        },
-        {
-          nama: "Panduan Praktek Klinis",
-          drive: "https://drive.google.com/drive/folders/1t7nx11vBqBbNnGT5uHR1nRMDojWGgGLD?usp=sharing",
           password: "farmasi",
         },
         {
