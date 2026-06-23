@@ -5,7 +5,12 @@ import Sidebar from "./components/Sidebar";
 import Dashboard from "./pages/Dashboard";
 import Klinik from "./pages/Klinik";
 import Dokumen from "./pages/Dokumen";
-import Jadwal from "./pages/Jadwal";
+import SDM from "./pages/SDM"
+import Penunjang from "./pages/Penunjang";
+import Medis from "./pages/Medis";
+import Keperawatan from "./pages/Keperawatan";
+import Keuangan from "./pages/Keuangan";
+import Sarana from "./pages/Sarana";
 
 export default function App() {
   const [open, setOpen] = useState(false);
@@ -32,7 +37,12 @@ export default function App() {
               <Route path="/" element={<Dashboard />} />
               <Route path="/Klinik" element={<Klinik />} />
               <Route path="/Dokumen" element={<Dokumen />} />
-              <Route path="/Jadwal" element={<Jadwal />} />
+              <Route path="/SDM" element={<SDM />} />
+              <Route path="/Penunjang" element={<Penunjang />} />
+              <Route path="/Medis" element={<Medis />} />
+              <Route path="/Keperawatan" element={<Keperawatan />} />
+              <Route path="/Keuangan" element={<Keuangan />} />
+              <Route path="/Sarana" element={<Sarana />} />
             </Routes>
           </main>
 
