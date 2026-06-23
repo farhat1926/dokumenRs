@@ -1,8 +1,8 @@
-export default function Jadwal() {
+export default function Keperawatan() {
   return (
     
     <div>
-      <h2 className="text-2xl font-bold">Jadwal Dokter</h2>
+      <h2 className="text-2xl font-bold">SDM</h2>
       <p>Jadwal praktik dokter harian dan mingguan.</p>
     </div>
   );

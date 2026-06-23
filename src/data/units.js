@@ -547,20 +547,15 @@
           password: "sekertaris",
         },
         {
-          nama: "SPK & RKK",
-          drive: "https://drive.google.com/drive/folders/1Gk2YuiXSasfFc_d26oYDLsdHrz_R0S7z?usp=sharing",
-          password: "sekertaris",
-        },
-        {
-          nama: "SIP & STR",
-          drive: "https://drive.google.com/drive/folders/13NuyBmFFGY6JxVyPBVhCqm7ZFj91EsOO?usp=sharing",
-          password: "sekertaris",
-        },
-        {
           nama: "Mutu Unit",
           drive: "https://drive.google.com/drive/folders/1ej0pJFqzhI8LHx1a9SaCqe-js6UpRJUS?usp=sharing",
           password: "sekertaris",
         },
+        {
+          nama: "Program Kerja",
+          drive: "https://drive.google.com/drive/folders/13NuyBmFFGY6JxVyPBVhCqm7ZFj91EsOO?usp=drive_link",
+          password: "sekertaris",
+        }
       ],
     },
       {

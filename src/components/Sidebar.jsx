@@ -7,7 +7,12 @@ export default function Sidebar({ open, setOpen }) {
     { name: "Dashboard", path: "/" },
     { name: "Dokumen Komite", path: "/Klinik" },
     { name: "Dokumen Instalasi", path: "/Dokumen" },
-    // { name: "Jadwal Dokter", path: "/Jadwal" },
+    { name: "Dokumen SDM", path: "/SDM" },
+    { name: "Dokumen Penunjang", path: "/Penunjang" },
+    { name: "Dokumen Pelayanan Medis", path: "/Medis" },
+    { name: "Dokumen Keperawatan & Kebidanan", path: "/Keperawatan" },
+    { name: "Dokumen Keuangan", path: "/Keuangan" },
+    { name: "Dokumen Sarana & Prasarana", path: "/Sarana" },
   ];
 
   return (
