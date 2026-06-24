@@ -57,7 +57,7 @@ export default function Dashboard() {
           Panduan Praktek Klinis dan <i>Clinical Pathway</i>
         </span>
       ),
-      path: "/Panduan",
+      path: "/Clinical",
       icon: <CalendarDays size={22} />,
     },
     {
