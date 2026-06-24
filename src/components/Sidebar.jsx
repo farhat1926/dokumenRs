@@ -39,7 +39,7 @@ export default function Sidebar({ open, setOpen }) {
         {/* <h1 className="text-xl md:text-2xl font-bold mb-8">
           Intranet RS UMS A.R Fachrudin
         </h1> */}
-        <img src="/assets/logo.png" alt="" />
+        <img src="/assets/logo.png" alt="" className="w-16 h-16 mb-8" />
 
         {/* MENU */}
         <nav className="flex flex-col gap-3 text-base md:text-lg">
