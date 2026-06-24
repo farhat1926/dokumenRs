@@ -1,6 +1,6 @@
 export const komites = [
     {
-      nama: "Komite Medis",
+      nama: "Komite Medik",
       kategori: [
         {
           nama: "SK & Organisasi",
@@ -80,7 +80,7 @@ export const komites = [
       ],
     },
     {
-      nama: "Komite Pencegahan & Pengendalian Infeksi",
+      nama: "Komite Pencegahan dan Pengendalian Infeksi",
       kategori: [
         {
           nama: "SK & Organisasi",
@@ -115,7 +115,7 @@ export const komites = [
       ],
     },
     {
-      nama: "Komite Farmasi & Terapi",
+      nama: "Komite Farmasi dan Terapi",
       kategori: [
         {
           nama: "SK & Organisasi",
@@ -245,7 +245,7 @@ export const komites = [
       ],
     },
     {
-      nama: "Komite Keselamatan & Kesehatan Kerja RS",
+      nama: "Komite Keselamatan dan Kesehatan Kerja RS",
       kategori: [
         {
           nama: "SK & Organisasi",
@@ -305,7 +305,7 @@ export const komites = [
       ],
     },
     {
-      nama: "Komite Perawatan",
+      nama: "Komite Keperawatan",
       kategori: [
         {
           nama: "SK & Organisasi",

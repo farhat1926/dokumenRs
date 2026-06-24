@@ -9,7 +9,7 @@ export default function Penunjang() {
 
   const units = [
       {
-      nama: "Laboratorium",
+      nama: "Instalasi Laboratorium",
       kategori: [
         {
           nama: "SOP",
@@ -44,7 +44,7 @@ export default function Penunjang() {
       ],
     },
       {
-      nama: "Radiologi",
+      nama: "Instalasi Radiologi",
       kategori: [
         {
           nama: "SOP",
@@ -85,7 +85,7 @@ export default function Penunjang() {
       ],
     },
       {
-      nama: "Farmasi",
+      nama: "Instalasi Farmasi",
       kategori: [
         {
           nama: "SPO",
@@ -121,7 +121,7 @@ export default function Penunjang() {
       ],
     },
       {
-      nama: "GIZI",
+      nama: "Instalasi Gizi",
       kategori: [
         {
           nama: "SPO",
@@ -152,7 +152,7 @@ export default function Penunjang() {
       ],
     },
       {
-      nama: "Rekam Medis",
+      nama: "InstalasiRekam Medis",
       kategori: [
         {
           nama: "SOP",
@@ -187,7 +187,7 @@ export default function Penunjang() {
       ],
     },
      {
-      nama: "Rehabilitasi Medis",
+      nama: "InstalasiRehabilitasi Medis",
       kategori: [
         {
           nama: "SOP",
@@ -272,7 +272,7 @@ export default function Penunjang() {
       ],
     },
     {
-      nama: "Humas & Marketing",
+      nama: "Humas dan Marketing",
       kategori: [
         {
           nama: "SPO",
