@@ -12,6 +12,7 @@ import Keperawatan from "./pages/Keperawatan";
 import Keuangan from "./pages/Keuangan";
 import Sarana from "./pages/Sarana";
 import Clinical from "./pages/Clinical";
+import Spkrkk from "./pages/Spkrkk";
 
 export default function App() {
   const [open, setOpen] = useState(false);
@@ -45,6 +46,7 @@ export default function App() {
               <Route path="/Keuangan" element={<Keuangan />} />
               <Route path="/Sarana" element={<Sarana />} />
               <Route path="/Clinical" element={<Clinical />} />
+              <Route path="/Spkrkk" element={<Spkrkk />} />
             </Routes>
           </main>
 
