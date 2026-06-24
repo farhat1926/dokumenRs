@@ -29,16 +29,17 @@ export default function Sidebar({ open, setOpen }) {
         className={`
           fixed md:static z-50
           w-64 sm:w-72
-          bg-blue-900 text-white
+          bg-blue-400 text-white
           min-h-screen p-5
           transform ${open ? "translate-x-0" : "-translate-x-full"}
           md:translate-x-0 transition-all duration-300
         `}
       >
         {/* LOGO */}
-        <h1 className="text-xl md:text-2xl font-bold mb-8">
-          Intranet RS
-        </h1>
+        {/* <h1 className="text-xl md:text-2xl font-bold mb-8">
+          Intranet RS UMS A.R Fachrudin
+        </h1> */}
+        <img src="/assets/logo.png" alt="" />
 
         {/* MENU */}
         <nav className="flex flex-col gap-3 text-base md:text-lg">
