@@ -152,7 +152,7 @@ export default function Penunjang() {
       ],
     },
       {
-      nama: "InstalasiRekam Medis",
+      nama: "Instalasi Rekam Medis",
       kategori: [
         {
           nama: "SOP",
@@ -187,7 +187,7 @@ export default function Penunjang() {
       ],
     },
      {
-      nama: "InstalasiRehabilitasi Medis",
+      nama: "Instalasi Rehabilitasi Medis",
       kategori: [
         {
           nama: "SOP",
