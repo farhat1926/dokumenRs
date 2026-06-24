@@ -44,7 +44,7 @@ export default function App() {
               <Route path="/Keperawatan" element={<Keperawatan />} />
               <Route path="/Keuangan" element={<Keuangan />} />
               <Route path="/Sarana" element={<Sarana />} />
-              <Route path="/Clinical" element={<Dokumen />} />
+              <Route path="/Clinical" element={<Clinical />} />
             </Routes>
           </main>
 
