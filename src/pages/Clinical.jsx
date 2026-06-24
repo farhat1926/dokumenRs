@@ -12,11 +12,11 @@ export default function Clinical() {
       nama: "Clinical Pathway",
       kategori: [
         {
-          nama: "Clinical Pathway",
-          drive: "https://drive.google.com/drive/folders/1RuSsORHsbKYC43EJeRZuWo3OP5Aj2wsf?usp=drive_link",
-          password: "clinicalpathway",
+        nama: "Clinical Pathway",
+        drive: "https://drive.google.com/drive/folders/1RuSsORHsbKYC43EJeRZuWo3OP5Aj2wsf?usp=drive_link",
+        password: "clinicalpathway",
         },
-      ],
+    ],
     },
       {
       nama: "Panduan Praktek Klinis",

@@ -8,7 +8,6 @@ import {
 
 import { units } from "../data/units";
 import { komites } from "../data/komites";
-import {Clinical} from "./Clinical";
 
 export default function Dashboard() {
   const totalInstalasi = units.reduce(
