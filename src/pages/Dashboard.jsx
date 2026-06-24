@@ -54,14 +54,14 @@ export default function Dashboard() {
     {
       name: (
         <span>
-          Panduan Praktek Klinis dan <i>Pedoman Praktek Klinis</i>
+          Panduan Praktek Klinis dan <i>Clinical <Pathway></Pathway></i>
         </span>
       ),
       path: "/Panduan",
       icon: <CalendarDays size={22} />,
     },
     {
-      name: "SPK (Standar Pelayanan Klinis) & RKK (Rencana Kerja Klinik)",
+      name: "SPK (Surat Penugasan Klinis) & RKK (Rincian Kewenangan Klinis)",
       path: "/Spkrkk",
       icon: <CalendarDays size={22} />,
     },
@@ -83,7 +83,7 @@ export default function Dashboard() {
       <div>
         <h2 className="text-2xl md:text-3xl font-bold flex items-center gap-2">
           <LayoutDashboard />
-          Beranda
+          <b>Beranda</b>
         </h2>
 
         <p className="text-gray-500 mt-1">
