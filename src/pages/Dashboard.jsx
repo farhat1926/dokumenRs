@@ -52,7 +52,7 @@ export default function Dashboard() {
       icon: <FileText size={22} />,
     },
     {
-      name: "Panduan Praktek Klinis dan " + <i>Clinical Pathway</i>,
+      name: "Panduan Praktek Klinis dan " + <span className="italic">Clinical Pathway</span>,
       path: "/Panduan",
       icon: <CalendarDays size={22} />,
     },
