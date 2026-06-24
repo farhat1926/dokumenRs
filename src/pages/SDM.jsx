@@ -59,7 +59,7 @@ export default function SDM() {
       ],
     },
      {
-      nama: "Pendidikan dan Pelatihan (DiKLAT)",
+      nama: "Pendidikan dan Pelatihan (DIKLAT)",
       kategori: [
         {
           nama: "SPO",

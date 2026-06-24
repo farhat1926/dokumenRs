@@ -9,7 +9,7 @@ export default function Keuangan() {
 
   const units = [
      {
-      nama: "Billing",
+      nama: <i>Billing</i>,
       kategori: [
         {
           nama: "SPO",
