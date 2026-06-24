@@ -109,31 +109,6 @@ export default function Keuangan() {
       ],
     },
     {
-      nama: "Billing",
-      kategori: [
-        {
-          nama: "SPO",
-          drive: "https://drive.google.com/drive/folders/1vLDvyms-X5jvjKbLpiXG5MC-NNIF9gHJ?usp=sharing",
-          password: "billing",
-        },
-        {
-          nama: "Pedoman dan Panduan",
-          drive: "https://drive.google.com/drive/folders/1h24Sm5BSx6OzrahFIhH963YR2CH4cW0N?usp=sharing",
-          password: "billing",
-        },
-        {
-          nama: "Mutu Unit",
-          drive: "https://drive.google.com/drive/folders/19u4EdYXQ_HGXj4934sQOv3WxzjbijpSO?usp=sharing",
-          password: "billing",
-        },
-        {
-          nama: "Program Kerja",
-          drive: "https://drive.google.com/drive/folders/1mczfss_rnGDtfmMNDLN-cJuQJQ4Vc79I?usp=sharing",
-          password: "billing",
-        },
-      ],
-    },
-    {
       nama: "Logistik",
       kategori: [
         {

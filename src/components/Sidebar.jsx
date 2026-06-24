@@ -5,14 +5,14 @@ export default function Sidebar({ open, setOpen }) {
 
   const menu = [
     { name: "Dashboard", path: "/" },
-    { name: "Dokumen Komite", path: "/Klinik" },
-    { name: "Dokumen Instalasi", path: "/Dokumen" },
-    { name: "Dokumen SDM", path: "/SDM" },
-    { name: "Dokumen Penunjang", path: "/Penunjang" },
-    { name: "Dokumen Pelayanan Medis", path: "/Medis" },
-    { name: "Dokumen Keperawatan & Kebidanan", path: "/Keperawatan" },
-    { name: "Dokumen Keuangan", path: "/Keuangan" },
-    { name: "Dokumen Sarana & Prasarana", path: "/Sarana" },
+    { name: "Komite", path: "/Klinik" },
+    // { name: " Instalasi", path: "/Dokumen" },
+    { name: "SDM", path: "/SDM" },
+    { name: "Penunjang Medis dan Pelayanan Non Medis", path: "/Penunjang" },
+    { name: "Pelayanan Medis", path: "/Medis" },
+    { name: "Keperawatan & Kebidanan", path: "/Keperawatan" },
+    { name: "Keuangan", path: "/Keuangan" },
+    { name: "Sarana dan Prasarana", path: "/Sarana" },
   ];
 
   return (
