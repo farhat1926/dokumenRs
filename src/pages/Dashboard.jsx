@@ -83,7 +83,7 @@ export default function Dashboard() {
       <div>
         <h2 className="text-2xl md:text-3xl font-bold flex items-center gap-2">
           <LayoutDashboard />
-          <b>Beranda</b>
+          BERANDA
         </h2>
 
         <p className="text-gray-500 mt-1">
