@@ -108,7 +108,7 @@ export default function Medis() {
         },
         {
           nama: "Pedoman dan Panduan",
-          drive: "https://drive.google.com/drive/folders/1j_ohVyuL9XkT371UEJRYVIQUMXvq9ag1?hl=id",
+          drive: "https://drive.google.com/drive/folders/1XR7yIhqRT5ZwBeKrm3QHFZlY7ytFZfqd?usp=sharing",
           password: "poliklinik",
         },
         {
