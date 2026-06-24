@@ -11,6 +11,7 @@ import Medis from "./pages/Medis";
 import Keperawatan from "./pages/Keperawatan";
 import Keuangan from "./pages/Keuangan";
 import Sarana from "./pages/Sarana";
+import Clinical from "./pages/Clinical";
 
 export default function App() {
   const [open, setOpen] = useState(false);
@@ -43,6 +44,7 @@ export default function App() {
               <Route path="/Keperawatan" element={<Keperawatan />} />
               <Route path="/Keuangan" element={<Keuangan />} />
               <Route path="/Sarana" element={<Sarana />} />
+              <Route path="/Clinical" element={<Dokumen />} />
             </Routes>
           </main>
 
