@@ -185,32 +185,32 @@ export const komites = [
       ],
     },
     {
-      nama: "Komite Pencegahan & Pengendalian Infeksi",
+      nama: "Komite Rekam Medik",
       kategori: [
         {
           nama: "SK & Organisasi",
-          drive: "https://drive.google.com/drive/folders/1dqpQhd5QHeuLkMBfRCS3eynNQRrlROMe?usp=drive_link",
-          password: "komitepencegahan",
+          drive: "https://drive.google.com/drive/folders/1MejCmC-HHv8a6mpNQ7DZpFEQnizgyOud?usp=sharing",
+          password: "komiterekammedik",
         },
         {
           nama: "Pedoman & Regulasi",
-          drive: "https://drive.google.com/drive/folders/1xDQVO1gb2aMLGtOrRe30CyaYpCiU-KGP?usp=drive_link",
-          password: "komitepencegahan",
+          drive: "https://drive.google.com/drive/folders/1-YV5Y433c4QFroOYjZyswrkNem5T3k8e?usp=sharing",
+          password: "komiterekammedik",
         },
         {
           nama: "Rapat & Evaluasi",
-          drive: "https://drive.google.com/drive/folders/1ZsXh38fbT53zYZJKzAB93UOoZrlBVhqY?usp=drive_link",
-          password: "komitepencegahan",
+          drive: "https://drive.google.com/drive/folders/1_geJ-aVd7H68a93iLznB0Fn-DNcLCS_K?usp=sharing",
+          password: "komiterekammedik",
         },
         {
           nama: "Program Kerja",
-          drive: "https://drive.google.com/drive/folders/13K_xy5NfeQlQ0j4WxQ-mEz6vZSaRttFH?usp=drive_link",
-          password: "komitepencegahan",
+          drive: "https://drive.google.com/drive/folders/1zSWf2GpSnXMkOEydjduAZX7KxgBs4YZF?usp=sharing",
+          password: "komiterekammedik",
         },
         {
           nama: "Indikator Mutu dan Laporan",
-          drive: "https://drive.google.com/drive/folders/1mjOp0gKtmmdfwKulkkcwsfqhjZQYQQYJ?usp=drive_link",
-          password: "komitepencegahan",
+          drive: "https://drive.google.com/drive/folders/1v7rJWRauQBNdHoueEojppSkhdUSjq2H5?usp=sharing",
+          password: "komiterekammedik",
         },
       ],
     },
