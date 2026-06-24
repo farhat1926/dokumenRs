@@ -4,13 +4,13 @@ export default function Sidebar({ open, setOpen }) {
   const location = useLocation();
 
   const menu = [
-    { name: "Dashboard", path: "/" },
-    { name: "Komite", path: "/Klinik" },
+    { name: "Beranda", path: "/" },
+    { name: "Komite Rumah Sakit", path: "/Klinik" },
     // { name: " Instalasi", path: "/Dokumen" },
-    { name: "SDM", path: "/SDM" },
-    { name: "Penunjang Medis dan Pelayanan Non Medis", path: "/Penunjang" },
+    { name: "SDM Rumah Sakit", path: "/SDM" },
     { name: "Pelayanan Medis", path: "/Medis" },
-    { name: "Keperawatan & Kebidanan", path: "/Keperawatan" },
+    { name: "Penunjang Medis dan Pelayanan Non Medis", path: "/Penunjang" },
+    { name: "Keperawatan dan Kebidanan", path: "/Keperawatan" },
     { name: "Keuangan", path: "/Keuangan" },
     { name: "Sarana dan Prasarana", path: "/Sarana" },
   ];

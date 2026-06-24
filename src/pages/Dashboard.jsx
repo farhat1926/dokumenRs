@@ -42,18 +42,33 @@ export default function Dashboard() {
 
   const menus = [
     {
-      name: "Komite",
-      path: "/klinik",
+      name: "SPO (Standar Prosedur Operasional)",
+      path: "/SPO",
       icon: <Stethoscope size={22} />,
     },
     {
-      name: "Instalasi",
-      path: "/dokumen",
+      name: "Pedoman dan Panduan",
+      path: "/Pedoman",
       icon: <FileText size={22} />,
     },
     {
-      name: "Jadwal Dokter",
-      path: "/jadwal",
+      name: "Panduan Praktek Klinis dan " + <i>Clinical Pathway</i>,
+      path: "/Panduan",
+      icon: <CalendarDays size={22} />,
+    },
+    {
+      name: "SPK (Standar Pelayanan Klinis) & RKK (Rencana Kerja Klinik)",
+      path: "/Spkrkk",
+      icon: <CalendarDays size={22} />,
+    },
+    {
+      name: "Mutu dan Keselamatan Pasien",
+      path: "/Mutu",
+      icon: <CalendarDays size={22} />,
+    },
+    {
+      name: "Dokumen Akreditasi",
+      path: "/Akreditasi",
       icon: <CalendarDays size={22} />,
     },
   ];
@@ -64,11 +79,11 @@ export default function Dashboard() {
       <div>
         <h2 className="text-2xl md:text-3xl font-bold flex items-center gap-2">
           <LayoutDashboard />
-          Dashboard
+          Beranda
         </h2>
 
         <p className="text-gray-500 mt-1">
-          Selamat datang di Intranet Rumah Sakit
+          Selamat datang di Intranet Rumah Sakit UMS A.R Fachrudin
         </p>
       </div>
 
