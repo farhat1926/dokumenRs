@@ -1,5 +1,4 @@
 import { Link, useLocation } from "react-router-dom";
-import image from "../assets/logo.png";
 
 export default function Sidebar({ open, setOpen }) {
   const location = useLocation();
@@ -37,10 +36,10 @@ export default function Sidebar({ open, setOpen }) {
         `}
       >
         {/* LOGO */}
-        {/* <h1 className="text-xl md:text-2xl font-bold mb-8">
+        <h1 className="text-xl md:text-2xl font-bold mb-8">
           Intranet RS UMS A.R Fachrudin
-        </h1> */}
-        <img src={image} alt="" className="w-50 h-50 mb-8" />
+        </h1>
+        <img src="/assets/logo.png" alt="" />
 
         {/* MENU */}
         <nav className="flex flex-col gap-3 text-base md:text-lg">
