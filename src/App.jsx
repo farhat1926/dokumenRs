@@ -17,7 +17,7 @@ import Ppkdancp from "./pages/Ppkdancp";
 import SPO from "./pages/SPO";
 import Mutu from "./pages/mutu";
 import Akreditasi from "./pages/Akreditasi";
-import Pedoman from "./pages/pedoman";
+import Pedoman from "./pages/Pedoman";
 
 export default function App() {
   const [open, setOpen] = useState(false);
