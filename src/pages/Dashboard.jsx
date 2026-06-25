@@ -54,7 +54,7 @@ export default function Dashboard() {
     {
       name: (
         <span>
-          Panduan Praktek Klinis dan <i>Clinical Pathway</i>
+          Panduan Praktek Klinis dan <i> Clinical Pathway</i>
         </span>
       ),
       path: "/Clinical",
