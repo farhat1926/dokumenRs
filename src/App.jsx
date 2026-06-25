@@ -1,23 +1,19 @@
 import { useState } from "react";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 
-import Sidebar from "./components/Sidebar";
-import Dashboard from "./pages/Dashboard";
-import Klinik from "./pages/Klinik";
+import Akreditasi from "./pages/Akreditasi";
+import Clinical from "./pages/Clinical";
 import Dokumen from "./pages/Dokumen";
-import SDM from "./pages/SDM"
-import Penunjang from "./pages/Penunjang";
-import Medis from "./pages/Medis";
 import Keperawatan from "./pages/Keperawatan";
 import Keuangan from "./pages/Keuangan";
-import Sarana from "./pages/Sarana";
-import Clinical from "./pages/Clinical";
-import Spkrkk from "./pages/Spkrkk";
-// import Ppkdancp from "./pages/Ppkdancp";
-import SPO from "./pages/SPO";
+import Medis from "./pages/Medis";
 import Mutu from "./pages/Mutu";
-import Akreditasi from "./pages/Akreditasi";
 import Pedoman from "./pages/Pedoman";
+import Penunjang from "./pages/Penunjang";
+import Sarana from "./pages/Sarana";
+import SDM from "./pages/SDM";
+import Spkrkk from "./pages/Spkrkk";
+import SPO from "./pages/SPO";
 
 export default function App() {
   const [open, setOpen] = useState(false);
