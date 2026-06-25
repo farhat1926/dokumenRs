@@ -14,6 +14,9 @@ import Sarana from "./pages/Sarana";
 import SDM from "./pages/SDM";
 import Spkrkk from "./pages/Spkrkk";
 import SPO from "./pages/SPO";
+import Dashboard from "./pages/Dashboard";
+import Klinik from "./pages/Klinik";
+import Sidebar from "./components/Sidebar";
 
 export default function App() {
   const [open, setOpen] = useState(false);
