@@ -13,6 +13,11 @@ import Keuangan from "./pages/Keuangan";
 import Sarana from "./pages/Sarana";
 import Clinical from "./pages/Clinical";
 import Spkrkk from "./pages/Spkrkk";
+import Ppkdancp from "./pages/Ppkdancp";
+import SPO from "./pages/SPO";
+import Mutu from "./pages/mutu";
+import Akreditasi from "./pages/Akreditasi";
+import Pedoman from "./pages/pedoman";
 
 export default function App() {
   const [open, setOpen] = useState(false);
@@ -47,9 +52,13 @@ export default function App() {
               <Route path="/Sarana" element={<Sarana />} />
               <Route path="/Clinical" element={<Clinical />} />
               <Route path="/Spkrkk" element={<Spkrkk />} />
+              <Route path="/Ppkdancp" element={<Ppkdancp />} />
+              <Route path="/SPO" element={<SPO />} />
+              <Route path="/Mutu" element={<Mutu />} />
+              <Route path="/Akreditasi" element={<Akreditasi />} />
+              <Route path="/Pedoman" element={<Pedoman />} />
             </Routes>
           </main>
-
         </div>
       </div>
     </BrowserRouter>

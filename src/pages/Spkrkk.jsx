@@ -33,7 +33,7 @@ export default function Spkrkk() {
       kategori: [
         {
           nama: "Tenaga Kesehatan Lainnya",
-          drive: "https://drive.google.com/drive/folders/1YgtNXm82KUriyMcH_7HdztZzyGcbjPlM?usp=drive_link",
+          drive: "https://drive.google.com/drive/folders/1XOM4mvrDyAkNsamONOoki7eEmwQ8Kbjn?usp=sharing",
           password: "tenagakesehatanlainnya",
         },
       ],
