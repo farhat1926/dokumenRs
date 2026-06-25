@@ -41,6 +41,17 @@ export default function Penunjang() {
           drive: "https://drive.google.com/drive/folders/1cmBJknlt9M4MJquZaIsCbv3EDT9r4KAo?usp=sharing",
           password: "laboratorium",
         },
+        {
+          nama: "SK Pegawai Laboratorium",
+          drive: "https://drive.google.com/drive/folders/1Lw0OGT0Rm47LSrPG6CM7IzSKRbvnfRPl?usp=sharing",
+          password: "laboratorium",
+        },
+        {
+          nama: "Struktur Organisasi",
+          drive: "https://drive.google.com/drive/folders/1D18cnAvVuZg1_eVQUDFB_5PBjH2UwS-P?usp=sharing",
+          password: "laboratorium",
+        },
+        
       ],
     },
       {
@@ -117,6 +128,16 @@ export default function Penunjang() {
           drive: "https://drive.google.com/drive/folders/1ADDYgP2zZwvWPcLBnW_3tBYsF4hGDkoM?usp=sharing",
           password: "farmasi",
         },
+         {
+          nama: "Struktur Organisasi",
+          drive: "https://drive.google.com/drive/folders/1e44H6An5UOm9iJxElkHBkb9KFIC8lw5i?usp=sharing",
+          password: "laboratorium",
+        },
+        {
+          nama: "SK Pegawai",
+          drive: "https://drive.google.com/drive/folders/12Wgfgq0AQ8RFzv5TqmcOUziihCMzpVom?usp=sharing",
+          password: "laboratorium",
+        },
         
       ],
     },
@@ -146,6 +167,21 @@ export default function Penunjang() {
         {
           nama: "Program Kerja",
           drive: "https://drive.google.com/drive/folders/1HdPfMIEI6QVQRTI3yZKCfmzYVCtggFDB?usp=sharing",
+          password: "gizi",
+        },
+        {
+          nama: "Laporan Pelayanan Gizi",
+          drive: "https://drive.google.com/drive/folders/1c6OQR_XKbdhVCBtSM7RTgoLGkDDOTT_1?usp=sharing",
+          password: "gizi",
+        },
+        {
+          nama: "Struktur Organisasi",
+          drive: "https://drive.google.com/drive/folders/1Krx9nQvgZhMC45xBNkwTnoXAF0JzM8F7?usp=sharing",
+          password: "gizi",
+        },
+        {
+          nama: "SK Pegawai Gizi",
+          drive: "https://drive.google.com/drive/folders/1tTv6c84woo8dQOyTMCsqf71i2sqjmYDx?usp=sharing",
           password: "gizi",
         },
         
@@ -182,6 +218,21 @@ export default function Penunjang() {
         {
           nama: "Program Kerja",
           drive: "https://drive.google.com/drive/folders/1oViA73YZZL8B4E5fYKahkgwjNYYGgq6F?usp=sharing",
+          password: "rekammedis",
+        },
+        {
+          nama: "Laporan",
+          drive: "https://drive.google.com/drive/folders/12BvRNfp9fkytB5CI7KwT75N8n45HFnZg?usp=sharing",
+          password: "rekammedis",
+        },
+        {
+          nama: "Struktur Organisasi",
+          drive: "https://drive.google.com/drive/folders/1nydPvCLQHWD2BUrbR6-0U_-YT4X5jXdJ?usp=sharing",
+          password: "rekammedis",
+        },
+        {
+          nama: "SK Kepegawaian",
+          drive: "https://drive.google.com/drive/folders/1a6fPPk6WLbB2WY1TxEHThar4AW6qa0rt?usp=sharing",
           password: "rekammedis",
         },
       ],

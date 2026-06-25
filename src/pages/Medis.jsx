@@ -231,6 +231,26 @@ export default function Medis() {
           drive: "https://drive.google.com/drive/folders/1EDkhh91PX0d6ZRru6agOrT8GOYft23-z?usp=sharing",
           password: "icu",
         },
+        {
+          nama: "Sertifikat",
+          drive: "https://drive.google.com/drive/folders/1BqQvCCqUQM8uFSMQewPO_xVwqwyj-sJJ?usp=sharing",
+          password: "icu",
+        },
+        {
+          nama: "Struktur Organisasi",
+          drive: "https://drive.google.com/drive/folders/1ozIgYq9KiarcPanJb0K7wl_IR0nbmy1n?usp=sharing",
+          password: "icu",
+        },
+        {
+          nama: "SK Kepegawaian",
+          drive: "https://drive.google.com/drive/folders/1K2ruSOIRiELSRSNuS1JQ3sirPB69S9Mh?usp=sharing",
+          password: "icu",
+        },
+        {
+          nama: "Laporan Triwulan",
+          drive: "https://drive.google.com/drive/folders/1rsCh_QhjrDny_kOPHA6OuQVlpqN8GrmZ?usp=sharing",
+          password: "icu",
+        },
       ],
     },
   ];

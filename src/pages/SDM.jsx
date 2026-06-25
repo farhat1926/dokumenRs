@@ -55,6 +55,11 @@ export default function SDM() {
           nama: "Program Kerja",
           drive: "https://drive.google.com/drive/folders/1jk3W44Tbz6uhqvX3k9xeqNLw2d4k1er9?usp=sharing",
           password: "kepegawaian",
+        },
+        {
+          nama: "Data Pegawai",
+          drive: "https://drive.google.com/drive/folders/145XwwxMwBJwLP9wRR35v5qv_SgE9bXJW?usp=sharing",
+          password: "kepegawaian",
         }
       ],
     },
