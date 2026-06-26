@@ -12,7 +12,7 @@ export default function Penunjang() {
       nama: "Instalasi Laboratorium",
       kategori: [
         {
-          nama: "SOP",
+          nama: "SPO",
           drive: "https://drive.google.com/drive/folders/1eMaHHXOz3hfAPP0q6UPlcNRspw1RYxsa?usp=sharing",
           password: "laboratorium",
         },

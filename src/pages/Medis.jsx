@@ -57,7 +57,7 @@ export default function Medis() {
       nama: "Instalasi Bedah Sentral (IBS)",
       kategori: [
         {
-          nama: "SOP ",
+          nama: "SPO",
           drive: "https://drive.google.com/drive/folders/1WGZYCsoG6V-TgBJepqNiQRGM0w6er6NJ?hl=id",
           password: "ibs",
         },
@@ -102,7 +102,7 @@ export default function Medis() {
       nama: "Instalasi Rawat Jalan (Poliklinik)",
       kategori: [
         {
-          nama: "SOP",
+          nama: "SPO",
           drive: "https://drive.google.com/drive/folders/1j_ohVyuL9XkT371UEJRYVIQUMXvq9ag1?hl=id",
           password: "poliklinik",
         },
@@ -197,7 +197,7 @@ export default function Medis() {
       nama: "Instalasi Keperawatan Intensif (ICU)",
       kategori: [
         {
-          nama: "SOP",
+          nama: "SPO",
           drive: "https://drive.google.com/drive/folders/1hcFTBI62kupeTAodW1M3Vu1RdUfGm6ZS?hl=id",
           password: "icu",
         },
