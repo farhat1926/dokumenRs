@@ -255,27 +255,27 @@ export const komites = [
         {
           nama: "SK & Organisasi",
           drive: "https://drive.google.com/drive/folders/1e0onNoWoieH2VoBFgGUDMTOhBr5HI1cB?usp=drive_link",
-          password: "komitekeselamatan",
+          password: "k3",
         },
         {
           nama: "Pedoman & Regulasi",
           drive: "https://drive.google.com/drive/folders/1aI_eI8cNcNpbyDIJwETsEf2I172mz4_N?usp=drive_link",
-          password: "komitekeselamatan",
+          password: "k3",
         },
         {
           nama: "Rapat & Evaluasi",
           drive: "https://drive.google.com/drive/folders/1kWJoQk9GsbnYHfRRXMdv2wED9ES85IJz?usp=drive_link",
-          password: "komitekeselamatan",
+          password: "k3",
         },
         {
           nama: "Program Kerja",
           drive: "https://drive.google.com/drive/folders/1sncLe0AfD4tFL_utlTHmiLGd2AXScR1N?usp=drive_link",
-          password: "komitekeselamatan",
+          password: "k3",
         },
         {
           nama: "Indikator Mutu dan Laporan",
           drive: "https://drive.google.com/drive/folders/13jTJbuDXK6rqNSCxpYyilPXGikLAVKY3?usp=drive_link",
-          password: "komitekeselamatan",
+          password: "k3",
         },
       ],
     },
