@@ -9,24 +9,14 @@ export default function Akreditasi() {
 
   const units = [
       {
-      nama: "Clinical Pathway",
+      nama: "Dokumen Akreditasi",
       kategori: [
         {
-        nama: "Clinical Pathway",
+        nama: "Dokumen Akreditasi",
         drive: "https://drive.google.com/drive/folders/1RuSsORHsbKYC43EJeRZuWo3OP5Aj2wsf?usp=drive_link",
-        password: "clinicalpathway",
+        password: "dokumenakreditasi",
         },
     ],
-    },
-      {
-      nama: "Panduan Praktek Klinis",
-      kategori: [
-        {
-          nama: "PPK",
-          drive: "https://drive.google.com/drive/folders/1YgtNXm82KUriyMcH_7HdztZzyGcbjPlM?usp=drive_link",
-          password: "panduanpraktekklinis",
-        },
-      ],
     },
   ];
 
