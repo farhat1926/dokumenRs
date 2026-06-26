@@ -9,22 +9,187 @@ export default function Pedoman() {
 
   const units = [
       {
-      nama: "Clinical Pathway",
+      nama: "Pelayanan Medis",
       kategori: [
         {
-        nama: "Clinical Pathway",
-        drive: "https://drive.google.com/drive/folders/1RuSsORHsbKYC43EJeRZuWo3OP5Aj2wsf?usp=drive_link",
-        password: "clinicalpathway",
+          nama: "Instalasi Gawat Darurat",
+          drive: "https://drive.google.com/drive/folders/1We3zDIt7gaove0UYPhQssQRnO41ymbXT?hl=id",
+          password: "igd",
+        },
+        {
+          nama: "Instalasi Bedah Sentral",
+          drive: "https://drive.google.com/drive/folders/1WGZYCsoG6V-TgBJepqNiQRGM0w6er6NJ?hl=id",
+          password: "ibs",
+        },
+        {
+          nama: "Poliklinik",
+          drive: "https://drive.google.com/drive/folders/1XR7yIhqRT5ZwBeKrm3QHFZlY7ytFZfqd?usp=sharing",
+          password: "poliklinik",
+        },
+         {
+          nama: "Rawat Inap",
+          drive: "https://drive.google.com/drive/folders/1c09ZldtoEhiVH42BCLWmN2y3yyYWH4zt?hl=id",
+          password: "rawatinap",
+        },
+        {
+          nama: "Instalasi Keperawatan Intensif (ICU)",
+          drive: "https://drive.google.com/drive/folders/1hcFTBI62kupeTAodW1M3Vu1RdUfGm6ZS?hl=id",
+          password: "icu",
         },
     ],
     },
       {
-      nama: "Panduan Praktek Klinis",
+      nama: "Penunjang Medis dan Pelayanan Non Medis",
       kategori: [
         {
-          nama: "PPK",
-          drive: "https://drive.google.com/drive/folders/1YgtNXm82KUriyMcH_7HdztZzyGcbjPlM?usp=drive_link",
-          password: "panduanpraktekklinis",
+          nama: "Instalasi Laboratorium",
+          drive: "https://drive.google.com/drive/folders/1OxPMr2zQ0sqHeedeoDT_MHdFYbVjgmmQ?usp=sharing",
+          password: "laboratorium",
+        },
+        {
+          nama: "Instalasi Radiologi",
+          drive: "https://drive.google.com/drive/folders/1TOieJYeghTslE4Ig9cWj3bjWjhVNpIxv?usp=sharing",
+          password: "radiologi",
+        },
+        {
+          nama: "Instalasi Farmasi",
+          drive: "https://drive.google.com/drive/folders/1bNnH66zrqt1YQ0lFPaowKIBDTUvfxsuM?usp=sharing",
+          password: "farmasi",
+        },
+        {
+          nama: "Instalasi Gizi",
+          drive: "https://drive.google.com/drive/folders/1gk8Uqxiz2tswrzzMI3E9qAqJdkrd2Qcu?usp=sharing",
+          password: "gizi",
+        },
+        {
+          nama: "Instalasi Rekam Medis",
+          drive: "https://drive.google.com/drive/folders/1Bv8pBj3-NUhwgxEtoO1ZsO3FpB-OUMuT?usp=sharing",
+          password: "rekammedis",
+        },
+        {
+          nama: "Instalasi Rehabilitasi Medis",
+          drive: "https://drive.google.com/drive/folders/1hnF6lJmddFhvfqaxafYiSDtOuu_Y7sNX?usp=sharing",
+          password: "rehabilitasimedis",
+        },
+        {
+          nama: "Kerohanian",
+          drive: "https://drive.google.com/drive/folders/1OzQLdBW9_kk47T5uOoA9F5YhA9ma5ECO?usp=sharing",
+          password: "kerohanian",
+        },
+        {
+          nama: "Pemulasaran Jenazah",
+          drive: "https://drive.google.com/drive/folders/1CpsewmjoaYQEvVu-Xw7k1Rq643NZTLyk?usp=sharing",
+          password: "pemulasaranjenazah",
+        },
+        {
+          nama: "Humas dan Marketing",
+          drive: "https://drive.google.com/drive/folders/1lIF-GriQ5uRqxFdGVakaZuOQ__R8N_V8?usp=sharing",
+          password: "humasmarketing",
+        },
+      ],
+    },
+      {
+      nama: "SDM",
+      kategori: [
+        {
+          nama: "Kesekretariatan",
+          drive: "https://drive.google.com/drive/folders/15Z1NHvzR8ItNpqCYD7Rn0DQRHpjKKS2z?usp=sharing",
+          password: "sekertaris",
+        },
+        {
+          nama: "Kepegawaian",
+          drive: "https://drive.google.com/drive/folders/1bPpdZauKixTHzOKb8J3MGEIKsXdSxF9l?usp=sharing",
+          password: "kepegawaian",
+        },
+        {
+          nama: "Pendidikan dan Pelatihan (DIKLAT)",
+          drive: "https://drive.google.com/drive/folders/1FjLqss2RTlHlG-LH-nEFV4h8EN-Ualku?usp=sharing",
+          password: "diklat",
+        },
+      ],
+    },
+      {
+      nama: "Keperawatan dan Kebidanan",
+      kategori: [
+        {
+          nama: "Keperawatan",
+          drive: "https://drive.google.com/drive/folders/1XZA_jwaFvbwgyQgnc2FFZJtSnCIjrjE6?hl=id",
+          password: "keperawatan",
+        },
+        {
+          nama: "Kebidanan",
+          drive: "https://drive.google.com/drive/folders/1q1lxts9SNGP5YPOK0YlT4itXZ_5jpEob?usp=sharing",
+          password: "kebidanan",
+        },
+      ],
+    },
+      {
+      nama: "Keuangan",
+      kategori: [
+         {
+          nama: "Billing",
+          drive: "https://drive.google.com/drive/folders/1h24Sm5BSx6OzrahFIhH963YR2CH4cW0N?usp=sharing",
+          password: "billing",
+        },
+        {
+          nama: "Kasir",
+          drive: "https://drive.google.com/drive/folders/1aplo37Qtuew0yGDab0coecrqT8DIgXpD?usp=drive_link",
+          password: "kasir",
+        },
+        {
+          nama: "Administrasi Keuangan",
+          drive: "https://drive.google.com/drive/folders/1B2NHcDnHwxyQmnuBPFkwVlzPSi0IZwA5?usp=sharing",
+          password: "administrasikeuangan",
+        },
+        {
+          nama: "Pajak",
+          drive: "https://drive.google.com/drive/folders/19OJv0BaGWQkywTIPVLB0BpswLiwNGyeP?usp=sharing",
+          password: "pajak",
+        },
+        {
+          nama: "Logistik",
+          drive: "https://drive.google.com/drive/folders/1ucNR7HxlqNxKH6tHbkJWFiD9-zuHo8p7?usp=sharing",
+          password: "logistik",
+        },
+      ],
+    },
+     {
+      nama: "Sarana dan Prasarana",
+      kategori: [
+         {
+          nama: "IT",
+          drive: "https://drive.google.com/drive/folders/1ogDRyMcgrxGwkdivgRexNdvjeRf4PyQr?usp=sharing",
+          password: "it",
+        },
+        {
+          nama: "IPSRS",
+          drive: "https://drive.google.com/drive/folders/1S44CnTeFuB7bTS-AmAHoylrmxfgZpTvb?usp=sharing",
+          password: "ipsrs",
+        },
+        {
+          nama: "CSSD",
+          drive: "https://drive.google.com/drive/folders/1txa4iz63umf2m9QZdK3I--2u7UNM9M9w?usp=sharing",
+          password: "cssd",
+        },
+        {
+          nama: "Linen dan Laundry",
+          drive: "https://drive.google.com/drive/folders/1PAALtZHt2eQ6zIWALj2G6XEenVnEIyJe?usp=sharing",
+          password: "linenlaundry",
+        },
+        {
+          nama: "Sanitasi Lingkungan",
+          drive: "https://drive.google.com/drive/folders/1yU9Fm1_pCIXMKlKmy3Bc4qOMzyLKvS8U?usp=sharing",
+          password: "sanitasilingkungan",
+        },
+        {
+          nama: "Unit Keamanan",
+          drive: "https://drive.google.com/drive/folders/1tl6l2eoPrGI5cSl1oJijjtbqDhm27FbT?usp=sharing",
+          password: "unitkeamanan",
+        },
+        {
+          nama: "Unit Kebersihan",
+          drive: "https://drive.google.com/drive/folders/1G89noQfIgJWlYT7a3TaEsHMJuABo3J5_?usp=sharing",
+          password: "unitkebersihan",
         },
       ],
     },

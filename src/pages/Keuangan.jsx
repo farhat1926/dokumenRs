@@ -89,22 +89,22 @@ export default function Keuangan() {
         {
           nama: "SPO",
           drive: "https://drive.google.com/drive/folders/1EubtdjWBo83lzVcAkoy8KwjJPjRlrYjS?usp=sharing",
-          password: "billing",
+          password: "pajak",
         },
         {
           nama: "Pedoman dan Panduan",
           drive: "https://drive.google.com/drive/folders/19OJv0BaGWQkywTIPVLB0BpswLiwNGyeP?usp=sharing",
-          password: "billing",
+          password: "pajak",
         },
         {
           nama: "Mutu Unit",
           drive: "https://drive.google.com/drive/folders/1w8NasYrnf6URk48wNFHJ9qSYlar47k7y?usp=sharing",
-          password: "billing",
+          password: "pajak",
         },
         {
           nama: "Program Kerja",
           drive: "https://drive.google.com/drive/folders/1MhmP2k0Mx_bKplvpvQnIN_0LPi6G5x8r?usp=sharing",
-          password: "billing",
+          password: "pajak",
         },
       ],
     },
@@ -113,29 +113,26 @@ export default function Keuangan() {
       kategori: [
         {
           nama: "SPO",
-          drive: "https://drive.google.com/drive/folders/14J0ZbloimfEQHUsK0PIzP_pkfoyX2ABi?usp=sharing",
-          password: "billing",
+          drive: "https://drive.google.com/drive/folders/1EubtdjWBo83lzVcAkoy8KwjJPjRlrYjS?usp=sharing",
+          password: "logistik",
         },
         {
           nama: "Pedoman dan Panduan",
           drive: "https://drive.google.com/drive/folders/1ucNR7HxlqNxKH6tHbkJWFiD9-zuHo8p7?usp=sharing",
-          password: "billing",
+          password: "logistik",
         },
         {
           nama: "Mutu Unit",
           drive: "https://drive.google.com/drive/folders/1Bx96aLQ82drpiDKZWC-0gNJ0T0pqT1wZ?usp=sharing",
-          password: "billing",
+          password: "logistik",
         },
         {
           nama: "Program Kerja",
           drive: "https://drive.google.com/drive/folders/171j2saAakaHGuEF9BMV4Rwi3OYpJuIDg?usp=sharing",
-          password: "billing",
+          password: "logistik",
         },
       ],
     },
-    
-    
-
   ];
 
   const openUnit = (unit) => {
