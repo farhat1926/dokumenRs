@@ -308,61 +308,73 @@ export default function Medis() {
 
       {/* MODAL PILIH KATEGORI */}
       {step === "kategori" && (
-        <div className="fixed inset-0 bg-black/40 flex items-center justify-center">
-          <div className="bg-white rounded-xl p-6 w-80 md:w-96">
-            <h3 className="text-xl font-bold mb-4">
-              {selectedUnit?.nama}
-            </h3>
+  <div className="fixed inset-0 bg-black/40 flex items-center justify-center z-50 p-4">
+    <div className="bg-white rounded-xl w-full max-w-md max-h-[90vh] flex flex-col">
 
-            <div className="flex flex-col gap-3">
-              {selectedUnit?.kategori.map((kat, i) => (
-                <button
-                  key={i}
-                  onClick={() => openKategori(kat)}
-                  className="p-3 border rounded-lg hover:bg-blue-50 text-left"
-                >
-                  📁 {kat.nama}
-                </button>
-              ))}
-            </div>
+      <div className="p-6 border-b">
+        <h3 className="text-xl font-bold">
+          {selectedUnit?.nama}
+        </h3>
+      </div>
 
-            <button
-              onClick={resetAll}
-              className="mt-4 text-sm text-gray-500"
-            >
-              Tutup
-            </button>
-          </div>
-        </div>
-      )}
+      {/* Scroll di sini */}
+      <div className="flex-1 overflow-y-auto p-6 space-y-3">
+        {selectedUnit?.kategori.map((kat, i) => (
+          <button
+            key={i}
+            onClick={() => openKategori(kat)}
+            className="w-full p-3 border rounded-lg hover:bg-blue-50 text-left"
+          >
+            📁 {kat.nama}
+          </button>
+        ))}
+      </div>
+
+      <div className="p-6 border-t">
+        <button
+          onClick={resetAll}
+          className="w-full bg-gray-200 rounded-lg py-2 hover:bg-gray-300"
+        >
+          Tutup
+        </button>
+      </div>
+
+    </div>
+  </div>
+)}
 
       {/* MODAL PASSWORD */}
       {step === "password" && (
         <div className="fixed inset-0 bg-black/40 flex items-center justify-center">
           <div className="bg-white rounded-xl p-6 w-80 md:w-96">
-  <h3 className="text-xl font-bold mb-4">
-    {selectedUnit?.nama}
-  </h3>
+            <h3 className="text-xl font-bold mb-4">
+              {selectedKategori?.nama}
+            </h3>
 
-  <div className="flex flex-col gap-3">
-    {selectedUnit?.kategori.map((kat, i) => (
-      <button
-        key={i}
-        onClick={() => openKategori(kat)}
-        className="p-3 border rounded-lg hover:bg-blue-50 text-left"
-      >
-        📁 {kat.nama}
-      </button>
-    ))}
-  </div>
+            <input
+              type="password"
+              placeholder="Masukkan password"
+              value={password}
+              onChange={(e) => setPassword(e.target.value)}
+              className="w-full border rounded-lg p-3 mb-4"
+            />
 
-  <button
-    onClick={resetAll}
-    className="mt-4 text-sm text-gray-500"
-  >
-    Tutup
-  </button>
-</div>
+            <div className="flex justify-end gap-3">
+              <button
+                onClick={() => setStep("kategori")}
+                className="px-4 py-2 border rounded-lg"
+              >
+                Kembali
+              </button>
+
+              <button
+                onClick={handleSubmit}
+                className="px-4 py-2 bg-blue-900 text-white rounded-lg"
+              >
+                Masuk
+              </button>
+            </div>
+          </div>
         </div>
       )}
     </div>
