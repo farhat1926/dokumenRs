@@ -1,40 +1,40 @@
 export const komites = [
     {
-      nama: "Komite Medik",
+      nama: "Komite Medis",
       kategori: [
         {
           nama: "SK & Organisasi",
-          drive: "https://drive.google.com/drive/folders/1WYJ0l6CCRYs_DGxkanIe2cfn4suZC2jZ?usp=drive_link",
+          drive: "https://drive.google.com/drive/folders/1K5LhYnExn5cmKLitDtLAegFdEaKhpHEP?usp=sharing",
           password: "komitemedis",
         },
         {
-          nama: "Regulasi",
-          drive: "https://drive.google.com/drive/folders/1mT8EUKmBetXy1bA8BIUJTgrNJJhDBhBA?usp=drive_link",
+          nama: "Dokumen Kredensial",
+          drive: "https://drive.google.com/drive/folders/1_IN6L1qy5gRwPdQb9p3M9KaTJqN57CwO?usp=sharing",
           password: "komitemedis",
         },
         {
           nama: "Rapat & Evaluasi",
-          drive: "https://drive.google.com/drive/folders/1lzVEFyKfm7TSAT-d-HENQYAKvwPiFrQB?usp=drive_link",
-          password: "komitemedis",
-        },
-        {
-          nama: "Program Kerja",
-          drive: "https://drive.google.com/drive/folders/1Rz9UxEXb20UwGiByxlYkbXmTmtmGghFY?usp=drive_link",
-          password: "komitemedis",
-        },
-        {
-          nama: "Pedoman dan Regulasi",
-          drive: "https://drive.google.com/drive/folders/1UosUp1P1ShzrhWG-wL9QmHJgL1qjYrmx?usp=drive_link",
+          drive: "https://drive.google.com/drive/folders/1WYJ0l6CCRYs_DGxkanIe2cfn4suZC2jZ?usp=sharing",
           password: "komitemedis",
         },
         {
           nama: "Monitoring dan Laporan",
-          drive: "https://drive.google.com/drive/folders/1K5LhYnExn5cmKLitDtLAegFdEaKhpHEP?usp=drive_link",
+          drive: "https://drive.google.com/drive/folders/1KOVZvGVYeIXaO7hEEdcq-QrhU5OfQFdu?usp=sharing",
           password: "komitemedis",
         },
         {
-          nama: "Bukti Implementasi",
-          drive: "https://drive.google.com/drive/folders/1s9ZRFAdItrJS-zHO7oS4gVf_iInepdVD?usp=drive_link",
+          nama: "Pedoman dan Panduan",
+          drive: "https://drive.google.com/drive/folders/1s9ZRFAdItrJS-zHO7oS4gVf_iInepdVD?usp=sharing",
+          password: "komitemedis",
+        },
+        {
+          nama: "SPK & RKK",
+          drive: "https://drive.google.com/drive/folders/176bosWgqqerm4DJq7pHrINIR71fcwluP?usp=sharing",
+          password: "komitemedis",
+        },
+        {
+          nama: "Program Kerja",
+          drive: "https://drive.google.com/drive/folders/1Rz9UxEXb20UwGiByxlYkbXmTmtmGghFY?usp=sharing",
           password: "komitemedis",
         },
       ],
@@ -80,37 +80,37 @@ export const komites = [
       ],
     },
     {
-      nama: "Komite Pencegahan dan Pengendalian Infeksi",
+      nama: "Komite Pencegahan dan Pengendalian Infeksi (PPI)",
       kategori: [
         {
           nama: "SK & Organisasi",
           drive: "https://drive.google.com/drive/folders/1dqpQhd5QHeuLkMBfRCS3eynNQRrlROMe?usp=drive_link",
-          password: "komitepencegahan",
+          password: "ppi",
         },
         {
           nama: "Rapat & Evaluasi",
           drive: "https://drive.google.com/drive/folders/1ZsXh38fbT53zYZJKzAB93UOoZrlBVhqY?usp=drive_link",
-          password: "komitepencegahan",
+          password: "ppi",
         },
         {
           nama: "Program Kerja",
           drive: "https://drive.google.com/drive/folders/13K_xy5NfeQlQ0j4WxQ-mEz6vZSaRttFH?usp=drive_link",
-          password: "komitepencegahan",
+          password: "ppi",
         },
         {
           nama: "Pedoman dan Regulasi",
           drive: "https://drive.google.com/drive/folders/1xDQVO1gb2aMLGtOrRe30CyaYpCiU-KGP?usp=drive_link",
-          password: "komitepencegahan",
+          password: "ppi",
         },
         {
           nama: "Monitoring dan Laporan",
           drive: "https://drive.google.com/drive/folders/1mjOp0gKtmmdfwKulkkcwsfqhjZQYQQYJ?usp=drive_link",
-          password: "komitepencegahan",
+          password: "ppi",
         },
         {
           nama: "Bukti Implementasi",
           drive: "https://drive.google.com/drive/folders/11fdex99uNbMMez0tHhkKlv8PZ3LV2iiq?usp=drive_link",
-          password: "komitepencegahan",
+          password: "ppi",
         },
       ],
     },
@@ -153,33 +153,38 @@ export const komites = [
       nama: "Komite Tenaga Kesehatan Lain",
       kategori: [
         {
-          nama: "SK & Organisasi",
-          drive: "https://drive.google.com/drive/folders/10lHWiNLlwDdIrIHjXWN61jU3QQXd4rwN?usp=drive_link",
+          nama: "Dokumen Kredensial",
+          drive: "https://drive.google.com/drive/folders/1vBSMUnNqwliYotFzZdvhM442Br9rUN-s?usp=sharing",
           password: "komitetenaga",
         },
         {
-          nama: "Pedoman & Regulasi",
-          drive: "https://drive.google.com/drive/folders/1k1AdR5CBNdWv7Td4KyJ-taJecnBREi0U?usp=drive_link",
+          nama: "Monitoring & Laporan",
+          drive: "https://drive.google.com/drive/folders/1MInaK0zJcpsJnNZIglnMZIsfBuKMqxRy?usp=sharing",
           password: "komitetenaga",
         },
         {
-          nama: "Rapat & Evaluasi",
-          drive: "https://drive.google.com/drive/folders/1tf5g6S--vwt15UZV67sIhU5XFBBXxjuY?usp=drive_link",
+          nama: "Pedoman dan Panduan",
+          drive: "https://drive.google.com/drive/folders/1XCUhU1693KUqWpH4nYwkd2OjtDW0exva?usp=sharing",
           password: "komitetenaga",
         },
         {
           nama: "Program Kerja",
-          drive: "https://drive.google.com/drive/folders/1MHYC73DdNAlQiHQGv9fu51_5HwSKda3T?usp=drive_link",
+          drive: "https://drive.google.com/drive/folders/1ccGeUhcxy-EeT8YtgASJo2xsIpGM-eqL?usp=sharing",
           password: "komitetenaga",
         },
         {
-          nama: "Indikator Mutu dan Laporan",
-          drive: "https://drive.google.com/drive/folders/1aQWqmMOfhOjVw9fh9CjxAtcMQG-Df_F5?usp=drive_link",
+          nama: "Rapat & Evaluasi",
+          drive: "https://drive.google.com/drive/folders/1UsLsjXD88jE2HjDqjbfow44bCzvhsknZ?usp=sharing",
           password: "komitetenaga",
         },
         {
-          nama: "Bukti Implementasi",
-          drive: "https://drive.google.com/drive/folders/17S2mGtuYTDhaXrjqD2FD1i0EPuus0yts?usp=drive_link",
+          nama: "SK & Organisasi",
+          drive: "https://drive.google.com/drive/folders/1FkHH3HCf7yX-RjjkcNiwcHVMNvf-7CBL?usp=sharing",
+          password: "komitetenaga",
+        },
+        {
+          nama: "SPK & RKK",
+          drive: "https://drive.google.com/drive/folders/1_VCmlJfaW_rSMkse9hK-rqh8jAtFxcJk?usp=sharing",
           password: "komitetenaga",
         },
       ],
@@ -308,28 +313,38 @@ export const komites = [
       nama: "Komite Keperawatan",
       kategori: [
         {
-          nama: "SK & Organisasi",
-          drive: "https://drive.google.com/drive/folders/1dCj0tZYLKx0V_vmKBWxgFXmg1g62kJvn?usp=drive_link",
+          nama: "Dokumen Kredensial",
+          drive: "https://drive.google.com/drive/folders/1XxtVfULJRD9VikLTdEujzz186pFqv29t?usp=sharing",
           password: "komiteperawatan",
         },
         {
-          nama: "Pedoman & Regulasi",
-          drive: "https://drive.google.com/drive/folders/1VF3-BwxuVmaAAkBQvegdQleqUGL0vxu6?usp=drive_link",
+          nama: "Monitoring dan Laporan",
+          drive: "https://drive.google.com/drive/folders/1x4vm1Jygspk3S4vbzqlYcdOX2hkWQJKj?usp=sharing",
           password: "komiteperawatan",
         },
         {
-          nama: "Rapat & Evaluasi",
-          drive: "https://drive.google.com/drive/folders/1EAA2dOK3bWNU1DnNbMs1IreZljvyePiz?usp=drive_link",
+          nama: "Pedoman dan Panduan",
+          drive: "https://drive.google.com/drive/folders/1AE6VPSUTNRLBAl6045EQAs-vnOLxVK70?usp=sharing",
           password: "komiteperawatan",
         },
         {
           nama: "Program Kerja",
-          drive: "https://drive.google.com/drive/folders/19QJUzYeyiO2dVtSwpMIh0VHi5u3hz4Ns?usp=drive_link",
+          drive: "https://drive.google.com/drive/folders/1aDpFjBXxOZBr3CA-Njv8OQTOdNxLdYVG?usp=sharing",
           password: "komiteperawatan",
         },
         {
-          nama: "Indikator Mutu dan Laporan",
-          drive: "https://drive.google.com/drive/folders/1kn8q8PQzXoLATTM97dj3F1ybBkn-TxOL?usp=drive_link",
+          nama: "Rapat dan Evaluasi",
+          drive: "https://drive.google.com/drive/folders/13DYsYbiRO1YCPmjDfMrfPs4QthejMH6O?usp=sharing",
+          password: "komiteperawatan",
+        },
+        {
+          nama: "SK dan Organisasi",
+          drive: "https://drive.google.com/drive/folders/1HeulMVRP5XZkqmNXlEleeBUS5wPXvtVF?usp=sharing",
+          password: "komiteperawatan",
+        },
+        {
+          nama: "SPK dan RKK",
+          drive: "https://drive.google.com/drive/folders/1kup-QrfvIuLsALc1Bh4Zu4uFMXu9Sh8a?usp=sharing",
           password: "komiteperawatan",
         },
       ],
