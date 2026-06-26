@@ -186,6 +186,11 @@ export default function Medis() {
           drive: "https://drive.google.com/drive/folders/1UAINLYOt9yW61q8_ZgC6uaVr_SEsH_jE?usp=sharing",
           password: "rawatinap",
         },
+        {
+          nama:"Diagnosa Keperawatan",
+          drive: "https://drive.google.com/drive/folders/1CvkfJoozO1pj48zkGLLAi80tjZy-KvAh?usp=sharing",
+          password: "rawatinap"
+        }
       ],
     },
     {
