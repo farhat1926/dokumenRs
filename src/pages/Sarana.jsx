@@ -90,7 +90,7 @@ export default function Sarana() {
       kategori: [
         {
           nama: "SPO",
-          drive: "https://drive.google.com/drive/folders/1p_lbp3mAV7-MJ00Wr5EdG0npTwS2eFmC?usp=sharing",
+          drive: "https://drive.google.com/drive/folders/1jeIRe1Tv86CpdqsgqGFmgvUqktSQ5rF2?usp=sharing",
           password: "linenlaundry",
         },
         {

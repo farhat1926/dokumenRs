@@ -13,7 +13,7 @@ export default function Akreditasi() {
       kategori: [
         {
         nama: "Dokumen Akreditasi",
-        drive: "https://drive.google.com/drive/folders/1RuSsORHsbKYC43EJeRZuWo3OP5Aj2wsf?usp=drive_link",
+        drive: "https://drive.google.com/drive/folders/1lvA_MTHt62HnB7GR7Xtcp-wx2PlsTRvM?usp=sharing",
         password: "dokumenakreditasi",
         },
     ],
