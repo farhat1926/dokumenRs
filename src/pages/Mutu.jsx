@@ -12,27 +12,27 @@ export default function Mutu() {
       nama: "Pelayanan Medis",
       kategori: [
         {
-          nama: "Mutu Unit",
+          nama: "Instalasi Gawat Darurat (IGD)",
           drive: "https://drive.google.com/drive/folders/1p7YSkdpjDHVqU76tawQ_6cz-0wW9ZMTH?usp=sharing",
           password: "igd",
         },
         {
-          nama: "Mutu Unit",
+          nama: "Instalasi Bedah Sentral (IBS)",
           drive: "https://drive.google.com/drive/folders/1eqitGiVjvDrICGgCrDokffsLN4_dLKaz?usp=sharing",
           password: "ibs",
         },
         {
-          nama: "Mutu Unit",
+          nama: "Instalasi Rawat jalan (Poliklinik)",
           drive: "https://drive.google.com/drive/folders/1xiotYSu3Mz_womMwuQfoODkSh01Ykn0P?usp=sharing",
           password: "poliklinik",
         },
          {
-          nama: "Mutu Unit",
+          nama: "Instalasi Rawat Inap (RI)",
           drive: "https://drive.google.com/drive/folders/1lF91iTzhnzdl8f0bh-TIWCssMJXvVnhk?usp=sharing",
           password: "rawatinap",
         },
         {
-          nama: "Mutu Unit",
+          nama: "instalasi Keperawatan Intensif (ICU)",
           drive: "https://drive.google.com/drive/folders/1FW18Pdh1WdsADgVFDZnic3A84LPA5z7F?usp=sharing",
           password: "icu",
         },
@@ -42,47 +42,47 @@ export default function Mutu() {
       nama: "Penunjang Medis dan Pelayanan Non Medis",
       kategori: [
         {
-          nama: "Indikator Mutu",
+          nama: "instalasi Laboratorium",
           drive: "https://drive.google.com/drive/folders/1cmBJknlt9M4MJquZaIsCbv3EDT9r4KAo?usp=sharing",
           password: "laboratorium",
         },
         {
-          nama: "Mutu Unit",
+          nama: "Instalasi Radiologi",
           drive: "https://drive.google.com/drive/folders/1kRBWg7Uu6N7rsRSm0pVcesLj2YArj2tC?usp=sharing",
           password: "radiologi",
         },
         {
-          nama: "Mutu unit",
+          nama: "Instalasi Farmasi",
           drive: "https://drive.google.com/drive/folders/100yskin4Ue-zfJf0Q6Ba3FlJB9TJND0C?usp=sharing",
           password: "farmasi",
         },
         {
-          nama: "Mutu unit",
+          nama: "Instalasi Gizi",
           drive: "https://drive.google.com/drive/folders/15-Q_-BYe8cIRD8Q3za4oK8wzO3AREk-d?usp=sharing",
           password: "gizi",
         },
         {
-          nama: "Mutu Unit",
+          nama: "Instalasi Rekam Medis",
           drive: "https://drive.google.com/drive/folders/1YJxT3nB30tkDdkyn-SdscLRz5XEbyYwM?usp=sharing",
           password: "rekammedis",
         },
         {
-          nama: "Mutu Unit",
+          nama: "Instalasi Rehabilitasi Medik",
           drive: "https://drive.google.com/drive/folders/1FW3HVoW2k9d72hdN3vKPRxtLrtgJexWy?usp=sharing",
           password: "rehabilitasimedis",
         },
         {
-          nama: "Mutu Unit",
+          nama: "Kerohanian",
           drive: "https://drive.google.com/drive/folders/18UMuqIVIyydY92XNVCVNCCLYRLadOx7X?usp=sharing",
           password: "kerohanian",
         },
         {
-          nama: "Mutu Unit",
+          nama: "Pemulasaran Jenazah",
           drive: "https://drive.google.com/drive/folders/13xrbZhF9YP4S0WVLgd1GQmBfgS-QHTuT?usp=sharing",
           password: "pemulasaranjenazah",
         },
         {
-          nama: "Mutu Unit",
+          nama: "Humas dan Marketing",
           drive: "https://drive.google.com/drive/folders/1BtflgtRSMxU6FSaYn2RW87GixlumhPCO?usp=sharing",
           password: "humasmarketing",
         },
@@ -92,17 +92,17 @@ export default function Mutu() {
       nama: "SDM",
       kategori: [
         {
-          nama: "Mutu Unit",
+          nama: "Kesekretariatan",
           drive: "https://drive.google.com/drive/folders/1ej0pJFqzhI8LHx1a9SaCqe-js6UpRJUS?usp=sharing",
           password: "sekertaris",
         },
         {
-          nama: "Mutu Unit",
+          nama: "Kepegawaian",
           drive: "https://drive.google.com/drive/folders/1rOF9e8GdmI7jdc5jo9SLi-6I2Cgzcl1-?usp=sharing",
           password: "kepegawaian",
         },
         {
-          nama: "Mutu Unit",
+          nama: "Pendidikan dan Pelatihan (DIKLAT)",
           drive: "https://drive.google.com/drive/folders/1lm36CPU1dqrR63IEoM0c76OOORNmzrYV?usp=sharing",
           password: "diklat",
         },
@@ -112,12 +112,12 @@ export default function Mutu() {
       nama: "Keperawatan dan Kebidanan",
       kategori: [
          {
-          nama: "Mutu Unit",
+          nama: "Keperawatan",
           drive: "https://drive.google.com/drive/folders/1AS-qQsARlhzbxgri5C5lpmKnvVAGLjRi?usp=sharing",
           password: "keperawatan",
         },
         {
-          nama: "Mutu Unit",
+          nama: "Kebidanan",
           drive: "https://drive.google.com/drive/folders/1yK4jAHtFlQpBxcBvr5oKF08u1y8q5FKi?usp=sharing",
           password: "kebidanan",
         },
@@ -127,27 +127,27 @@ export default function Mutu() {
       nama: "Keuangan",
       kategori: [
         {
-          nama: "Mutu Unit",
+          nama: "Billing",
           drive: "https://drive.google.com/drive/folders/19u4EdYXQ_HGXj4934sQOv3WxzjbijpSO?usp=sharing",
           password: "billing",
         },
         {
-          nama: "Mutu Unit",
+          nama: "Kasir",
           drive: "https://drive.google.com/drive/folders/1vBxy_Yv2fWz-OU5WKD5-3I_M10kuGc00?usp=drive_link",
           password: "kasir",
         },
         {
-          nama: "Mutu Unit",
+          nama: "Administrasi Keuangan",
           drive: "https://drive.google.com/drive/folders/1ALOdedO0UrBKpX96DD1y44A2B3TI4URm?usp=sharing",
           password: "administrasikeuangan",
         },
         {
-          nama: "Mutu Unit",
+          nama: "Pajak",
           drive: "https://drive.google.com/drive/folders/1w8NasYrnf6URk48wNFHJ9qSYlar47k7y?usp=sharing",
           password: "pajak",
         },
         {
-          nama: "Mutu Unit",
+          nama: "Logistik",
           drive: "https://drive.google.com/drive/folders/1Bx96aLQ82drpiDKZWC-0gNJ0T0pqT1wZ?usp=sharing",
           password: "logistik",
         },
@@ -157,37 +157,37 @@ export default function Mutu() {
       nama: "Sarana dan Prasarana",
       kategori: [
         {
-          nama: "Mutu Unit",
+          nama: "IPSRS",
           drive: "https://drive.google.com/drive/folders/1n-SU2WMyNPhZRWL4AeFLWy2lFNY7CpOG?usp=sharing",
           password: "ipsrs",
         },
         {
-          nama: "Mutu Unit",
+          nama: "CSSD",
           drive: "https://drive.google.com/drive/folders/1XCjUCLbswJtarTVyU3PVkZ5CeLHQSsym?usp=sharing",
           password: "cssd",
         },
         {
-          nama: "Mutu Unit",
+          nama: "IT",
           drive: "https://drive.google.com/drive/folders/13A-0wqt1oW11Xh2I_txebMwW3b7n6SHZ?usp=sharing",
           password: "it",
         },
         {
-          nama: "Mutu Unit",
+          nama: "Linen dan Laundry",
           drive: "https://drive.google.com/drive/folders/1MNfs06GE6FB3yP5Gblf26oycw5F90L10?usp=sharing",
           password: "linenlaundry",
         },
         {
-          nama: "Mutu Unit",
+          nama: "Sanitasi Lingkungan",
           drive: "https://drive.google.com/drive/folders/1KQVfFmhEr2frT4LZIZDUGUHwDXMPTKxG?usp=sharing",
           password: "sanitasilingkungan",
         },
         {
-          nama: "Mutu Unit",
+          nama: "Unit Keamanan",
           drive: "https://drive.google.com/drive/folders/1ChyVveF3bKhldcOijcH8G4KfKjLEN72_?usp=sharing",
           password: "unitkeamanan",
         },
         {
-          nama: "Mutu Unit",
+          nama: "Unit Kebersihan",
           drive: "https://drive.google.com/drive/folders/1MMXbFIfn217S0MqiChavAdKawfCCndNM?usp=sharing",
           password: "unitkebersihan",
         },

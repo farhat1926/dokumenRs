@@ -314,7 +314,7 @@ export const komites = [
       kategori: [
         {
           nama: "Dokumen Kredensial",
-          drive: "https://drive.google.com/drive/folders/1XxtVfULJRD9VikLTdEujzz186pFqv29t?usp=sharing",
+          drive: "https://drive.google.com/drive/folders/1ac5Pjc6qcetCc7tIXtJ-6xG9icswQSXv?usp=sharing",
           password: "komiteperawatan",
         },
         {
@@ -334,7 +334,7 @@ export const komites = [
         },
         {
           nama: "Rapat dan Evaluasi",
-          drive: "https://drive.google.com/drive/folders/13DYsYbiRO1YCPmjDfMrfPs4QthejMH6O?usp=sharing",
+          drive: "https://drive.google.com/drive/folders/1_0DCd-VAWlRdQNOAIbDkFP2UsO-4HkY8?usp=sharing",
           password: "komiteperawatan",
         },
         {
