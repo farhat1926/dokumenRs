@@ -184,6 +184,11 @@ export default function Penunjang() {
           drive: "https://drive.google.com/drive/folders/1tTv6c84woo8dQOyTMCsqf71i2sqjmYDx?usp=sharing",
           password: "gizi",
         },
+        {
+          nama: "Mutu unit",
+          drive: "https://drive.google.com/drive/folders/15-Q_-BYe8cIRD8Q3za4oK8wzO3AREk-d?usp=sharing",
+          password: "gizi",
+        },
         
       ],
     },

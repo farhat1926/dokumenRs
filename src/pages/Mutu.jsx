@@ -9,22 +9,187 @@ export default function Mutu() {
 
   const units = [
       {
-      nama: "Clinical Pathway",
+      nama: "Pelayanan Medis",
       kategori: [
         {
-        nama: "Clinical Pathway",
-        drive: "https://drive.google.com/drive/folders/1RuSsORHsbKYC43EJeRZuWo3OP5Aj2wsf?usp=drive_link",
-        password: "clinicalpathway",
+          nama: "Mutu Unit",
+          drive: "https://drive.google.com/drive/folders/1p7YSkdpjDHVqU76tawQ_6cz-0wW9ZMTH?usp=sharing",
+          password: "igd",
+        },
+        {
+          nama: "Mutu Unit",
+          drive: "https://drive.google.com/drive/folders/1eqitGiVjvDrICGgCrDokffsLN4_dLKaz?usp=sharing",
+          password: "ibs",
+        },
+        {
+          nama: "Mutu Unit",
+          drive: "https://drive.google.com/drive/folders/1xiotYSu3Mz_womMwuQfoODkSh01Ykn0P?usp=sharing",
+          password: "poliklinik",
+        },
+         {
+          nama: "Mutu Unit",
+          drive: "https://drive.google.com/drive/folders/1lF91iTzhnzdl8f0bh-TIWCssMJXvVnhk?usp=sharing",
+          password: "rawatinap",
+        },
+        {
+          nama: "Mutu Unit",
+          drive: "https://drive.google.com/drive/folders/1FW18Pdh1WdsADgVFDZnic3A84LPA5z7F?usp=sharing",
+          password: "icu",
         },
     ],
     },
       {
-      nama: "Panduan Praktek Klinis",
+      nama: "Penunjang Medis dan Pelayanan Non Medis",
       kategori: [
         {
-          nama: "PPK",
-          drive: "https://drive.google.com/drive/folders/1YgtNXm82KUriyMcH_7HdztZzyGcbjPlM?usp=drive_link",
-          password: "panduanpraktekklinis",
+          nama: "Indikator Mutu",
+          drive: "https://drive.google.com/drive/folders/1cmBJknlt9M4MJquZaIsCbv3EDT9r4KAo?usp=sharing",
+          password: "laboratorium",
+        },
+        {
+          nama: "Mutu Unit",
+          drive: "https://drive.google.com/drive/folders/1kRBWg7Uu6N7rsRSm0pVcesLj2YArj2tC?usp=sharing",
+          password: "radiologi",
+        },
+        {
+          nama: "Mutu unit",
+          drive: "https://drive.google.com/drive/folders/100yskin4Ue-zfJf0Q6Ba3FlJB9TJND0C?usp=sharing",
+          password: "farmasi",
+        },
+        {
+          nama: "Mutu unit",
+          drive: "https://drive.google.com/drive/folders/15-Q_-BYe8cIRD8Q3za4oK8wzO3AREk-d?usp=sharing",
+          password: "gizi",
+        },
+        {
+          nama: "Mutu Unit",
+          drive: "https://drive.google.com/drive/folders/1YJxT3nB30tkDdkyn-SdscLRz5XEbyYwM?usp=sharing",
+          password: "rekammedis",
+        },
+        {
+          nama: "Mutu Unit",
+          drive: "https://drive.google.com/drive/folders/1FW3HVoW2k9d72hdN3vKPRxtLrtgJexWy?usp=sharing",
+          password: "rehabilitasimedis",
+        },
+        {
+          nama: "Mutu Unit",
+          drive: "https://drive.google.com/drive/folders/18UMuqIVIyydY92XNVCVNCCLYRLadOx7X?usp=sharing",
+          password: "kerohanian",
+        },
+        {
+          nama: "Mutu Unit",
+          drive: "https://drive.google.com/drive/folders/13xrbZhF9YP4S0WVLgd1GQmBfgS-QHTuT?usp=sharing",
+          password: "pemulasaranjenazah",
+        },
+        {
+          nama: "Mutu Unit",
+          drive: "https://drive.google.com/drive/folders/1BtflgtRSMxU6FSaYn2RW87GixlumhPCO?usp=sharing",
+          password: "humasmarketing",
+        },
+      ],
+    },
+      {
+      nama: "SDM",
+      kategori: [
+        {
+          nama: "Mutu Unit",
+          drive: "https://drive.google.com/drive/folders/1ej0pJFqzhI8LHx1a9SaCqe-js6UpRJUS?usp=sharing",
+          password: "sekertaris",
+        },
+        {
+          nama: "Mutu Unit",
+          drive: "https://drive.google.com/drive/folders/1rOF9e8GdmI7jdc5jo9SLi-6I2Cgzcl1-?usp=sharing",
+          password: "kepegawaian",
+        },
+        {
+          nama: "Mutu Unit",
+          drive: "https://drive.google.com/drive/folders/1lm36CPU1dqrR63IEoM0c76OOORNmzrYV?usp=sharing",
+          password: "diklat",
+        },
+      ],
+    },
+      {
+      nama: "Keperawatan dan Kebidanan",
+      kategori: [
+         {
+          nama: "Mutu Unit",
+          drive: "https://drive.google.com/drive/folders/1AS-qQsARlhzbxgri5C5lpmKnvVAGLjRi?usp=sharing",
+          password: "keperawatan",
+        },
+        {
+          nama: "Mutu Unit",
+          drive: "https://drive.google.com/drive/folders/1yK4jAHtFlQpBxcBvr5oKF08u1y8q5FKi?usp=sharing",
+          password: "kebidanan",
+        },
+      ],
+    },
+      {
+      nama: "Keuangan",
+      kategori: [
+        {
+          nama: "Mutu Unit",
+          drive: "https://drive.google.com/drive/folders/19u4EdYXQ_HGXj4934sQOv3WxzjbijpSO?usp=sharing",
+          password: "billing",
+        },
+        {
+          nama: "Mutu Unit",
+          drive: "https://drive.google.com/drive/folders/1vBxy_Yv2fWz-OU5WKD5-3I_M10kuGc00?usp=drive_link",
+          password: "kasir",
+        },
+        {
+          nama: "Mutu Unit",
+          drive: "https://drive.google.com/drive/folders/1ALOdedO0UrBKpX96DD1y44A2B3TI4URm?usp=sharing",
+          password: "administrasikeuangan",
+        },
+        {
+          nama: "Mutu Unit",
+          drive: "https://drive.google.com/drive/folders/1w8NasYrnf6URk48wNFHJ9qSYlar47k7y?usp=sharing",
+          password: "pajak",
+        },
+        {
+          nama: "Mutu Unit",
+          drive: "https://drive.google.com/drive/folders/1Bx96aLQ82drpiDKZWC-0gNJ0T0pqT1wZ?usp=sharing",
+          password: "logistik",
+        },
+      ],
+    },
+     {
+      nama: "Sarana dan Prasarana",
+      kategori: [
+        {
+          nama: "Mutu Unit",
+          drive: "https://drive.google.com/drive/folders/1n-SU2WMyNPhZRWL4AeFLWy2lFNY7CpOG?usp=sharing",
+          password: "ipsrs",
+        },
+        {
+          nama: "Mutu Unit",
+          drive: "https://drive.google.com/drive/folders/1XCjUCLbswJtarTVyU3PVkZ5CeLHQSsym?usp=sharing",
+          password: "cssd",
+        },
+        {
+          nama: "Mutu Unit",
+          drive: "https://drive.google.com/drive/folders/13A-0wqt1oW11Xh2I_txebMwW3b7n6SHZ?usp=sharing",
+          password: "it",
+        },
+        {
+          nama: "Mutu Unit",
+          drive: "https://drive.google.com/drive/folders/1MNfs06GE6FB3yP5Gblf26oycw5F90L10?usp=sharing",
+          password: "linenlaundry",
+        },
+        {
+          nama: "Mutu Unit",
+          drive: "https://drive.google.com/drive/folders/1KQVfFmhEr2frT4LZIZDUGUHwDXMPTKxG?usp=sharing",
+          password: "sanitasilingkungan",
+        },
+        {
+          nama: "Mutu Unit",
+          drive: "https://drive.google.com/drive/folders/1ChyVveF3bKhldcOijcH8G4KfKjLEN72_?usp=sharing",
+          password: "unitkeamanan",
+        },
+        {
+          nama: "Mutu Unit",
+          drive: "https://drive.google.com/drive/folders/1MMXbFIfn217S0MqiChavAdKawfCCndNM?usp=sharing",
+          password: "unitkebersihan",
         },
       ],
     },
