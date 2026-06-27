@@ -63,7 +63,7 @@ export default function Medis() {
         },
         {
           nama: "Pedoman dan Panduan",
-          drive: "https://drive.google.com/drive/folders/1WGZYCsoG6V-TgBJepqNiQRGM0w6er6NJ?hl=id",
+          drive: "https://drive.google.com/drive/folders/1OCtNr5TBCr3LSTwILslqWnthv8I0ZN-_?usp=drive_link",
           password: "ibs",
         },
         {
@@ -108,7 +108,7 @@ export default function Medis() {
         },
         {
           nama: "Pedoman dan Panduan",
-          drive: "https://drive.google.com/drive/folders/1XR7yIhqRT5ZwBeKrm3QHFZlY7ytFZfqd?usp=sharing",
+          drive: "https://drive.google.com/drive/folders/1XR7yIhqRT5ZwBeKrm3QHFZlY7ytFZfqd?usp=drive_link",
           password: "poliklinik",
         },
         {
@@ -153,7 +153,7 @@ export default function Medis() {
         },
         {
           nama: "Pedoman",
-          drive: "https://drive.google.com/drive/folders/1c09ZldtoEhiVH42BCLWmN2y3yyYWH4zt?hl=id",
+          drive: "https://drive.google.com/drive/folders/15brWmixTj9lPjr8FMcO9D0A3tg0s5hot?usp=drive_link",
           password: "rawatinap",
         },
         {
