@@ -33,7 +33,7 @@ export default function Pedoman() {
         },
         {
           nama: "Instalasi Keperawatan Intensif (ICU)",
-          drive: "https://drive.google.com/drive/folders/1hcFTBI62kupeTAodW1M3Vu1RdUfGm6ZS?hl=id",
+          drive: "https://drive.google.com/drive/folders/1LHGwpnEVi0I4OzeDHlQMh6-FGEo07VGf?usp=drive_link",
           password: "icu",
         },
     ],
