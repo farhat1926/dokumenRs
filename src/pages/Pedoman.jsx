@@ -12,22 +12,22 @@ export default function Pedoman() {
       nama: "Pelayanan Medis",
       kategori: [
         {
-          nama: "Instalasi Gawat Darurat",
+          nama: "Instalasi Gawat Darurat (IGD)",
           drive: "https://drive.google.com/drive/folders/1We3zDIt7gaove0UYPhQssQRnO41ymbXT?hl=id",
           password: "igd",
         },
         {
-          nama: "Instalasi Bedah Sentral",
+          nama: "Instalasi Bedah Sentral (IBS)",
           drive: "https://drive.google.com/drive/folders/1WGZYCsoG6V-TgBJepqNiQRGM0w6er6NJ?hl=id",
           password: "ibs",
         },
         {
-          nama: "Poliklinik",
+          nama: "Instalasi Rawat Jalan (Poliklinik)",
           drive: "https://drive.google.com/drive/folders/1XR7yIhqRT5ZwBeKrm3QHFZlY7ytFZfqd?usp=sharing",
           password: "poliklinik",
         },
-         {
-          nama: "Rawat Inap",
+        {
+          nama: "Instalasi Rawat Inap",
           drive: "https://drive.google.com/drive/folders/1c09ZldtoEhiVH42BCLWmN2y3yyYWH4zt?hl=id",
           password: "rawatinap",
         },
