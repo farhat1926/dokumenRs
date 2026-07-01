@@ -18,7 +18,7 @@ export default function Medis() {
         },
         {
           nama: "Pedoman dan Panduan",
-          drive: "https://drive.google.com/drive/folders/1We3zDIt7gaove0UYPhQssQRnO41ymbXT?hl=id",
+          drive: "https://drive.google.com/drive/folders/1LL-qsZcDxS2vwVq0-4M64_nIEfkw0J-1?usp=sharing",
           password: "igd",
         },
         {
@@ -153,7 +153,7 @@ export default function Medis() {
         },
         {
           nama: "Pedoman",
-          drive: "https://drive.google.com/drive/folders/15brWmixTj9lPjr8FMcO9D0A3tg0s5hot?usp=drive_link",
+          drive: "https://drive.google.com/drive/folders/1R7LKyzhhCSA46Seb6b0B7wS9sw1u9lBd?usp=drive_link",
           password: "rawatinap",
         },
         {
@@ -174,11 +174,6 @@ export default function Medis() {
         {
           nama: "Mutu Unit",
           drive: "https://drive.google.com/drive/folders/1lF91iTzhnzdl8f0bh-TIWCssMJXvVnhk?usp=sharing",
-          password: "rawatinap",
-        },
-        {
-          nama: "Panduan Praktek Klinis",
-          drive: "https://drive.google.com/drive/folders/1wykL5U_C-BUMk0IxdlRDxXO4WPWnkMY5?usp=sharing",
           password: "rawatinap",
         },
         {

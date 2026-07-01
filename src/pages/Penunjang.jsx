@@ -23,7 +23,7 @@ export default function Penunjang() {
         },
         {
           nama: "SPK & RKK",
-          drive: "https://drive.google.com/drive/folders/1lhJ2LU1VJ0TElZcCMTw9BsEUbDRHm4v5?usp=sharing",
+          drive: "https://drive.google.com/drive/folders/1NMqabp2mksw8zkAAWNvwdKKuchN_2Oi3?usp=sharing",
           password: "laboratorium",
         },
         {
@@ -131,12 +131,12 @@ export default function Penunjang() {
          {
           nama: "Struktur Organisasi",
           drive: "https://drive.google.com/drive/folders/1e44H6An5UOm9iJxElkHBkb9KFIC8lw5i?usp=sharing",
-          password: "laboratorium",
+          password: "farmasi",
         },
         {
           nama: "SK Pegawai",
           drive: "https://drive.google.com/drive/folders/12Wgfgq0AQ8RFzv5TqmcOUziihCMzpVom?usp=sharing",
-          password: "laboratorium",
+          password: "farmasi",
         },
         
       ],
