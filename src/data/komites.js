@@ -295,27 +295,27 @@ export const komites = [
         {
           nama: "SK & Organisasi",
           drive: "https://drive.google.com/drive/folders/1__jmoe9gBOw4nJv25YHwyMokg4ZKY9ed?usp=drive_link",
-          password: "komiteresistensi",
+          password: "komiteprogram",
         },
         {
           nama: "Pedoman & Regulasi",
           drive: "https://drive.google.com/drive/folders/1a6A8F9aquDHxK3W7DXzXX_pgQmT1Qe1D?usp=drive_link",
-          password: "komiteresistensi",
+          password: "komiteprogram",
         },
         {
           nama: "Rapat & Evaluasi",
           drive: "https://drive.google.com/drive/folders/122fazNFYAyUWK44uGxjDjIb3nCCu5PPe?usp=drive_link",
-          password: "komiteresistensi",
+          password: "komiteprogram",
         },
         {
           nama: "Program Kerja",
           drive: "https://drive.google.com/drive/folders/1WWn5o2Pun7s3PodOb2Ml1PGRPVA3r_oM?usp=drive_link",
-          password: "komiteresistensi",
+          password: "komiteprogram",
         },
         {
           nama: "Indikator Mutu dan Laporan",
           drive: "https://drive.google.com/drive/folders/1_0sThDIspA-kazMbotlMxNah0-QnW1Q2?usp=drive_link",
-          password: "komiteresistensi",
+          password: "komiteprogram",
         },
       ],
     },

@@ -82,6 +82,21 @@ export default function SDM() {
           password: "diklat",
         },
         {
+          nama: "Laporan Pelatihan External dan Internal",
+          drive: "https://drive.google.com/drive/folders/1o2F3_UlfE1-KJNDMjFZPBDxlpX77boKG?usp=sharing",
+          password: "diklat",
+        },
+        {
+          nama: "Sertifikat",
+          drive: "https://drive.google.com/drive/folders/1HENBhCaiNSsoO54CbU7Or5uLC2n65XDv?usp=sharing",
+          password: "diklat",
+        },
+        {
+          nama: "TUMAN",
+          drive: "https://drive.google.com/drive/folders/1OmjPDDueoQM5UZo8lL7hKYirch1SXlb2?usp=sharing",
+          password: "diklat",
+        },
+        {
           nama: "Program Kerja",
           drive: "https://drive.google.com/drive/folders/1uhzRj5uCGkYfgmZIh1gdOHj9b3TMFSoB?usp=sharing",
           password: "diklat",
