@@ -18,7 +18,7 @@ export default function Keperawatan() {
         },
         {
           nama: "Pedoman",
-          drive: "https://drive.google.com/drive/folders/1XZA_jwaFvbwgyQgnc2FFZJtSnCIjrjE6?hl=id",
+          drive: "https://drive.google.com/drive/folders/1y-HADkZS-71fHUPglJ-WncZSg6YCxec7?usp=sharing",
           password: "keperawatan",
         },
         {
@@ -63,7 +63,7 @@ export default function Keperawatan() {
         },
         {
           nama: "Pedoman  ",
-          drive: "https://drive.google.com/drive/folders/1q1lxts9SNGP5YPOK0YlT4itXZ_5jpEob?usp=sharing",
+          drive: "https://drive.google.com/drive/folders/1iYcm_nZQHDFHLEV-BXqVZ6ZuU7gj5unA?usp=sharing",
           password: "kebidanan",
         },
         {
