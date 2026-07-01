@@ -64,7 +64,7 @@ export const komites = [
         },
         {
           nama: "Pedoman dan Regulasi",
-          drive: "https://drive.google.com/drive/folders/1vjLbrpMiuvAdCjzM8lnzmmqFs-NMDeG2?usp=drive_link",
+          drive: "https://drive.google.com/drive/folders/1zPhY3c5TN-GREGbPk-QKmIE-44mIB9C8?usp=sharing  ",
           password: "komitemutu",
         },
         {
@@ -104,7 +104,17 @@ export const komites = [
         },
         {
           nama: "Monitoring dan Laporan",
-          drive: "https://drive.google.com/drive/folders/1mjOp0gKtmmdfwKulkkcwsfqhjZQYQQYJ?usp=drive_link",
+          drive: "https://drive.google.com/drive/folders/1fnK0Tot_gc3FD33GqzDvoFmBokadsas0?usp=sharing",
+          password: "ppi",
+        },
+        {
+          nama: "SPO",
+          drive: "https://drive.google.com/drive/folders/1odDJVg5GAaeSC19lEBdLh9xFUNNFuLYF?usp=sharing",
+          password: "ppi",
+        },
+        {
+          nama: "Indikator Mutu",
+          drive: "https://drive.google.com/drive/folders/1mjOp0gKtmmdfwKulkkcwsfqhjZQYQQYJ?usp=sharing",
           password: "ppi",
         },
         {
