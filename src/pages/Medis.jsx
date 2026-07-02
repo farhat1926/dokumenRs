@@ -38,7 +38,7 @@ export default function Medis() {
         },
         {
           nama: "Mutu Unit",
-          drive: "https://drive.google.com/drive/folders/1p7YSkdpjDHVqU76tawQ_6cz-0wW9ZMTH?usp=sharing",
+          drive: "https://drive.google.com/drive/folders/12VGlZ-nPqcZVHXpUKc1tFqkOrm5MGOot?usp=sharing",
           password: "igd",
         },
         {
@@ -83,7 +83,7 @@ export default function Medis() {
         },
          {
           nama: "Mutu Unit",
-          drive: "https://drive.google.com/drive/folders/1eqitGiVjvDrICGgCrDokffsLN4_dLKaz?usp=sharing",
+          drive: "https://drive.google.com/drive/folders/1D-O9i2U_T1HxT6635egnSwHC9d0gEdAP?usp=sharing",
           password: "ibs",
         },
          {
@@ -133,7 +133,7 @@ export default function Medis() {
         },
         {
           nama: "Mutu Unit",
-          drive: "https://drive.google.com/drive/folders/1xiotYSu3Mz_womMwuQfoODkSh01Ykn0P?usp=sharing",
+          drive: "https://drive.google.com/drive/folders/14czUAFiR5vdWXBDL4qrSgQwSxWQ2KHzW?usp=sharing",
           password: "poliklinik",
         },
         {
@@ -228,7 +228,7 @@ export default function Medis() {
         },
         {
           nama: "Mutu Unit",
-          drive: "https://drive.google.com/drive/folders/1FW18Pdh1WdsADgVFDZnic3A84LPA5z7F?usp=sharing",
+          drive: "https://drive.google.com/drive/folders/1d_4Z-HDCleis29ragk2stMAnrS9nG5FH?usp=sharing",
           password: "icu",
         },
         {

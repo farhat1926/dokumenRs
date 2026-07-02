@@ -23,7 +23,7 @@ export default function Sarana() {
         },
         {
           nama: "Mutu Unit",
-          drive: "https://drive.google.com/drive/folders/13A-0wqt1oW11Xh2I_txebMwW3b7n6SHZ?usp=sharing",
+          drive: "https://drive.google.com/drive/folders/1ZAtNB5muRsosJPbgB6Yw16oUk-rArEUv?usp=sharing",
           password: "it",
         },
         {
@@ -48,7 +48,7 @@ export default function Sarana() {
         },
         {
           nama: "Mutu Unit",
-          drive: "https://drive.google.com/drive/folders/1n-SU2WMyNPhZRWL4AeFLWy2lFNY7CpOG?usp=sharing",
+          drive: "https://drive.google.com/drive/folders/1--CNrlqDZttphDeOEYFobIRBJybj7Qim?usp=sharing",
           password: "ipsrs",
         },
         {
@@ -84,7 +84,7 @@ export default function Sarana() {
         },
         {
           nama: "Mutu Unit",
-          drive: "https://drive.google.com/drive/folders/1XCjUCLbswJtarTVyU3PVkZ5CeLHQSsym?usp=sharing",
+          drive: "https://drive.google.com/drive/folders/1buxGAQThdwWyqiKBrPIE6UPW4ou6O9Ic?usp=sharing",
           password: "cssd",
         },
         {
@@ -120,7 +120,7 @@ export default function Sarana() {
         },
         {
           nama: "Mutu Unit",
-          drive: "https://drive.google.com/drive/folders/1MNfs06GE6FB3yP5Gblf26oycw5F90L10?usp=sharing",
+          drive: "https://drive.google.com/drive/folders/1ufvIyGRdsC9REnRNx-XM9NhZCxI4s84J?usp=sharing",
           password: "linenlaundry",
         },
         {
@@ -156,7 +156,7 @@ export default function Sarana() {
         },
         {
           nama: "Mutu Unit",
-          drive: "https://drive.google.com/drive/folders/1KQVfFmhEr2frT4LZIZDUGUHwDXMPTKxG?usp=sharing",
+          drive: "https://drive.google.com/drive/folders/1wTgspLKdzXE-U_ae7QENWgAJyTUzBwK2?usp=sharing",
           password: "sanitasilingkungan",
         },
         {
@@ -182,7 +182,7 @@ export default function Sarana() {
         },
         {
           nama: "Mutu Unit",
-          drive: "https://drive.google.com/drive/folders/1ChyVveF3bKhldcOijcH8G4KfKjLEN72_?usp=sharing",
+          drive: "https://drive.google.com/drive/folders/1sykb369gD-IZOOrzqWKTFfEp14DIj8YX?usp=sharing",
           password: "unitkeamanan",
         },
         {
@@ -208,7 +208,7 @@ export default function Sarana() {
         },
         {
           nama: "Mutu Unit",
-          drive: "https://drive.google.com/drive/folders/1MMXbFIfn217S0MqiChavAdKawfCCndNM?usp=sharing",
+          drive: "https://drive.google.com/drive/folders/1GPvgms6H8KDbgjNXOfE2-bbKIeKTWjQA?usp=sharing",
           password: "unitkebersihan",
         },
         {

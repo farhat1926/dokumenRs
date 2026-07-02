@@ -83,7 +83,7 @@ export default function Keperawatan() {
         },
         {
           nama: "Mutu Unit",
-          drive: "https://drive.google.com/drive/folders/1yK4jAHtFlQpBxcBvr5oKF08u1y8q5FKi?usp=sharing",
+          drive: "https://drive.google.com/drive/folders/1um_c_8w3EZrSfJGed2SwG2TFlqp76jqj?usp=sharing",
           password: "kebidanan",
         },
         {

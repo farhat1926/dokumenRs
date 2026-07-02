@@ -23,7 +23,7 @@ export default function Keuangan() {
         },
         {
           nama: "Mutu Unit",
-          drive: "https://drive.google.com/drive/folders/19u4EdYXQ_HGXj4934sQOv3WxzjbijpSO?usp=sharing",
+          drive: "https://drive.google.com/drive/folders/1mjYwkNs4-iwACE3S6s-kqTODA5arqUNA?usp=sharing",
           password: "billing",
         },
         {
@@ -53,12 +53,12 @@ export default function Keuangan() {
         },
         {
           nama: "Pedoman dan Panduan",
-          drive: "https://drive.google.com/drive/folders/1aplo37Qtuew0yGDab0coecrqT8DIgXpD?usp=drive_link",
+          drive: "https://drive.google.com/drive/folders/158a-z5-x1rsuJSMII7zWxVP1mcdo-abR?usp=sharing",
           password: "kasir",
         },
         {
           nama: "Mutu Unit",
-          drive: "https://drive.google.com/drive/folders/1vBxy_Yv2fWz-OU5WKD5-3I_M10kuGc00?usp=drive_link",
+          drive: "https://drive.google.com/drive/folders/1mjYwkNs4-iwACE3S6s-kqTODA5arqUNA?usp=sharing",
           password: "kasir",
         },
         {
@@ -148,7 +148,7 @@ export default function Keuangan() {
         },
         {
           nama: "Mutu Unit",
-          drive: "https://drive.google.com/drive/folders/1Bx96aLQ82drpiDKZWC-0gNJ0T0pqT1wZ?usp=sharing",
+          drive: "https://drive.google.com/drive/folders/1QvZLC2JZmnlscNVqWjKmaN8cLOnbTb1d?usp=sharing",
           password: "logistik",
         },
         {

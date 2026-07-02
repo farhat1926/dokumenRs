@@ -48,7 +48,7 @@ export default function SDM() {
         },
         {
           nama: "Mutu Unit",
-          drive: "https://drive.google.com/drive/folders/1rOF9e8GdmI7jdc5jo9SLi-6I2Cgzcl1-?usp=sharing",
+          drive: "https://drive.google.com/drive/folders/1npUER30bBO3s1jGjC_XliCY9ju0xqInS?usp=sharing",
           password: "kepegawaian",
         },
         {

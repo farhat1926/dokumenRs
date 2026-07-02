@@ -38,7 +38,7 @@ export default function Penunjang() {
         },
         {
           nama: "Indikator Mutu",
-          drive: "https://drive.google.com/drive/folders/1cmBJknlt9M4MJquZaIsCbv3EDT9r4KAo?usp=sharing",
+          drive: "https://drive.google.com/drive/folders/1IW3SRoj78nU-2h6HGFG82pQm3T2Rg0eA?usp=sharing",
           password: "laboratorium",
         },
         {
@@ -79,7 +79,7 @@ export default function Penunjang() {
         },
         {
           nama: "Mutu Unit",
-          drive: "https://drive.google.com/drive/folders/1kRBWg7Uu6N7rsRSm0pVcesLj2YArj2tC?usp=sharing",
+          drive: "https://drive.google.com/drive/folders/147s81VwRB4yCE1-nbQQ9CMdt9hNzaun2?usp=sharing",
           password: "radiologi",
         },
         // {
@@ -90,6 +90,11 @@ export default function Penunjang() {
         {
           nama: "Program Kerja",
           drive: "https://drive.google.com/drive/folders/17I_Bt-LWZT8VveUtfRqyS-WSQ0fFD9_2?usp=sharing",
+          password: "radiologi",
+        },
+        {
+          nama: "Struktur",
+          drive: "https://drive.google.com/drive/folders/1e1rkiRaSONdd8uFADi_hCwASdVQjh2ad?usp=sharing",
           password: "radiologi",
         },
 
@@ -120,7 +125,7 @@ export default function Penunjang() {
         },
         {
           nama: "Mutu unit",
-          drive: "https://drive.google.com/drive/folders/100yskin4Ue-zfJf0Q6Ba3FlJB9TJND0C?usp=sharing",
+          drive: "https://drive.google.com/drive/folders/1Hii45QBA8WLQRkTX6N-m8BsYge4Zq7zD?usp=sharing",
           password: "farmasi",
         },
         {
@@ -186,7 +191,7 @@ export default function Penunjang() {
         },
         {
           nama: "Mutu unit",
-          drive: "https://drive.google.com/drive/folders/15-Q_-BYe8cIRD8Q3za4oK8wzO3AREk-d?usp=sharing",
+          drive: "https://drive.google.com/drive/folders/1_R26GZS_zrqx0FJIdpZMHhNJTi0CnlCR?usp=sharing",
           password: "gizi",
         },
         
@@ -223,7 +228,7 @@ export default function Penunjang() {
         },
         {
           nama: "Mutu Unit",
-          drive: "https://drive.google.com/drive/folders/1YJxT3nB30tkDdkyn-SdscLRz5XEbyYwM?usp=sharing",
+          drive: "https://drive.google.com/drive/folders/1L7CGIqR0AcsHmsVnQzgbtLJ3rId2nGP7?usp=sharing",
           password: "rekammedis",
         },
         {
@@ -273,7 +278,7 @@ export default function Penunjang() {
         },
         {
           nama: "Mutu Unit",
-          drive: "https://drive.google.com/drive/folders/1FW3HVoW2k9d72hdN3vKPRxtLrtgJexWy?usp=sharing",
+          drive: "https://drive.google.com/drive/folders/1TpoRH16DlyRInf2iFMj_v4QoY-Q5qi_D?usp=sharing",
           password: "rehabilitasimedis",
         },
         {
@@ -298,7 +303,7 @@ export default function Penunjang() {
         },
         {
           nama: "Mutu Unit",
-          drive: "https://drive.google.com/drive/folders/18UMuqIVIyydY92XNVCVNCCLYRLadOx7X?usp=sharing",
+          drive: "https://drive.google.com/drive/folders/1ibO4qgNQmtoa1MFo0ufca5fJWb-hVQvK?usp=sharing",
           password: "kerohanian",
         },
         {
@@ -348,7 +353,7 @@ export default function Penunjang() {
         },
         {
           nama: "Mutu Unit",
-          drive: "https://drive.google.com/drive/folders/1BtflgtRSMxU6FSaYn2RW87GixlumhPCO?usp=sharing",
+          drive: "https://drive.google.com/drive/folders/1TeXO6D6UPW-Wqvk8JiMMZ5zWLy2s7DO9?usp=sharing",
           password: "humasmarketing",
         },
         {

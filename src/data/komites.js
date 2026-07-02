@@ -114,7 +114,7 @@ export const komites = [
         },
         {
           nama: "Indikator Mutu",
-          drive: "https://drive.google.com/drive/folders/1mjOp0gKtmmdfwKulkkcwsfqhjZQYQQYJ?usp=sharing",
+          drive: "https://drive.google.com/drive/folders/1n7wmg2Vqxr8gHbOZNZkSPRDLraNy5BYG?usp=sharing",
           password: "ppi",
         },
         {
