@@ -31,6 +31,16 @@ export default function Keuangan() {
           drive: "https://drive.google.com/drive/folders/1mczfss_rnGDtfmMNDLN-cJuQJQ4Vc79I?usp=sharing",
           password: "billing",
         },
+        {
+          nama: "Uraian Tugas",
+          drive: "https://drive.google.com/drive/folders/1ny-nM2SHc39j0JAiFL-E-bQkjWikUKdL?usp=sharing",
+          password: "billing",
+        },
+        {
+          nama: "Struktur",
+          drive: "https://drive.google.com/drive/folders/1tHbXQ_UsWIo071etRrjIqxiYbThMXdDB?usp=sharing",
+          password: "billing",
+        },
       ],
     },
     {
@@ -79,6 +89,21 @@ export default function Keuangan() {
         {
           nama: "Program Kerja",
           drive: "https://drive.google.com/drive/folders/1VhE-qHNzQVfm2hCye9uZK85xiXJj7v_V?usp=sharing",
+          password: "administrasikeuangan",
+        },
+        {
+          nama: "Laporan Keuangan",
+          drive: "https://drive.google.com/drive/folders/14TWY8QPBGkfob8073H8JyGhfV4xeiMqs?usp=sharing",
+          password: "administrasikeuangan",
+        },
+        {
+          nama: "Uraian Tugas",
+          drive: "https://drive.google.com/drive/folders/1aM4pD9ubbQ788ak7ocLpvMqqQFhnqcdT?usp=sharing",
+          password: "administrasikeuangan",
+        },
+        {
+          nama: "Struktur",
+          drive: "https://drive.google.com/drive/folders/14DbnUCqf_1MnDqI7lvDAECORr0Je-e1M?usp=sharing",
           password: "administrasikeuangan",
         },
       ],

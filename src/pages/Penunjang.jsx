@@ -190,6 +190,12 @@ export default function Penunjang() {
           password: "gizi",
         },
         
+        {
+          nama: "Uraian Tugas",
+          drive: "https://drive.google.com/drive/folders/1-ybYZgPus6uMbgTI0epXYLpPEyhakXuD?usp=sharing",
+          password: "gizi",
+        },
+        
       ],
     },
       {
@@ -348,6 +354,16 @@ export default function Penunjang() {
         {
           nama: "Program Kerja",
           drive: "https://drive.google.com/drive/folders/12F1cf--8CcmN2kRobeA27xIOrrFPCVJE?usp=sharing",
+          password: "humasmarketing",
+        },
+        {
+          nama: "Struktur Organisasi",
+          drive: "https://drive.google.com/drive/folders/1URij7_ovIkDegsgm0YEYmhg4Rycz4URY?usp=sharing",
+          password: "humasmarketing",
+        },
+        {
+          nama: "Uraian Tugas",
+          drive: "https://drive.google.com/drive/folders/1m1zhyOEdKpDWIAD0S2m6NClq3oh1NfVS?usp=sharing",
           password: "humasmarketing",
         },
         

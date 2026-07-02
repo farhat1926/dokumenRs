@@ -56,6 +56,16 @@ export default function Sarana() {
           drive: "https://drive.google.com/drive/folders/1Wbiw6GvBJQaSfbtcZwTyrv4u8RkocsBV?usp=sharing",
           password: "ipsrs",
         },
+        {
+          nama: "jadwal IPSRS",
+          drive: "https://drive.google.com/drive/folders/1_rijC2LLcPgp7LKAGwRlSsnbUX0dNBd2?usp=sharing",
+          password: "ipsrs",
+        },
+        {
+          nama: "Struktur",
+          drive: "https://drive.google.com/drive/folders/10WVhpcaPymQbAoed2K2t2uCk0odBViWu?usp=sharing",
+          password: "ipsrs",
+        },
         
       ],
     },
@@ -106,6 +116,16 @@ export default function Sarana() {
         {
           nama: "Program Kerja",
           drive: "https://drive.google.com/drive/folders/1omPRJfdzvBjV-9-BW8tQRcN7BJikK9uj?usp=sharing",
+          password: "linenlaundry",
+        },
+        {
+          nama: "Struktur",
+          drive: "https://drive.google.com/drive/folders/1LHFPxB8WhGUBDQ0Z7vmxHGd_aNxxyeGj?usp=sharing",
+          password: "linenlaundry",
+        },
+        {
+          nama: "Data SDM",
+          drive: "https://drive.google.com/drive/folders/1VsWYaYlUb7nwDViE8cqoRzzbY8N7mR3B?usp=sharing",
           password: "linenlaundry",
         },
         

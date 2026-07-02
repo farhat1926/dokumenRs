@@ -141,6 +141,11 @@ export default function Medis() {
           drive: "https://drive.google.com/drive/folders/1L7Yw5p2pg2JT6E0rQ4yVGDR-R4Na3N12?usp=sharing",
           password: "poliklinik",
         },
+        {
+          nama: "Struktur Organisasi",
+          drive: "https://drive.google.com/drive/folders/1VasMmrddbuu7cdiUi731VfSFtXc1BKOt?usp=sharing",
+          password: "poliklinik",
+        },
       ],
     },
     {
