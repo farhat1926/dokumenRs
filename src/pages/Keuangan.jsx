@@ -108,31 +108,31 @@ export default function Keuangan() {
         },
       ],
     },
-    {
-      nama: "Pajak",
-      kategori: [
-        {
-          nama: "SPO",
-          drive: "https://drive.google.com/drive/folders/1EubtdjWBo83lzVcAkoy8KwjJPjRlrYjS?usp=sharing",
-          password: "pajak",
-        },
-        {
-          nama: "Pedoman dan Panduan",
-          drive: "https://drive.google.com/drive/folders/19OJv0BaGWQkywTIPVLB0BpswLiwNGyeP?usp=sharing",
-          password: "pajak",
-        },
-        {
-          nama: "Mutu Unit",
-          drive: "https://drive.google.com/drive/folders/1w8NasYrnf6URk48wNFHJ9qSYlar47k7y?usp=sharing",
-          password: "pajak",
-        },
-        {
-          nama: "Program Kerja",
-          drive: "https://drive.google.com/drive/folders/1MhmP2k0Mx_bKplvpvQnIN_0LPi6G5x8r?usp=sharing",
-          password: "pajak",
-        },
-      ],
-    },
+    // {
+    //   nama: "Pajak",
+    //   kategori: [
+    //     {
+    //       nama: "SPO",
+    //       drive: "https://drive.google.com/drive/folders/1EubtdjWBo83lzVcAkoy8KwjJPjRlrYjS?usp=sharing",
+    //       password: "pajak",
+    //     },
+    //     {
+    //       nama: "Pedoman dan Panduan",
+    //       drive: "https://drive.google.com/drive/folders/19OJv0BaGWQkywTIPVLB0BpswLiwNGyeP?usp=sharing",
+    //       password: "pajak",
+    //     },
+    //     {
+    //       nama: "Mutu Unit",
+    //       drive: "https://drive.google.com/drive/folders/1w8NasYrnf6URk48wNFHJ9qSYlar47k7y?usp=sharing",
+    //       password: "pajak",
+    //     },
+    //     {
+    //       nama: "Program Kerja",
+    //       drive: "https://drive.google.com/drive/folders/1MhmP2k0Mx_bKplvpvQnIN_0LPi6G5x8r?usp=sharing",
+    //       password: "pajak",
+    //     },
+    //   ],
+    // },
     {
       nama: "Logistik",
       kategori: [
