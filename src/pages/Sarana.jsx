@@ -98,7 +98,7 @@ export default function Sarana() {
           password: "cssd",
         },
         {
-          nama: "Struktur",
+          nama:"Struktur",
           drive: "https://drive.google.com/drive/folders/1-KJeLAoxpUiQ1pm1sVwKKr_ZihEuEMuv?usp=sharing",
           password: "cssd",
         },

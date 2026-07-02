@@ -96,6 +96,11 @@ export default function Medis() {
           drive: "https://drive.google.com/drive/folders/1421FZTT3BcstOX_ak9wyVDYUjpDwSqa4?usp=sharing",
           password: "ibs",
         },
+         {
+          nama: "Struktur",
+          drive: "https://drive.google.com/drive/folders/12rDLGgVfGt70-8poUXI7qmPHjYPS8Epm?usp=sharing",
+          password: "ibs",
+        },
       ],
     },
     {
