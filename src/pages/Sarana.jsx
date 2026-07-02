@@ -92,6 +92,16 @@ export default function Sarana() {
           drive: "https://drive.google.com/drive/folders/11r-_PX0tGoGjf18fm0mHrJdK77G8rasl?usp=sharing",
           password: "cssd",
         },
+        {
+          nama: "Uraian Tugas",
+          drive: "https://drive.google.com/drive/folders/1oOv03I8JTMYn4gzQDgS-fOBSTSjMCIss?usp=sharing",
+          password: "cssd",
+        },
+        {
+          nama: "Struktur",
+          drive: "https://drive.google.com/drive/folders/1-KJeLAoxpUiQ1pm1sVwKKr_ZihEuEMuv?usp=sharing",
+          password: "cssd",
+        },
         
       ],
     },
