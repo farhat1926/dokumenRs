@@ -147,6 +147,11 @@ export default function Medis() {
           password: "poliklinik",
         },
         {
+          nama: "Jadwal Dinas",
+          drive: "https://drive.google.com/drive/folders/17E7dWby6uQDNBfqOWWTF9TtGSLHj0Q_i?usp=sharing",
+          password: "poliklinik",
+        },
+        {
           nama: "Struktur Organisasi",
           drive: "https://drive.google.com/drive/folders/1VasMmrddbuu7cdiUi731VfSFtXc1BKOt?usp=sharing",
           password: "poliklinik",
