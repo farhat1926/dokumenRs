@@ -102,6 +102,11 @@ export default function Sarana() {
           drive: "https://drive.google.com/drive/folders/1-KJeLAoxpUiQ1pm1sVwKKr_ZihEuEMuv?usp=sharing",
           password: "cssd",
         },
+        {
+          nama:"Jadwal Dinas",
+          drive: "https://drive.google.com/drive/folders/1t1rf6OuYdvDMdqXvSe9OfRiRiBU0rqJw?usp=sharing",
+          password: "cssd",
+        },
         
       ],
     },
