@@ -51,6 +51,11 @@ export default function Medis() {
           drive: "https://drive.google.com/drive/folders/1gj9k2yGsE38LXoI36KqzGllK04cIgvvD?usp=sharing",
           password: "igd",
         },
+        {
+          nama: "Jadwal Dinas",
+          drive: "https://drive.google.com/drive/folders/10p7vRw31qEBtY4c1pbAIKEW8vPawhr-g?usp=drive_link",
+          password: "igd",
+        },
       ],
     },
     {
@@ -99,6 +104,11 @@ export default function Medis() {
          {
           nama: "Struktur",
           drive: "https://drive.google.com/drive/folders/12rDLGgVfGt70-8poUXI7qmPHjYPS8Epm?usp=sharing",
+          password: "ibs",
+        },
+         {
+          nama: "Jadwal Dinas",
+          drive: "https://drive.google.com/drive/folders/169KqhtrOBgpq5tN7ypUhzJl9gfTOwuG8?usp=drive_link",
           password: "ibs",
         },
       ],
@@ -205,6 +215,11 @@ export default function Medis() {
           nama:"Struktur ",
           drive: "https://drive.google.com/drive/folders/1AJeAmr7cYQds6HyTXCb0Q2PbQTjUClAa?usp=sharing",
           password: "rawatinap"
+        },
+        {
+          nama:"Jadwal Dinas ",
+          drive: "https://drive.google.com/drive/folders/1otSr4ERBn2bNHlOVe4aWBwEsL8nszwoG?usp=drive_link",
+          password: "rawatinap"
         }
       ],
     },
@@ -269,6 +284,11 @@ export default function Medis() {
         {
           nama: "Laporan Triwulan",
           drive: "https://drive.google.com/drive/folders/1rsCh_QhjrDny_kOPHA6OuQVlpqN8GrmZ?usp=sharing",
+          password: "icu",
+        },
+        {
+          nama: "Jadwal Dinas",
+          drive: "https://drive.google.com/drive/folders/1InZCE4vb65Dp_-uzyaQBNGiq5sDBvutt?usp=drive_link",
           password: "icu",
         },
       ],
