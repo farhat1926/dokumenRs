@@ -13,7 +13,7 @@ export default function Sarana() {
       kategori: [
         {
           nama: "SPO",
-          drive: "https://drive.google.com/drive/folders/1q1lxts9SNGP5YPOK0YlT4itXZ_5jpEob?usp=sharing",
+          drive: "https://drive.google.com/drive/folders/1irC9prEj5NTNZwEMCjOEadycf9dsZwQM?usp=sharing",
           password: "it",
         },
         {
