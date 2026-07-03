@@ -57,7 +57,7 @@ export default function Keperawatan() {
       nama: "Kebidanan",
       kategori: [
         {
-          nama: "SOP",
+          nama: "SPO",
           drive: "https://drive.google.com/drive/folders/1q1lxts9SNGP5YPOK0YlT4itXZ_5jpEob?usp=sharing",
           password: "kebidanan",
         },

@@ -162,7 +162,7 @@ export default function Medis() {
       nama: "Instalasi Rawat Inap",
       kategori: [
         {
-          nama: "SOP",
+          nama: "SPO",
           drive: "https://drive.google.com/drive/folders/1c09ZldtoEhiVH42BCLWmN2y3yyYWH4zt?hl=id",
           password: "rawatinap",
         },

@@ -58,7 +58,7 @@ export default function Penunjang() {
       nama: "Instalasi Radiologi",
       kategori: [
         {
-          nama: "SOP",
+          nama: "SPO",
           drive: "https://drive.google.com/drive/folders/1nxakt7awU0GrFnVPJguS-AvEn3DHHNvr?usp=sharing",
           password: "radiologi",
         },
@@ -207,7 +207,7 @@ export default function Penunjang() {
       nama: "Instalasi Rekam Medis",
       kategori: [
         {
-          nama: "SOP",
+          nama: "SPO",
           drive: "https://drive.google.com/drive/folders/1oWZDgNzNYgdn0yvCYHuIJbIbv0RP-pvr?usp=sharing",
           password: "rekammedis",
         },
@@ -257,7 +257,7 @@ export default function Penunjang() {
       nama: "Instalasi Rehabilitasi Medis",
       kategori: [
         {
-          nama: "SOP",
+          nama: "SPO",
           drive: "https://drive.google.com/drive/folders/1UYlMvzLNIUxOEOEJ6VhTVO0U74G0xIQc?usp=sharing",
           password: "rehabilitasimedis",
         },
