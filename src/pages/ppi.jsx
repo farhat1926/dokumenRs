@@ -1,7 +1,7 @@
 import { useState } from "react";
 
 
-export default function Medis() {
+export default function Ppi() {
   const [selectedUnit, setSelectedUnit] = useState(null);
   const [selectedKategori, setSelectedKategori] = useState(null);
   const [password, setPassword] = useState("");
