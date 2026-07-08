@@ -10,56 +10,6 @@ export default function Audit() {
   const units = [
     {
       nama: "Audit Radiologi",
-      kategori: [
-        {
-          nama: "SPO",
-          drive: "https://drive.google.com/drive/folders/1We3zDIt7gaove0UYPhQssQRnO41ymbXT?hl=id",
-          password: "igd",
-        },
-        {
-          nama: "Pedoman dan Panduan",
-          drive: "https://drive.google.com/drive/folders/1LL-qsZcDxS2vwVq0-4M64_nIEfkw0J-1?usp=sharing",
-          password: "igd",
-        },
-        {
-          nama: "SPK & RKK",
-          drive: "https://drive.google.com/drive/folders/1euohT0NURMSR4nTvPOxHhkuBLenyLCff?usp=sharing",
-          password: "igd",
-        },
-        {
-          nama: "SIP & STR",
-          drive: "https://drive.google.com/drive/folders/1cf9mj4WM-PNMfdG2QQK-mMv6kclhmvt2?usp=sharing",
-          password: "igd",
-        },
-        // {
-        //   nama: "Clinical Pathway",
-        //   drive: "https://drive.google.com/drive/folders/1dYkoTULt1aOYZhqF22mPCP_5OHeLhWcN?usp=sharing",
-        //   password: "igd",
-        // },
-        {
-          nama: "Mutu Unit",
-          drive: "https://drive.google.com/drive/folders/12VGlZ-nPqcZVHXpUKc1tFqkOrm5MGOot?usp=sharing",
-          password: "igd",
-        },
-        // {
-        //   nama: "Panduan Praktek Klinis",
-        //   drive: "https://drive.google.com/drive/folders/1cf3_FFSLUIbTlZ9rXLUqVnB59LcFwMaq?usp=sharing",
-        //   password: "igd",
-        // },
-        {
-          nama: "program Kerja",
-          drive: "https://drive.google.com/drive/folders/1gj9k2yGsE38LXoI36KqzGllK04cIgvvD?usp=sharing",
-          password: "igd",
-        },
-        {
-          nama: "Jadwal Dinas",
-          drive: "https://drive.google.com/drive/folders/10p7vRw31qEBtY4c1pbAIKEW8vPawhr-g?usp=drive_link",
-          password: "igd",
-        },
-      ],
-    },
-    {
-      nama: "Instalasi Bedah Sentral (IBS)",
       drive: "https://drive.google.com/drive/folders/1WGZYCsoG6V-TgBJepqNiQRGM0w6er6NJ?hl=id",
       password: "ibs",
     },
