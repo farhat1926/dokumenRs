@@ -1,195 +1,295 @@
 import { useState } from "react";
 
 
-export default function Ppi() {
+export default function Medis() {
   const [selectedUnit, setSelectedUnit] = useState(null);
   const [selectedKategori, setSelectedKategori] = useState(null);
   const [password, setPassword] = useState("");
   const [step, setStep] = useState(null); // "kategori" | "password"
 
   const units = [
-      {
-      nama: "Pelayanan Medis",
+    {
+      nama: "Instalasi Gawat Darurat (IGD)",
       kategori: [
         {
-          nama: "Instalasi Gawat Darurat (IGD)",
+          nama: "SPO",
           drive: "https://drive.google.com/drive/folders/1We3zDIt7gaove0UYPhQssQRnO41ymbXT?hl=id",
           password: "igd",
         },
         {
-          nama: "Instalasi Bedah Sentral (IBS)",
+          nama: "Pedoman dan Panduan",
+          drive: "https://drive.google.com/drive/folders/1LL-qsZcDxS2vwVq0-4M64_nIEfkw0J-1?usp=sharing",
+          password: "igd",
+        },
+        {
+          nama: "SPK & RKK",
+          drive: "https://drive.google.com/drive/folders/1euohT0NURMSR4nTvPOxHhkuBLenyLCff?usp=sharing",
+          password: "igd",
+        },
+        {
+          nama: "SIP & STR",
+          drive: "https://drive.google.com/drive/folders/1cf9mj4WM-PNMfdG2QQK-mMv6kclhmvt2?usp=sharing",
+          password: "igd",
+        },
+        // {
+        //   nama: "Clinical Pathway",
+        //   drive: "https://drive.google.com/drive/folders/1dYkoTULt1aOYZhqF22mPCP_5OHeLhWcN?usp=sharing",
+        //   password: "igd",
+        // },
+        {
+          nama: "Mutu Unit",
+          drive: "https://drive.google.com/drive/folders/12VGlZ-nPqcZVHXpUKc1tFqkOrm5MGOot?usp=sharing",
+          password: "igd",
+        },
+        // {
+        //   nama: "Panduan Praktek Klinis",
+        //   drive: "https://drive.google.com/drive/folders/1cf3_FFSLUIbTlZ9rXLUqVnB59LcFwMaq?usp=sharing",
+        //   password: "igd",
+        // },
+        {
+          nama: "program Kerja",
+          drive: "https://drive.google.com/drive/folders/1gj9k2yGsE38LXoI36KqzGllK04cIgvvD?usp=sharing",
+          password: "igd",
+        },
+        {
+          nama: "Jadwal Dinas",
+          drive: "https://drive.google.com/drive/folders/10p7vRw31qEBtY4c1pbAIKEW8vPawhr-g?usp=drive_link",
+          password: "igd",
+        },
+      ],
+    },
+    {
+      nama: "Instalasi Bedah Sentral (IBS)",
+      kategori: [
+        {
+          nama: "SPO",
+          drive: "https://drive.google.com/drive/folders/1WGZYCsoG6V-TgBJepqNiQRGM0w6er6NJ?hl=id",
+          password: "ibs",
+        },
+        {
+          nama: "Pedoman dan Panduan",
           drive: "https://drive.google.com/drive/folders/1OCtNr5TBCr3LSTwILslqWnthv8I0ZN-_?usp=drive_link",
           password: "ibs",
         },
         {
-          nama: "Instalasi Rawat Jalan (Poliklinik)",
+          nama: "SPK & RKK",
+          drive: "https://drive.google.com/drive/folders/1u7UQ5dvBcLjybNXrkE5T9VPaTLLINGD1?usp=sharing",
+          password: "ibs",
+        },
+        {
+          nama: "SIP & STR",
+          drive: "https://drive.google.com/drive/folders/16h9eKzmOVXqZRG4VWs_JFs-G6xdyXTFJ?usp=sharing",
+          password: "ibs",
+        },
+        //  {
+        //   nama: "Clinical Pathway",
+        //   drive: "https://drive.google.com/drive/folders/14JPly9NOEv5qhUJXsG8C9G4hHL0xMAdm?usp=sharing",
+        //   password: "ibs",
+        // },
+         {
+          nama: "Mutu Unit",
+          drive: "https://drive.google.com/drive/folders/1D-O9i2U_T1HxT6635egnSwHC9d0gEdAP?usp=sharing",
+          password: "ibs",
+        },
+        //  {
+        //   nama: "Panduan Praktek Klinis",
+        //   drive: "https://drive.google.com/drive/folders/1484_i9l1LUqz9uIqnkOf7CkjpI64VD0n?usp=sharing",
+        //   password: "ibs",
+        // },
+         {
+          nama: "Program Kerja",
+          drive: "https://drive.google.com/drive/folders/1421FZTT3BcstOX_ak9wyVDYUjpDwSqa4?usp=sharing",
+          password: "ibs",
+        },
+         {
+          nama: "Struktur",
+          drive: "https://drive.google.com/drive/folders/12rDLGgVfGt70-8poUXI7qmPHjYPS8Epm?usp=sharing",
+          password: "ibs",
+        },
+         {
+          nama: "Jadwal Dinas",
+          drive: "https://drive.google.com/drive/folders/169KqhtrOBgpq5tN7ypUhzJl9gfTOwuG8?usp=drive_link",
+          password: "ibs",
+        },
+      ],
+    },
+    {
+      nama: "Instalasi Rawat Jalan (Poliklinik)",
+      kategori: [
+        {
+          nama: "SPO",
+          drive: "https://drive.google.com/drive/folders/1j_ohVyuL9XkT371UEJRYVIQUMXvq9ag1?hl=id",
+          password: "poliklinik",
+        },
+        {
+          nama: "Pedoman dan Panduan",
           drive: "https://drive.google.com/drive/folders/1XR7yIhqRT5ZwBeKrm3QHFZlY7ytFZfqd?usp=drive_link",
           password: "poliklinik",
         },
         {
-          nama: "Instalasi Rawat Inap",
-          drive: "https://drive.google.com/drive/folders/15brWmixTj9lPjr8FMcO9D0A3tg0s5hot?usp=drive_link",
+          nama: "SPK & RKK",
+          drive: "https://drive.google.com/drive/folders/1DYppMjQhU3-PMLvGJ7P4IMwfVqlxaiez?usp=sharing",
+          password: "poliklinik",
+        },
+        {
+          nama: "SIP & STR",
+          drive: "https://drive.google.com/drive/folders/1nFJV5F0cwAfiIFP_rp8e6P2koDA5qfNy?usp=sharing",
+          password: "poliklinik",
+        },
+        // {
+        //   nama: "Clinical Pathway",
+        //   drive: "https://drive.google.com/drive/folders/1B5LOBwCzMfiPvmFc9FFJEwtCqctkvL9m?usp=sharing",
+        //   password: "poliklinik",
+        // },
+        {
+          nama: "Mutu Unit",
+          drive: "https://drive.google.com/drive/folders/14czUAFiR5vdWXBDL4qrSgQwSxWQ2KHzW?usp=sharing",
+          password: "poliklinik",
+        },
+        // {
+        //   nama: "Panduan Praktek Klinis",
+        //   drive: "https://drive.google.com/drive/folders/1jzWROkGlMyyyHO7PjABEUYkW6BRe79GS?usp=sharing",
+        //   password: "poliklinik",
+        // },
+        {
+          nama: "Program Kerja",
+          drive: "https://drive.google.com/drive/folders/1L7Yw5p2pg2JT6E0rQ4yVGDR-R4Na3N12?usp=sharing",
+          password: "poliklinik",
+        },
+        {
+          nama: "Jadwal Dinas",
+          drive: "https://drive.google.com/drive/folders/17E7dWby6uQDNBfqOWWTF9TtGSLHj0Q_i?usp=sharing",
+          password: "poliklinik",
+        },
+        {
+          nama: "Struktur Organisasi",
+          drive: "https://drive.google.com/drive/folders/1VasMmrddbuu7cdiUi731VfSFtXc1BKOt?usp=sharing",
+          password: "poliklinik",
+        },
+      ],
+    },
+    {
+      nama: "Instalasi Rawat Inap",
+      kategori: [
+        {
+          nama: "SPO",
+          drive: "https://drive.google.com/drive/folders/1c09ZldtoEhiVH42BCLWmN2y3yyYWH4zt?hl=id",
           password: "rawatinap",
         },
         {
-          nama: "Instalasi Keperawatan Intensif (ICU)",
+          nama: "Pedoman",
+          drive: "https://drive.google.com/drive/folders/1R7LKyzhhCSA46Seb6b0B7wS9sw1u9lBd?usp=drive_link",
+          password: "rawatinap",
+        },
+        // {
+        //   nama: "SPK & RKK",
+        //   drive: "https://drive.google.com/drive/folders/1VnQhMWBNeifFPlpRTR2cenpDY1wkFALJ?usp=sharing",
+        //   password: "rawatinap",
+        // },
+        {
+          nama: "SIP & STR",
+          drive: "https://drive.google.com/drive/folders/1ne9VR3W3gI51c5FEfN2d0dprbyiPOlzB?usp=sharing",
+          password: "rawatinap",
+        },
+        // {
+        //   nama: "Clinical Pathway",
+        //   drive: "https://drive.google.com/drive/folders/13R3JWNvrGv0Vj77s3391FvnwuF80dss6?usp=sharing",
+        //   password: "rawatinap",
+        // },
+        {
+          nama: "Mutu Unit",
+          drive: "https://drive.google.com/drive/folders/1lF91iTzhnzdl8f0bh-TIWCssMJXvVnhk?usp=sharing",
+          password: "rawatinap",
+        },
+        {
+          nama: "Program Kerja",
+          drive: "https://drive.google.com/drive/folders/1UAINLYOt9yW61q8_ZgC6uaVr_SEsH_jE?usp=sharing",
+          password: "rawatinap",
+        },
+        {
+          nama:"Diagnosa Keperawatan",
+          drive: "https://drive.google.com/drive/folders/1CvkfJoozO1pj48zkGLLAi80tjZy-KvAh?usp=sharing",
+          password: "rawatinap"
+        },
+        {
+          nama:"Struktur ",
+          drive: "https://drive.google.com/drive/folders/1AJeAmr7cYQds6HyTXCb0Q2PbQTjUClAa?usp=sharing",
+          password: "rawatinap"
+        },
+        {
+          nama:"Jadwal Dinas ",
+          drive: "https://drive.google.com/drive/folders/1otSr4ERBn2bNHlOVe4aWBwEsL8nszwoG?usp=drive_link",
+          password: "rawatinap"
+        }
+      ],
+    },
+    {
+      nama: "Instalasi Keperawatan Intensif (ICU)",
+      kategori: [
+        {
+          nama: "SPO",
+          drive: "https://drive.google.com/drive/folders/1hcFTBI62kupeTAodW1M3Vu1RdUfGm6ZS?hl=id",
+          password: "icu",
+        },
+        {
+          nama: "Pedoman",
           drive: "https://drive.google.com/drive/folders/1LHGwpnEVi0I4OzeDHlQMh6-FGEo07VGf?usp=drive_link",
           password: "icu",
         },
-    ],
-    },
-      {
-      nama: "Penunjang Medis dan Pelayanan Non Medis",
-      kategori: [
         {
-          nama: "Instalasi Laboratorium",
-          drive: "https://drive.google.com/drive/folders/1OxPMr2zQ0sqHeedeoDT_MHdFYbVjgmmQ?usp=sharing",
-          password: "laboratorium",
+          nama: "SPK & RKK",
+          drive: "https://drive.google.com/drive/folders/1Jm5JjUNXG-Ko5t-6QV1fsiZYb7vdP7Q7?usp=sharing",
+          password: "icu",
         },
         {
-          nama: "Instalasi Radiologi",
-          drive: "https://drive.google.com/drive/folders/1TOieJYeghTslE4Ig9cWj3bjWjhVNpIxv?usp=sharing",
-          password: "radiologi",
+          nama: "SIP & STR",
+          drive: "https://drive.google.com/drive/folders/11Pq1g8fxjwlFKC2EP9CZCYrz0qjRrtiW?usp=sharing",
+          password: "icu",
+        },
+        // {
+        //   nama: "Clinical Pathway",
+        //   drive: "https://drive.google.com/drive/folders/1RneI4klpv7KqtQ9k1fxLmEeJ8KWkw5E4?usp=sharing",
+        //   password: "icu",
+        // },
+        {
+          nama: "Mutu Unit",
+          drive: "https://drive.google.com/drive/folders/1d_4Z-HDCleis29ragk2stMAnrS9nG5FH?usp=sharing",
+          password: "icu",
+        },
+        // {
+        //   nama: "Panduan Praktek Klinis",
+        //   drive: "https://drive.google.com/drive/folders/1kSD0WAgu0FgoAocTv6CZoTMVkzpofWAm?usp=sharing",
+        //   password: "icu",
+        // },
+        {
+          nama: "Program Kerja",
+          drive: "https://drive.google.com/drive/folders/1EDkhh91PX0d6ZRru6agOrT8GOYft23-z?usp=sharing",
+          password: "icu",
         },
         {
-          nama: "Instalasi Farmasi",
-          drive: "https://drive.google.com/drive/folders/1bNnH66zrqt1YQ0lFPaowKIBDTUvfxsuM?usp=sharing",
-          password: "farmasi",
+          nama: "Sertifikat",
+          drive: "https://drive.google.com/drive/folders/1BqQvCCqUQM8uFSMQewPO_xVwqwyj-sJJ?usp=sharing",
+          password: "icu",
         },
         {
-          nama: "Instalasi Gizi",
-          drive: "https://drive.google.com/drive/folders/1gk8Uqxiz2tswrzzMI3E9qAqJdkrd2Qcu?usp=sharing",
-          password: "gizi",
+          nama: "Struktur Organisasi",
+          drive: "https://drive.google.com/drive/folders/1ozIgYq9KiarcPanJb0K7wl_IR0nbmy1n?usp=sharing",
+          password: "icu",
         },
         {
-          nama: "Instalasi Rekam Medis",
-          drive: "https://drive.google.com/drive/folders/1Bv8pBj3-NUhwgxEtoO1ZsO3FpB-OUMuT?usp=sharing",
-          password: "rekammedis",
+          nama: "SK Kepegawaian",
+          drive: "https://drive.google.com/drive/folders/1K2ruSOIRiELSRSNuS1JQ3sirPB69S9Mh?usp=sharing",
+          password: "icu",
         },
         {
-          nama: "Instalasi Rehabilitasi Medis",
-          drive: "https://drive.google.com/drive/folders/1hnF6lJmddFhvfqaxafYiSDtOuu_Y7sNX?usp=sharing",
-          password: "rehabilitasimedis",
+          nama: "Laporan Triwulan",
+          drive: "https://drive.google.com/drive/folders/1rsCh_QhjrDny_kOPHA6OuQVlpqN8GrmZ?usp=sharing",
+          password: "icu",
         },
         {
-          nama: "Kerohanian",
-          drive: "https://drive.google.com/drive/folders/1OzQLdBW9_kk47T5uOoA9F5YhA9ma5ECO?usp=sharing",
-          password: "kerohanian",
-        },
-        {
-          nama: "Pemulasaran Jenazah",
-          drive: "https://drive.google.com/drive/folders/1CpsewmjoaYQEvVu-Xw7k1Rq643NZTLyk?usp=sharing",
-          password: "pemulasaranjenazah",
-        },
-        {
-          nama: "Humas dan Marketing",
-          drive: "https://drive.google.com/drive/folders/1lIF-GriQ5uRqxFdGVakaZuOQ__R8N_V8?usp=sharing",
-          password: "humasmarketing",
-        },
-      ],
-    },
-      {
-      nama: "SDM",
-      kategori: [
-        {
-          nama: "Kesekretariatan",
-          drive: "https://drive.google.com/drive/folders/15Z1NHvzR8ItNpqCYD7Rn0DQRHpjKKS2z?usp=sharing",
-          password: "sekertaris",
-        },
-        {
-          nama: "Kepegawaian",
-          drive: "https://drive.google.com/drive/folders/1bPpdZauKixTHzOKb8J3MGEIKsXdSxF9l?usp=sharing",
-          password: "kepegawaian",
-        },
-        {
-          nama: "Pendidikan dan Pelatihan (DIKLAT)",
-          drive: "https://drive.google.com/drive/folders/1FjLqss2RTlHlG-LH-nEFV4h8EN-Ualku?usp=sharing",
-          password: "diklat",
-        },
-      ],
-    },
-      {
-      nama: "Keperawatan dan Kebidanan",
-      kategori: [
-        {
-          nama: "Keperawatan",
-          drive: "https://drive.google.com/drive/folders/1XZA_jwaFvbwgyQgnc2FFZJtSnCIjrjE6?hl=id",
-          password: "keperawatan",
-        },
-        {
-          nama: "Kebidanan",
-          drive: "https://drive.google.com/drive/folders/1q1lxts9SNGP5YPOK0YlT4itXZ_5jpEob?usp=sharing",
-          password: "kebidanan",
-        },
-      ],
-    },
-      {
-      nama: "Keuangan",
-      kategori: [
-         {
-          nama: "Billing",
-          drive: "https://drive.google.com/drive/folders/1h24Sm5BSx6OzrahFIhH963YR2CH4cW0N?usp=sharing",
-          password: "billing",
-        },
-        {
-          nama: "Kasir",
-          drive: "https://drive.google.com/drive/folders/1aplo37Qtuew0yGDab0coecrqT8DIgXpD?usp=drive_link",
-          password: "kasir",
-        },
-        {
-          nama: "Administrasi Keuangan",
-          drive: "https://drive.google.com/drive/folders/1B2NHcDnHwxyQmnuBPFkwVlzPSi0IZwA5?usp=sharing",
-          password: "administrasikeuangan",
-        },
-        {
-          nama: "Pajak",
-          drive: "https://drive.google.com/drive/folders/19OJv0BaGWQkywTIPVLB0BpswLiwNGyeP?usp=sharing",
-          password: "pajak",
-        },
-        {
-          nama: "Logistik",
-          drive: "https://drive.google.com/drive/folders/1ucNR7HxlqNxKH6tHbkJWFiD9-zuHo8p7?usp=sharing",
-          password: "logistik",
-        },
-      ],
-    },
-     {
-      nama: "Sarana dan Prasarana",
-      kategori: [
-         {
-          nama: "IT",
-          drive: "https://drive.google.com/drive/folders/1ogDRyMcgrxGwkdivgRexNdvjeRf4PyQr?usp=sharing",
-          password: "it",
-        },
-        {
-          nama: "IPSRS",
-          drive: "https://drive.google.com/drive/folders/1S44CnTeFuB7bTS-AmAHoylrmxfgZpTvb?usp=sharing",
-          password: "ipsrs",
-        },
-        {
-          nama: "CSSD",
-          drive: "https://drive.google.com/drive/folders/1txa4iz63umf2m9QZdK3I--2u7UNM9M9w?usp=sharing",
-          password: "cssd",
-        },
-        {
-          nama: "Linen dan Laundry",
-          drive: "https://drive.google.com/drive/folders/1PAALtZHt2eQ6zIWALj2G6XEenVnEIyJe?usp=sharing",
-          password: "linenlaundry",
-        },
-        {
-          nama: "Sanitasi Lingkungan",
-          drive: "https://drive.google.com/drive/folders/1yU9Fm1_pCIXMKlKmy3Bc4qOMzyLKvS8U?usp=sharing",
-          password: "sanitasilingkungan",
-        },
-        {
-          nama: "Unit Keamanan",
-          drive: "https://drive.google.com/drive/folders/1tl6l2eoPrGI5cSl1oJijjtbqDhm27FbT?usp=sharing",
-          password: "unitkeamanan",
-        },
-        {
-          nama: "Unit Kebersihan",
-          drive: "https://drive.google.com/drive/folders/1G89noQfIgJWlYT7a3TaEsHMJuABo3J5_?usp=sharing",
-          password: "unitkebersihan",
+          nama: "Jadwal Dinas",
+          drive: "https://drive.google.com/drive/folders/1InZCE4vb65Dp_-uzyaQBNGiq5sDBvutt?usp=drive_link",
+          password: "icu",
         },
       ],
     },
