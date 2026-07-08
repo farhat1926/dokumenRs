@@ -13,29 +13,90 @@ export default function Audit() {
       password: "ibs",
     },
     {
-      nama: "Instalasi Bedah Sentral (IBS)",
+      nama: "Audit IPSRS",
       drive:
         "https://drive.google.com/drive/folders/1WGZYCsoG6V-TgBJepqNiQRGM0w6er6NJ?hl=id",
       password: "ibs",
     },
     {
-      nama: "Instalasi Rawat Jalan (Poliklinik)",
+      nama: "Audit Pojok Dahak",
       drive:
         "https://drive.google.com/drive/folders/1j_ohVyuL9XkT371UEJRYVIQUMXvq9ag1?hl=id",
       password: "poliklinik",
     },
     {
-      nama: "Instalasi Rawat Inap",
+      nama: "Audit IGD",
       drive:
         "https://drive.google.com/drive/folders/1c09ZldtoEhiVH42BCLWmN2y3yyYWH4zt?hl=id",
       password: "rawatinap",
     },
     {
-      nama: "Instalasi Keperawatan Intensif (ICU)",
+      nama: "Audit LAB",
       drive:
         "https://drive.google.com/drive/folders/1hcFTBI62kupeTAodW1M3Vu1RdUfGm6ZS?hl=id",
       password: "icu",
     },
+    {
+      nama: "Audit Obsgyn",
+      drive:
+        "https://drive.google.com/drive/folders/1hcFTBI62kupeTAodW1M3Vu1RdUfGm6ZS?hl=id",
+      password: "icu",
+    },
+    {
+      nama: "Audit RJ",
+      drive:
+        "https://drive.google.com/drive/folders/1hcFTBI62kupeTAodW1M3Vu1RdUfGm6ZS?hl=id",
+      password: "icu",
+    },
+    {
+      nama: "Audit IBS",
+      drive:
+        "https://drive.google.com/drive/folders/1hcFTBI62kupeTAodW1M3Vu1RdUfGm6ZS?hl=id",
+      password: "icu",
+    },
+    {
+      nama: "Audit Farmasi",
+      drive:
+        "https://drive.google.com/drive/folders/1hcFTBI62kupeTAodW1M3Vu1RdUfGm6ZS?hl=id",
+      password: "icu",
+    },
+    {
+      nama: "Audit ICU",
+      drive:
+        "https://drive.google.com/drive/folders/1hcFTBI62kupeTAodW1M3Vu1RdUfGm6ZS?hl=id",
+      password: "icu",
+    },
+    {
+      nama: "Audit Perina",
+      drive:
+        "https://drive.google.com/drive/folders/1hcFTBI62kupeTAodW1M3Vu1RdUfGm6ZS?hl=id",
+      password: "icu",
+    },
+    {
+      nama: "Audit CSSD",
+      drive:
+        "https://drive.google.com/drive/folders/1hcFTBI62kupeTAodW1M3Vu1RdUfGm6ZS?hl=id",
+      password: "icu",
+    },
+    {
+      nama: "Audit Laundry",
+      drive:
+        "https://drive.google.com/drive/folders/1hcFTBI62kupeTAodW1M3Vu1RdUfGm6ZS?hl=id",
+      password: "icu",
+    },
+    {
+      nama: "Audit Isolasi",
+      drive:
+        "https://drive.google.com/drive/folders/1hcFTBI62kupeTAodW1M3Vu1RdUfGm6ZS?hl=id",
+      password: "icu",
+    },
+    {
+      nama: "KM Jenazah",
+      drive:
+        "https://drive.google.com/drive/folders/1hcFTBI62kupeTAodW1M3Vu1RdUfGm6ZS?hl=id",
+      password: "icu",
+    },
+    
   ];
 
   const openUnit = (unit) => {
