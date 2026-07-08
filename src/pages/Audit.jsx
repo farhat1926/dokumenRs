@@ -1,46 +1,62 @@
 import { useState } from "react";
 
-
 export default function Audit() {
   const [selectedUnit, setSelectedUnit] = useState(null);
-  const [selectedKategori, setSelectedKategori] = useState(null);
   const [password, setPassword] = useState("");
-  const [step, setStep] = useState(null); // "kategori" | "password"
+  const [showPassword, setShowPassword] = useState(false);
 
   const units = [
     {
       nama: "Audit Radiologi",
-      drive: "https://drive.google.com/drive/folders/1WGZYCsoG6V-TgBJepqNiQRGM0w6er6NJ?hl=id",
+      drive:
+        "https://drive.google.com/drive/folders/1WGZYCsoG6V-TgBJepqNiQRGM0w6er6NJ?hl=id",
       password: "ibs",
+    },
+    {
+      nama: "Instalasi Bedah Sentral (IBS)",
+      drive:
+        "https://drive.google.com/drive/folders/1WGZYCsoG6V-TgBJepqNiQRGM0w6er6NJ?hl=id",
+      password: "ibs",
+    },
+    {
+      nama: "Instalasi Rawat Jalan (Poliklinik)",
+      drive:
+        "https://drive.google.com/drive/folders/1j_ohVyuL9XkT371UEJRYVIQUMXvq9ag1?hl=id",
+      password: "poliklinik",
+    },
+    {
+      nama: "Instalasi Rawat Inap",
+      drive:
+        "https://drive.google.com/drive/folders/1c09ZldtoEhiVH42BCLWmN2y3yyYWH4zt?hl=id",
+      password: "rawatinap",
+    },
+    {
+      nama: "Instalasi Keperawatan Intensif (ICU)",
+      drive:
+        "https://drive.google.com/drive/folders/1hcFTBI62kupeTAodW1M3Vu1RdUfGm6ZS?hl=id",
+      password: "icu",
     },
   ];
 
   const openUnit = (unit) => {
-  setSelectedUnit(unit);
-  setPassword("");
-  setStep("password");
-};
-
-  const openKategori = (kat) => {
-    setSelectedKategori(kat);
-    setStep("password");
+    setSelectedUnit(unit);
     setPassword("");
+    setShowPassword(true);
   };
 
   const handleSubmit = () => {
-  if (password === selectedUnit.password) {
-    window.open(selectedUnit.drive, "_blank");
-    resetAll();
-  } else {
-    alert("Password salah!");
-  }
-};
+    if (password === selectedUnit.password) {
+      window.open(selectedUnit.drive, "_blank");
+      resetAll();
+    } else {
+      alert("Password salah!");
+    }
+  };
 
   const resetAll = () => {
     setSelectedUnit(null);
-    setSelectedKategori(null);
-    setStep(null);
     setPassword("");
+    setShowPassword(false);
   };
 
   return (
@@ -60,22 +76,20 @@ export default function Audit() {
             <h3 className="text-lg font-semibold text-blue-900">
               {unit.nama}
             </h3>
+
             <p className="text-sm text-gray-500 mt-2">
-              Klik untuk lihat dokumen
+              Klik untuk membuka dokumen
             </p>
           </button>
         ))}
       </div>
 
-      {/* MODAL PILIH KATEGORI */}
-
-
       {/* MODAL PASSWORD */}
-      {step === "password" && (
-        <div className="fixed inset-0 bg-black/40 flex items-center justify-center">
-          <div className="bg-white rounded-xl p-6 w-80 md:w-96">
+      {showPassword && (
+        <div className="fixed inset-0 bg-black/40 flex items-center justify-center z-50">
+          <div className="bg-white rounded-xl p-6 w-80 md:w-96 shadow-xl">
             <h3 className="text-xl font-bold mb-4">
-              {selectedKategori?.nama}
+              {selectedUnit?.nama}
             </h3>
 
             <input
@@ -83,20 +97,23 @@ export default function Audit() {
               placeholder="Masukkan password"
               value={password}
               onChange={(e) => setPassword(e.target.value)}
+              onKeyDown={(e) => {
+                if (e.key === "Enter") handleSubmit();
+              }}
               className="w-full border rounded-lg p-3 mb-4"
             />
 
             <div className="flex justify-end gap-3">
               <button
-                onClick={() => setStep("kategori")}
-                className="px-4 py-2 border rounded-lg"
+                onClick={resetAll}
+                className="px-4 py-2 border rounded-lg hover:bg-gray-100"
               >
-                Kembali
+                Batal
               </button>
 
               <button
                 onClick={handleSubmit}
-                className="px-4 py-2 bg-blue-900 text-white rounded-lg"
+                className="px-4 py-2 bg-blue-900 text-white rounded-lg hover:bg-blue-800"
               >
                 Masuk
               </button>
