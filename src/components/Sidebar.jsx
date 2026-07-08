@@ -13,6 +13,7 @@ export default function Sidebar({ open, setOpen }) {
     { name: "Keperawatan dan Kebidanan", path: "/Keperawatan" },
     { name: "Keuangan", path: "/Keuangan" },
     { name: "Sarana dan Prasarana", path: "/Sarana" },
+    { name: "Audit PPI", path: "/ppi" },
   ];
 
   return (
