@@ -31,21 +31,21 @@ export default function Keperawatan() {
           drive: "https://drive.google.com/drive/folders/1o5KhARODbxzjlLCZppUDj8fZ6Fyo1afR?usp=sharing",
           password: "keperawatan",
         },
-        {
-          nama: "Clinical Pathway",
-          drive: "https://drive.google.com/drive/folders/1fBaCXeNSqBpj1GGEt7LjG6CUHgvM092_?usp=sharing",
-          password: "keperawatan",
-        },
+        // {
+        //   nama: "Clinical Pathway",
+        //   drive: "https://drive.google.com/drive/folders/1fBaCXeNSqBpj1GGEt7LjG6CUHgvM092_?usp=sharing",
+        //   password: "keperawatan",
+        // },
         {
           nama: "Mutu Unit",
           drive: "https://drive.google.com/drive/folders/1AS-qQsARlhzbxgri5C5lpmKnvVAGLjRi?usp=sharing",
           password: "keperawatan",
         },
-        {
-          nama: "Panduan Praktek Klinis",
-          drive: "https://drive.google.com/drive/folders/1-hIPRX5gf5FGUzCrOb1WtK-0TRDlNsP-?usp=sharing",
-          password: "keperawatan",
-        },
+        // {
+        //   nama: "Panduan Praktek Klinis",
+        //   drive: "https://drive.google.com/drive/folders/1-hIPRX5gf5FGUzCrOb1WtK-0TRDlNsP-?usp=sharing",
+        //   password: "keperawatan",
+        // },
         {
           nama: "Program Kerja",
           drive: "https://drive.google.com/drive/folders/19HiVLN_6ENJ4ieGRRXhs3sOqzXPc_gcv?usp=sharing",
@@ -57,7 +57,7 @@ export default function Keperawatan() {
       nama: "Kebidanan",
       kategori: [
         {
-          nama: "SOP",
+          nama: "SPO",
           drive: "https://drive.google.com/drive/folders/1q1lxts9SNGP5YPOK0YlT4itXZ_5jpEob?usp=sharing",
           password: "kebidanan",
         },
@@ -76,21 +76,21 @@ export default function Keperawatan() {
           drive: "https://drive.google.com/drive/folders/1VkGS2nRi-eqAlqoajXCYEnSBRAQR-c3k?usp=sharing",
           password: "kebidanan",
         },
-        {
-          nama: "Clinical Pathway",
-          drive: "https://drive.google.com/drive/folders/15AFwH-NWZFRTOzQkIeTlJGceoS9hyFf_?usp=sharing",
-          password: "kebidanan",
-        },
+        // {
+        //   nama: "Clinical Pathway",
+        //   drive: "https://drive.google.com/drive/folders/15AFwH-NWZFRTOzQkIeTlJGceoS9hyFf_?usp=sharing",
+        //   password: "kebidanan",
+        // },
         {
           nama: "Mutu Unit",
           drive: "https://drive.google.com/drive/folders/1um_c_8w3EZrSfJGed2SwG2TFlqp76jqj?usp=sharing",
           password: "kebidanan",
         },
-        {
-          nama: "Panduan Pelayanan Klinis",
-          drive: "https://drive.google.com/drive/folders/1km8Hatu2Pj9Bc_Qz2CRGKc2jW-9ka2pa?usp=sharing",
-          password: "kebidanan",
-        },
+        // {
+        //   nama: "Panduan Pelayanan Klinis",
+        //   drive: "https://drive.google.com/drive/folders/1km8Hatu2Pj9Bc_Qz2CRGKc2jW-9ka2pa?usp=sharing",
+        //   password: "kebidanan",
+        // },
         {
           nama: "Program Kerja",
           drive: "https://drive.google.com/drive/folders/1iUOR8kzw5kx4XnggooHMGAxtEZDHuAV-?usp=sharing",

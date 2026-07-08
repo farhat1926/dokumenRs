@@ -131,9 +131,8 @@ export default function Dashboard() {
         <h3 className="font-semibold mb-2">Informasi</h3>
 
         <p className="text-gray-600 text-sm">
-          Sistem intranet ini digunakan untuk mengelola dokumen instalasi,
-          dokumen komite, jadwal dokter, dan informasi unit rumah sakit secara
-          terpusat.
+          Sistem intranet ini digunakan untuk mengelola dokumen instalasi dan
+          dokumen komite
         </p>
       </div>
     </div>

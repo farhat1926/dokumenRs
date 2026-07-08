@@ -51,6 +51,11 @@ export default function Penunjang() {
           drive: "https://drive.google.com/drive/folders/1D18cnAvVuZg1_eVQUDFB_5PBjH2UwS-P?usp=sharing",
           password: "laboratorium",
         },
+        {
+          nama: "Jadwal Dinas",
+          drive: "https://drive.google.com/drive/folders/1JtsWjG395cAkmDhK2FNwQzZEfcgJ44fj?usp=drive_link",
+          password: "laboratorium",
+        },
         
       ],
     },
@@ -58,7 +63,7 @@ export default function Penunjang() {
       nama: "Instalasi Radiologi",
       kategori: [
         {
-          nama: "SOP",
+          nama: "SPO",
           drive: "https://drive.google.com/drive/folders/1nxakt7awU0GrFnVPJguS-AvEn3DHHNvr?usp=sharing",
           password: "radiologi",
         },
@@ -95,6 +100,11 @@ export default function Penunjang() {
         {
           nama: "Struktur",
           drive: "https://drive.google.com/drive/folders/1e1rkiRaSONdd8uFADi_hCwASdVQjh2ad?usp=sharing",
+          password: "radiologi",
+        },
+        {
+          nama: "Jadwal Dinas",
+          drive: "https://drive.google.com/drive/folders/1DC45guIZVXTw3J83NxpEwZv23sIbMV-H?usp=drive_link",
           password: "radiologi",
         },
 
@@ -141,6 +151,11 @@ export default function Penunjang() {
         {
           nama: "SK Pegawai",
           drive: "https://drive.google.com/drive/folders/12Wgfgq0AQ8RFzv5TqmcOUziihCMzpVom?usp=sharing",
+          password: "farmasi",
+        },
+        {
+          nama: "Jadwal Dinas",
+          drive: "https://drive.google.com/drive/folders/1677v_RV8Ynk3pqOlrLc-PIdUpDWAOvzF?usp=drive_link",
           password: "farmasi",
         },
         
@@ -200,6 +215,11 @@ export default function Penunjang() {
           drive: "https://drive.google.com/drive/folders/1-ybYZgPus6uMbgTI0epXYLpPEyhakXuD?usp=sharing",
           password: "gizi",
         },
+        {
+          nama: "Jadwal Dinas",
+          drive: "https://drive.google.com/drive/folders/1YwqiDXrJkbfMi2yuS7QZUGOoVbwQu6C0?usp=sharing",
+          password: "gizi",
+        },
         
       ],
     },
@@ -207,7 +227,7 @@ export default function Penunjang() {
       nama: "Instalasi Rekam Medis",
       kategori: [
         {
-          nama: "SOP",
+          nama: "SPO",
           drive: "https://drive.google.com/drive/folders/1oWZDgNzNYgdn0yvCYHuIJbIbv0RP-pvr?usp=sharing",
           password: "rekammedis",
         },
@@ -251,13 +271,18 @@ export default function Penunjang() {
           drive: "https://drive.google.com/drive/folders/1a6fPPk6WLbB2WY1TxEHThar4AW6qa0rt?usp=sharing",
           password: "rekammedis",
         },
+        {
+          nama: "Jadwal Dinas",
+          drive: "https://drive.google.com/drive/folders/11eK3Nu1uJStyRbn4aq2PetB7_emP2BvX?usp=drive_link",
+          password: "rekammedis",
+        },
       ],
     },
      {
       nama: "Instalasi Rehabilitasi Medis",
       kategori: [
         {
-          nama: "SOP",
+          nama: "SPO",
           drive: "https://drive.google.com/drive/folders/1UYlMvzLNIUxOEOEJ6VhTVO0U74G0xIQc?usp=sharing",
           password: "rehabilitasimedis",
         },
@@ -286,6 +311,11 @@ export default function Penunjang() {
           drive: "https://drive.google.com/drive/folders/1Z4zwPfdiY2CRXN4qS6YeZtjtZCD2CKto?usp=sharing",
           password: "rehabilitasimedis",
         },
+        {
+          nama: "Jadwal Dinas",
+          drive: "https://drive.google.com/drive/folders/13ioufYmlr6AHF7fE3yxWVHE9BCsKpqRp?usp=sharing",
+          password: "rehabilitasimedis",
+        },
       ],
     },
       {
@@ -311,6 +341,7 @@ export default function Penunjang() {
           drive: "https://drive.google.com/drive/folders/1dptJQTROURchgnT2bKvikiEm63p4fSRh?usp=sharing",
           password: "kerohanian",
         },
+
       ],
     },
       {
@@ -369,6 +400,11 @@ export default function Penunjang() {
         {
           nama: "Uraian Tugas",
           drive: "https://drive.google.com/drive/folders/1m1zhyOEdKpDWIAD0S2m6NClq3oh1NfVS?usp=sharing",
+          password: "humasmarketing",
+        },
+        {
+          nama: "Jadwal Dinas",
+          drive: "https://drive.google.com/drive/folders/1cXlhObpMkSWxR4Nq1eDEzSOLKVfQkGEc?usp=sharing",
           password: "humasmarketing",
         },
         

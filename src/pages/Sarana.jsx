@@ -13,7 +13,7 @@ export default function Sarana() {
       kategori: [
         {
           nama: "SPO",
-          drive: "https://drive.google.com/drive/folders/1q1lxts9SNGP5YPOK0YlT4itXZ_5jpEob?usp=sharing",
+          drive: "https://drive.google.com/drive/folders/1irC9prEj5NTNZwEMCjOEadycf9dsZwQM?usp=sharing",
           password: "it",
         },
         {
@@ -29,6 +29,11 @@ export default function Sarana() {
         {
           nama: "Program Kerja",
           drive: "https://drive.google.com/drive/folders/1LroEbrQVUiOTpNPCI8pDCxdo_64BMNvC?usp=sharing",
+          password: "it",
+        },
+        {
+          nama: "Jadwal Dinas",
+          drive: "https://drive.google.com/drive/folders/1zLB_qfW0eI-ooCDtqUILxJlp9vbn0VkM?usp=drive_link",
           password: "it",
         },
       ],
@@ -102,6 +107,11 @@ export default function Sarana() {
           drive: "https://drive.google.com/drive/folders/1-KJeLAoxpUiQ1pm1sVwKKr_ZihEuEMuv?usp=sharing",
           password: "cssd",
         },
+        {
+          nama:"Jadwal Dinas",
+          drive: "https://drive.google.com/drive/folders/1t1rf6OuYdvDMdqXvSe9OfRiRiBU0rqJw?usp=sharing",
+          password: "cssd",
+        },
         
       ],
     },
@@ -136,6 +146,11 @@ export default function Sarana() {
         {
           nama: "Data SDM",
           drive: "https://drive.google.com/drive/folders/1VsWYaYlUb7nwDViE8cqoRzzbY8N7mR3B?usp=sharing",
+          password: "linenlaundry",
+        },
+        {
+          nama: "Jadwal Dinas",
+          drive: "https://drive.google.com/drive/folders/19lbAAYRYimEam_HBcTLeEDIpIk6dIcsj?usp=drive_link",
           password: "linenlaundry",
         },
         
@@ -190,6 +205,11 @@ export default function Sarana() {
           drive: "https://drive.google.com/drive/folders/1wBquF44nbV4sGuSGkBXTJbwbYf8FT4IF?usp=sharing",
           password: "unitkeamanan",
         },
+        {
+          nama: "Jadwal Dinas",
+          drive: "https://drive.google.com/drive/folders/1gGG1EVHqRMzHJFpGY9k7rbrB4Wl1T9I7?usp=sharing",
+          password: "unitkeamanan",
+        },
         
       ],
     },
@@ -216,7 +236,16 @@ export default function Sarana() {
           drive: "https://drive.google.com/drive/folders/1GgqWw3ySUATuUPidevt98zZYXqzXsDYj?usp=sharing",
           password: "unitkebersihan",
         },
-        
+        {
+          nama: "Program Kerja",
+          drive: "https://drive.google.com/drive/folders/1GgqWw3ySUATuUPidevt98zZYXqzXsDYj?usp=sharing",
+          password: "unitkebersihan",
+        },
+        {
+          nama: "Jadwal Dinas",
+          drive: "https://drive.google.com/drive/folders/1XzUu01dWgcsBOuZ1JvAAp6KM2LBqetK5?usp=drive_link",
+          password: "unitkebersihan",
+        },
       ],
     },
   ];

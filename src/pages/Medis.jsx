@@ -31,24 +31,29 @@ export default function Medis() {
           drive: "https://drive.google.com/drive/folders/1cf9mj4WM-PNMfdG2QQK-mMv6kclhmvt2?usp=sharing",
           password: "igd",
         },
-        {
-          nama: "Clinical Pathway",
-          drive: "https://drive.google.com/drive/folders/1dYkoTULt1aOYZhqF22mPCP_5OHeLhWcN?usp=sharing",
-          password: "igd",
-        },
+        // {
+        //   nama: "Clinical Pathway",
+        //   drive: "https://drive.google.com/drive/folders/1dYkoTULt1aOYZhqF22mPCP_5OHeLhWcN?usp=sharing",
+        //   password: "igd",
+        // },
         {
           nama: "Mutu Unit",
           drive: "https://drive.google.com/drive/folders/12VGlZ-nPqcZVHXpUKc1tFqkOrm5MGOot?usp=sharing",
           password: "igd",
         },
-        {
-          nama: "Panduan Praktek Klinis",
-          drive: "https://drive.google.com/drive/folders/1cf3_FFSLUIbTlZ9rXLUqVnB59LcFwMaq?usp=sharing",
-          password: "igd",
-        },
+        // {
+        //   nama: "Panduan Praktek Klinis",
+        //   drive: "https://drive.google.com/drive/folders/1cf3_FFSLUIbTlZ9rXLUqVnB59LcFwMaq?usp=sharing",
+        //   password: "igd",
+        // },
         {
           nama: "program Kerja",
           drive: "https://drive.google.com/drive/folders/1gj9k2yGsE38LXoI36KqzGllK04cIgvvD?usp=sharing",
+          password: "igd",
+        },
+        {
+          nama: "Jadwal Dinas",
+          drive: "https://drive.google.com/drive/folders/10p7vRw31qEBtY4c1pbAIKEW8vPawhr-g?usp=drive_link",
           password: "igd",
         },
       ],
@@ -76,21 +81,21 @@ export default function Medis() {
           drive: "https://drive.google.com/drive/folders/16h9eKzmOVXqZRG4VWs_JFs-G6xdyXTFJ?usp=sharing",
           password: "ibs",
         },
-         {
-          nama: "Clinical Pathway",
-          drive: "https://drive.google.com/drive/folders/14JPly9NOEv5qhUJXsG8C9G4hHL0xMAdm?usp=sharing",
-          password: "ibs",
-        },
+        //  {
+        //   nama: "Clinical Pathway",
+        //   drive: "https://drive.google.com/drive/folders/14JPly9NOEv5qhUJXsG8C9G4hHL0xMAdm?usp=sharing",
+        //   password: "ibs",
+        // },
          {
           nama: "Mutu Unit",
           drive: "https://drive.google.com/drive/folders/1D-O9i2U_T1HxT6635egnSwHC9d0gEdAP?usp=sharing",
           password: "ibs",
         },
-         {
-          nama: "Panduan Praktek Klinis",
-          drive: "https://drive.google.com/drive/folders/1484_i9l1LUqz9uIqnkOf7CkjpI64VD0n?usp=sharing",
-          password: "ibs",
-        },
+        //  {
+        //   nama: "Panduan Praktek Klinis",
+        //   drive: "https://drive.google.com/drive/folders/1484_i9l1LUqz9uIqnkOf7CkjpI64VD0n?usp=sharing",
+        //   password: "ibs",
+        // },
          {
           nama: "Program Kerja",
           drive: "https://drive.google.com/drive/folders/1421FZTT3BcstOX_ak9wyVDYUjpDwSqa4?usp=sharing",
@@ -99,6 +104,11 @@ export default function Medis() {
          {
           nama: "Struktur",
           drive: "https://drive.google.com/drive/folders/12rDLGgVfGt70-8poUXI7qmPHjYPS8Epm?usp=sharing",
+          password: "ibs",
+        },
+         {
+          nama: "Jadwal Dinas",
+          drive: "https://drive.google.com/drive/folders/169KqhtrOBgpq5tN7ypUhzJl9gfTOwuG8?usp=drive_link",
           password: "ibs",
         },
       ],
@@ -126,24 +136,29 @@ export default function Medis() {
           drive: "https://drive.google.com/drive/folders/1nFJV5F0cwAfiIFP_rp8e6P2koDA5qfNy?usp=sharing",
           password: "poliklinik",
         },
-        {
-          nama: "Clinical Pathway",
-          drive: "https://drive.google.com/drive/folders/1B5LOBwCzMfiPvmFc9FFJEwtCqctkvL9m?usp=sharing",
-          password: "poliklinik",
-        },
+        // {
+        //   nama: "Clinical Pathway",
+        //   drive: "https://drive.google.com/drive/folders/1B5LOBwCzMfiPvmFc9FFJEwtCqctkvL9m?usp=sharing",
+        //   password: "poliklinik",
+        // },
         {
           nama: "Mutu Unit",
           drive: "https://drive.google.com/drive/folders/14czUAFiR5vdWXBDL4qrSgQwSxWQ2KHzW?usp=sharing",
           password: "poliklinik",
         },
-        {
-          nama: "Panduan Praktek Klinis",
-          drive: "https://drive.google.com/drive/folders/1jzWROkGlMyyyHO7PjABEUYkW6BRe79GS?usp=sharing",
-          password: "poliklinik",
-        },
+        // {
+        //   nama: "Panduan Praktek Klinis",
+        //   drive: "https://drive.google.com/drive/folders/1jzWROkGlMyyyHO7PjABEUYkW6BRe79GS?usp=sharing",
+        //   password: "poliklinik",
+        // },
         {
           nama: "Program Kerja",
           drive: "https://drive.google.com/drive/folders/1L7Yw5p2pg2JT6E0rQ4yVGDR-R4Na3N12?usp=sharing",
+          password: "poliklinik",
+        },
+        {
+          nama: "Jadwal Dinas",
+          drive: "https://drive.google.com/drive/folders/17E7dWby6uQDNBfqOWWTF9TtGSLHj0Q_i?usp=sharing",
           password: "poliklinik",
         },
         {
@@ -157,7 +172,7 @@ export default function Medis() {
       nama: "Instalasi Rawat Inap",
       kategori: [
         {
-          nama: "SOP",
+          nama: "SPO",
           drive: "https://drive.google.com/drive/folders/1c09ZldtoEhiVH42BCLWmN2y3yyYWH4zt?hl=id",
           password: "rawatinap",
         },
@@ -166,21 +181,21 @@ export default function Medis() {
           drive: "https://drive.google.com/drive/folders/1R7LKyzhhCSA46Seb6b0B7wS9sw1u9lBd?usp=drive_link",
           password: "rawatinap",
         },
-        {
-          nama: "SPK & RKK",
-          drive: "https://drive.google.com/drive/folders/1VnQhMWBNeifFPlpRTR2cenpDY1wkFALJ?usp=sharing",
-          password: "rawatinap",
-        },
+        // {
+        //   nama: "SPK & RKK",
+        //   drive: "https://drive.google.com/drive/folders/1VnQhMWBNeifFPlpRTR2cenpDY1wkFALJ?usp=sharing",
+        //   password: "rawatinap",
+        // },
         {
           nama: "SIP & STR",
           drive: "https://drive.google.com/drive/folders/1ne9VR3W3gI51c5FEfN2d0dprbyiPOlzB?usp=sharing",
           password: "rawatinap",
         },
-        {
-          nama: "Clinical Pathway",
-          drive: "https://drive.google.com/drive/folders/13R3JWNvrGv0Vj77s3391FvnwuF80dss6?usp=sharing",
-          password: "rawatinap",
-        },
+        // {
+        //   nama: "Clinical Pathway",
+        //   drive: "https://drive.google.com/drive/folders/13R3JWNvrGv0Vj77s3391FvnwuF80dss6?usp=sharing",
+        //   password: "rawatinap",
+        // },
         {
           nama: "Mutu Unit",
           drive: "https://drive.google.com/drive/folders/1lF91iTzhnzdl8f0bh-TIWCssMJXvVnhk?usp=sharing",
@@ -199,6 +214,11 @@ export default function Medis() {
         {
           nama:"Struktur ",
           drive: "https://drive.google.com/drive/folders/1AJeAmr7cYQds6HyTXCb0Q2PbQTjUClAa?usp=sharing",
+          password: "rawatinap"
+        },
+        {
+          nama:"Jadwal Dinas ",
+          drive: "https://drive.google.com/drive/folders/1otSr4ERBn2bNHlOVe4aWBwEsL8nszwoG?usp=drive_link",
           password: "rawatinap"
         }
       ],
@@ -226,21 +246,21 @@ export default function Medis() {
           drive: "https://drive.google.com/drive/folders/11Pq1g8fxjwlFKC2EP9CZCYrz0qjRrtiW?usp=sharing",
           password: "icu",
         },
-        {
-          nama: "Clinical Pathway",
-          drive: "https://drive.google.com/drive/folders/1RneI4klpv7KqtQ9k1fxLmEeJ8KWkw5E4?usp=sharing",
-          password: "icu",
-        },
+        // {
+        //   nama: "Clinical Pathway",
+        //   drive: "https://drive.google.com/drive/folders/1RneI4klpv7KqtQ9k1fxLmEeJ8KWkw5E4?usp=sharing",
+        //   password: "icu",
+        // },
         {
           nama: "Mutu Unit",
           drive: "https://drive.google.com/drive/folders/1d_4Z-HDCleis29ragk2stMAnrS9nG5FH?usp=sharing",
           password: "icu",
         },
-        {
-          nama: "Panduan Praktek Klinis",
-          drive: "https://drive.google.com/drive/folders/1kSD0WAgu0FgoAocTv6CZoTMVkzpofWAm?usp=sharing",
-          password: "icu",
-        },
+        // {
+        //   nama: "Panduan Praktek Klinis",
+        //   drive: "https://drive.google.com/drive/folders/1kSD0WAgu0FgoAocTv6CZoTMVkzpofWAm?usp=sharing",
+        //   password: "icu",
+        // },
         {
           nama: "Program Kerja",
           drive: "https://drive.google.com/drive/folders/1EDkhh91PX0d6ZRru6agOrT8GOYft23-z?usp=sharing",
@@ -264,6 +284,11 @@ export default function Medis() {
         {
           nama: "Laporan Triwulan",
           drive: "https://drive.google.com/drive/folders/1rsCh_QhjrDny_kOPHA6OuQVlpqN8GrmZ?usp=sharing",
+          password: "icu",
+        },
+        {
+          nama: "Jadwal Dinas",
+          drive: "https://drive.google.com/drive/folders/1InZCE4vb65Dp_-uzyaQBNGiq5sDBvutt?usp=drive_link",
           password: "icu",
         },
       ],

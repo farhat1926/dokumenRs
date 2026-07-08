@@ -30,6 +30,16 @@ export default function SDM() {
           nama: "Program Kerja",
           drive: "https://drive.google.com/drive/folders/13NuyBmFFGY6JxVyPBVhCqm7ZFj91EsOO?usp=drive_link",
           password: "sekertaris",
+        },
+        {
+          nama: "Struktur",
+          drive: "https://drive.google.com/drive/folders/1ERvicDBj8dlu8JdzeVVglwyJn8Y7i6s5?usp=sharing",
+          password: "sekertaris",
+        },
+        {
+          nama: "Uraian Tugas",
+          drive: "https://drive.google.com/drive/folders/1fzZb2DqkUIohbWPLV7ladElcX36K3sPY?usp=sharing",
+          password: "sekertaris",
         }
       ],
     },
