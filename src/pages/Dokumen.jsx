@@ -1,5 +1,5 @@
 import { useState } from "react";
-// import { units } from "../data/units";
+import { units } from "../data/units";
 
 export default function Dokumen() {
   const [selectedUnit, setSelectedUnit] = useState(null);
@@ -585,7 +585,7 @@ export default function Dokumen() {
 
       {/* LIST UNIT */}
       <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
-        {/* {units.map((unit, index) => (
+        {units.map((unit, index) => (
           <button
             key={index}
             onClick={() => openUnit(unit)}
@@ -598,7 +598,7 @@ export default function Dokumen() {
               Klik untuk lihat dokumen
             </p>
           </button>
-        ))} */}
+        ))}
       </div>
 
       {/* MODAL PILIH KATEGORI */}
