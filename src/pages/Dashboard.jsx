@@ -6,7 +6,7 @@ import {
   LayoutDashboard,
 } from "lucide-react";
 
-// import { units } from "../data/units";
+import { units } from "../data/units";
 import { komites } from "../data/komites";
 
 export default function Dashboard() {
