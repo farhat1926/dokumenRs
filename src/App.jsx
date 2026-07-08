@@ -17,7 +17,7 @@ import SPO from "./pages/SPO";
 import Dashboard from "./pages/Dashboard";
 import Klinik from "./pages/Klinik";
 import Sidebar from "./components/Sidebar";
-import ppi from "./pages/ppi";
+import ppi from "./pages/Ppi";
 
 export default function App() {
   const [open, setOpen] = useState(false);
