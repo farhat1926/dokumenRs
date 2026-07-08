@@ -17,7 +17,7 @@ import SPO from "./pages/SPO";
 import Dashboard from "./pages/Dashboard";
 import Klinik from "./pages/Klinik";
 import Sidebar from "./components/Sidebar";
-import ppi from "./pages/Ppi";
+import Ppi from "./pages/Ppi";
 
 export default function App() {
   const [open, setOpen] = useState(false);
@@ -57,7 +57,7 @@ export default function App() {
               <Route path="/Mutu" element={<Mutu />} />
               <Route path="/Akreditasi" element={<Akreditasi />} />
               <Route path="/Pedoman" element={<Pedoman />} />
-              <Route path="/ppi" element={<ppi />} />
+              <Route path="/Ppi" element={<Ppi />} />
             </Routes>
           </main>
         </div>
